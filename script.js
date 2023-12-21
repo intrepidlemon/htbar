@@ -14,10 +14,11 @@ const loadYaml = async path => {
 // SPEAKERS
 
 const speaker = ({
+  sid,
   name,
   bio,
   img,
-}) => `<div class="speaker">
+}) => `<div class="speaker" id="speaker-${sid}">
   <img class="img" src="${img}" alt="${name}"/>
   <div class="name">${name}</div>
   <div class="bio">${bio}</div>
@@ -29,29 +30,34 @@ const renderSpeakers = speakers => {
     contentDiv.innerHTML = Object.values(speakers).map(speaker).join("")
 }
 
-const event = ({
+const eventSpeaker = ({
+  sid,
+  name,
+}) => `<a class="event-speaker" href="#speaker-${sid}">${name}</a>`
+
+const event = allSpeakers => ({
   name,
   datetime,
-  description,
+  location,
   speakers,
-}) => `<div class="event">
+}) => `<div class="event" id="event-${datetime}">
   <div class="name">${name}</div>
   <div class="datetime">${datetime}</div>
-  <div class="description">${description}</div>
-  <ul class="speakers">${speakers}</div>
+  <div class="location">${location}</div>
+  <div class="speakers">${speakers.map(s => eventSpeaker(allSpeakers[s])).join()}</div>
 </div>`
 
-const renderEvents = speakers => {
+const renderEvents = (speakers, events) => {
     // Use template literals to render JSON data
-    const contentDiv = document.getElementById('speakers')
-    contentDiv.innerHTML = Object.values(speakers).map(speaker).join("")
+    const contentDiv = document.getElementById('events')
+    contentDiv.innerHTML = events.map(event(speakers)).join("")
 }
 
 const render = async () => {
   const speakers = await loadYaml("speakers.yaml")
   const events = await loadYaml("events.yaml")
-  console.log(speakers)
-  //const events = loadYaml("events.yaml")
+  console.log(speakers, events)
+  renderEvents(speakers, events)
   renderSpeakers(speakers)
 }
 
