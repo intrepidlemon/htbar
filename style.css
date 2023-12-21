@@ -1,0 +1,32 @@
+body * {
+  line-height: 1.5;
+}
+
+h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.subtitle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.speaker {
+  margin: 1rem;
+}
+
+.speaker .img {
+  max-width: 20rem;
+  max-height: 20rem;
+}
+
+.speaker .name {
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.speaker .bio {
+}
