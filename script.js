@@ -25,7 +25,6 @@ const speaker = ({
 </div>`
 
 const renderSpeakers = speakers => {
-    // Use template literals to render JSON data
     const contentDiv = document.getElementById('speakers')
     contentDiv.innerHTML = Object.values(speakers).map(speaker).join("")
 }
@@ -48,9 +47,35 @@ const event = allSpeakers => ({
 </div>`
 
 const renderEvents = (speakers, events) => {
-    // Use template literals to render JSON data
     const contentDiv = document.getElementById('events')
     contentDiv.innerHTML = events.map(event(speakers)).join("")
+}
+
+
+const getNowHour () => {
+  const now = new Date()
+  // Round down to the nearest hour
+  now.setMinutes(0, 0, 0) // Sets minutes, seconds, and milliseconds to 0
+  // Format the timestamp
+  const year = now.getFullYear()
+  const month = String(now.getMonth() + 1).padStart(2, '0') // Months are 0-indexed
+  const day = String(now.getDate()).padStart(2, '0')
+  const hour = String(now.getHours()).padStart(2, '0')
+
+  const timestamp = `${year}-${month}-${day}-${hour}:00`
+  return timestamp
+}
+
+const scrollToHour = () => {
+  const timestamp = getNowHour()
+  const eventDiv = document.getElementById(`event-${timestamp}`)
+  if (eventDiv) {
+      eventDiv.scrollIntoView({ behavior: 'smooth' })
+  }
+}
+const renderTestScroll = () => {
+    const contentDiv = document.getElementById('test-event')
+    contentDiv.innerHTML = `<div id="event-${getNowHour()}"></div>`
 }
 
 const render = async () => {
@@ -59,6 +84,9 @@ const render = async () => {
   console.log(speakers, events)
   renderEvents(speakers, events)
   renderSpeakers(speakers)
+  renderTestScroll()
+  scrollToHour()
 }
+
 
 render()
