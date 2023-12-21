@@ -51,8 +51,7 @@ const renderEvents = (speakers, events) => {
     contentDiv.innerHTML = events.map(event(speakers)).join("")
 }
 
-
-const getNowHour () => {
+const getNowHour = () => {
   const now = new Date()
   // Round down to the nearest hour
   now.setMinutes(0, 0, 0) // Sets minutes, seconds, and milliseconds to 0
