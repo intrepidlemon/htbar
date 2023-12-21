@@ -1,15 +1,15 @@
 const loadYaml = async path => {
-    try {
-        // Fetch the YAML file
-        const response = await fetch(path)
-        const yamlText = await response.text()
+  try {
+    // Fetch the YAML file
+    const response = await fetch(path)
+    const yamlText = await response.text()
 
-        // Convert YAML to JSON
-        const jsonData = jsyaml.load(yamlText)
-        return jsonData
-    } catch (error) {
-        console.error('Error loading or parsing bio YAML:', error)
-    }
+    // Convert YAML to JSON
+    const jsonData = jsyaml.load(yamlText)
+    return jsonData
+  } catch (error) {
+    console.error('Error loading or parsing bio YAML:', error)
+  }
 }
 // SPEAKERS
 
@@ -25,8 +25,8 @@ const speaker = ({
 </div>`
 
 const renderSpeakers = speakers => {
-    const contentDiv = document.getElementById('speakers')
-    contentDiv.innerHTML = Object.values(speakers).map(speaker).join("")
+  const contentDiv = document.getElementById('speakers')
+  contentDiv.innerHTML = Object.values(speakers).map(speaker).join("")
 }
 
 const eventSpeaker = ({
@@ -47,8 +47,8 @@ const event = allSpeakers => ({
 </div>`
 
 const renderEvents = (speakers, events) => {
-    const contentDiv = document.getElementById('events')
-    contentDiv.innerHTML = events.map(event(speakers)).join("")
+  const contentDiv = document.getElementById('events')
+  contentDiv.innerHTML = events.map(event(speakers)).join("")
 }
 
 const getNowHour = () => {
@@ -69,12 +69,12 @@ const scrollToHour = () => {
   const timestamp = getNowHour()
   const eventDiv = document.getElementById(`event-${timestamp}`)
   if (eventDiv) {
-      eventDiv.scrollIntoView({ behavior: 'smooth' })
+    eventDiv.scrollIntoView({ behavior: 'smooth' })
   }
 }
 const renderTestScroll = () => {
-    const contentDiv = document.getElementById('test-event')
-    contentDiv.innerHTML = `<div id="event-${getNowHour()}"></div>`
+  const contentDiv = document.getElementById('test-event')
+  contentDiv.innerHTML = `<div id="event-${getNowHour()}"></div>`
 }
 
 const render = async () => {
@@ -86,6 +86,5 @@ const render = async () => {
   renderTestScroll()
   scrollToHour()
 }
-
 
 render()
