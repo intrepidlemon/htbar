@@ -29,4 +29,5 @@ h1 {
 }
 
 .speaker .bio {
+  white-space: pre-wrap;
 }
