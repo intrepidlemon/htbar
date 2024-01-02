@@ -1,15 +1,15 @@
 - name: Transforming Practice
-  datetime: 2024-01-29-07:30
+  datetime: 2024-01-29T07:30:00-05:00
   location: Donner-Grice Lecture Hall
   speakers:
     - schmitt
 - name: Leading change projects in healthcare
-  datetime: 2024-01-29-08:15
+  datetime: 2024-01-29T08:15:00-05:00
   location: Donner-Grice Lecture Hall
   speakers:
     - lexa
 - name: Transforming Practice
-  datetime: 2024-01-29-09:00
+  datetime: 2024-01-29T09:00:00-05:00
   location: Donner-Grice Lecture Hall
   speakers:
     - schmitt

@@ -1,4 +1,5 @@
 body * {
+  width: 100%;
   line-height: 1.5;
 }
 
@@ -14,20 +15,56 @@ h1 {
   justify-content: center;
 }
 
+#events {
+  & > * + * {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid #ccc;
+  }
+}
+
+.event {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+
+  .name {
+    font-size: 1.5rem;
+    font-style: bold;
+  }
+
+  .details {
+    width: 100%;
+    display: flex;
+    fiex-direction: row;
+    justify-content: space-between;
+
+    .datetime {
+      text-align: right;
+    }
+  }
+}
+
+
 .speaker {
   margin: 1rem;
+
+  .img {
+    max-width: 20rem;
+    max-height: 20rem;
+    object-fit: cover;
+  }
+
+  .name {
+    font-weight: 700;
+    margin-bottom: 1rem;
+  }
+
+  .bio {
+    white-space: pre-wrap;
+  }
+
 }
 
-.speaker .img {
-  max-width: 20rem;
-  max-height: 20rem;
-}
 
-.speaker .name {
-  font-weight: 700;
-  margin-bottom: 1rem;
-}
 
-.speaker .bio {
-  white-space: pre-wrap;
-}
