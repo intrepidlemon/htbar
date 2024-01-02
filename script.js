@@ -53,11 +53,11 @@ const event = allSpeakers => ({
 }) => {
   const date = new Date(datetime)
   return `<div class="event" id="event-${getHourTimestamp(date)}">
-    <div class="name">${name}</div>
     <div class="details">
-      <div class="location">${location}</div>
+      <div class="name">${name}</div>
       <div class="datetime">${new Intl.DateTimeFormat("en", {dateStyle: "medium", timeStyle: "short"}).format(date)}</div>
     </div>
+    <div class="location">${location}</div>
     <div class="speakers">${speakers.map(s => eventSpeaker(allSpeakers[s])).join()}</div>
   </div>`
 }
@@ -85,7 +85,7 @@ const render = async () => {
   console.log(speakers, events)
   renderEvents(speakers, events)
   renderSpeakers(speakers)
-  renderTestScroll()
+  //renderTestScroll()
   scrollToHour()
 }
 
