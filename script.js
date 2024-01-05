@@ -86,8 +86,8 @@ const speaker = ({
   bio,
   img,
 }) => `<div class="speaker" id="speaker-${sid}">
-  <img class="img" src="${img}" alt="${name}"/>
   <div class="name">${name}</div>
+  <img class="img" src="${img}" alt="${name}"/>
   <div class="bio">${bio}</div>
 </div>`
 
