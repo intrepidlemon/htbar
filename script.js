@@ -27,10 +27,41 @@ const eventLocation = location =>
     ? `<div class="location">${location}</div>`
     : ``
 
+const eventSpeakers = (allSpeakers, speakers) => speakers
+  ? `<div class="speakers">
+      ${speakers.map(s => eventSpeaker(allSpeakers[s] || {})).join(', ')}
+     </div>`
+  : ``
+
+const eventName = name => `<div class="name">${name}</div>`
+
+
+const eventDetails = (name, datetime) => `
+    <div class="details ${name === "break" ? "break" : ""}">
+      ${eventName(name)}
+      ${eventDatetime(datetime)}
+    </div>
+`
+
+const eventDatetime = datetime => {
+  const date = new Date(datetime)
+  return `<div class="datetime">
+    ${new Intl.DateTimeFormat(
+      "en",
+      {
+        dateStyle: "medium",
+        timeStyle: "short",
+      }
+    ).format(date)}
+  </div>`
+}
+
 const eventSpeaker = ({
   sid,
   name,
-}) => `<a class="event-speaker" href="#speaker-${sid}">${name}</a>`
+}) => sid
+  ? `<a class="event-speaker" href="#speaker-${sid}">${name}</a>`
+  : ``
 
 const event = allSpeakers => ({
   name,
@@ -38,14 +69,10 @@ const event = allSpeakers => ({
   location,
   speakers,
 }) => {
-  const date = new Date(datetime)
-  return `<div class="event" id="event-${getHourTimestamp(date)}">
-    <div class="details">
-      <div class="name">${name}</div>
-      <div class="datetime">${new Intl.DateTimeFormat("en", {dateStyle: "medium", timeStyle: "short"}).format(date)}</div>
-    </div>
+  return `<div class="event" id="event-${getHourTimestamp(datetime)}">
+    ${eventDetails(name, datetime)}
     ${eventLocation(location)}
-    <div class="speakers">${speakers.map(s => eventSpeaker(allSpeakers[s] || {})).join()}</div>
+    ${eventSpeakers(allSpeakers, speakers)}
   </div>`
 }
 
@@ -109,7 +136,7 @@ const render = async () => {
   console.log(speakers, events)
   renderEvents(speakers, events)
   renderSpeakers(speakers)
-  //renderTestScroll()
+  renderTestScroll()
   scrollToHour()
 }
 

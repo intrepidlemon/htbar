@@ -33,6 +33,13 @@ h1 {
     font-style: bold;
   }
 
+  .break {
+    opacity: 0.3;
+    .name {
+      font-size: 1rem;
+    }
+  }
+
   .details {
     width: 100%;
     display: flex;
