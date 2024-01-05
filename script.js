@@ -1,3 +1,7 @@
+// ****
+// LOAD
+// ****
+
 const loadTime = new Date()
 
 const loadYaml = async path => {
@@ -13,37 +17,20 @@ const loadYaml = async path => {
     console.error('Error loading or parsing bio YAML:', error)
   }
 }
-// SPEAKERS
 
-const speaker = ({
-  sid,
-  name,
-  bio,
-  img,
-}) => `<div class="speaker" id="speaker-${sid}">
-  <img class="img" src="${img}" alt="${name}"/>
-  <div class="name">${name}</div>
-  <div class="bio">${bio}</div>
-</div>`
+// ******
+// EVENTS
+// ******
 
-const renderSpeakers = speakers => {
-  const contentDiv = document.getElementById('speakers')
-  contentDiv.innerHTML = Object.values(speakers).map(speaker).join("")
-}
+const eventLocation = location =>
+  location
+    ? `<div class="location">${location}</div>`
+    : ``
 
 const eventSpeaker = ({
   sid,
   name,
 }) => `<a class="event-speaker" href="#speaker-${sid}">${name}</a>`
-
-const getHourTimestamp = (date=loadTime) => {
-  date = new Date(date)
-  // Round down to the nearest hour
-  date.setMinutes(0, 0, 0) // Sets minutes, seconds, and milliseconds to 0
-  const timestamp = `${date.getTime()}`
-  return timestamp
-}
-
 
 const event = allSpeakers => ({
   name,
@@ -57,14 +44,36 @@ const event = allSpeakers => ({
       <div class="name">${name}</div>
       <div class="datetime">${new Intl.DateTimeFormat("en", {dateStyle: "medium", timeStyle: "short"}).format(date)}</div>
     </div>
-    <div class="location">${location}</div>
-    <div class="speakers">${speakers.map(s => eventSpeaker(allSpeakers[s])).join()}</div>
+    ${eventLocation(location)}
+    <div class="speakers">${speakers.map(s => eventSpeaker(allSpeakers[s] || {})).join()}</div>
   </div>`
 }
 
-const renderEvents = (speakers, events) => {
-  const contentDiv = document.getElementById('events')
-  contentDiv.innerHTML = events.map(event(speakers)).join("")
+// ********
+// SPEAKERS
+// ********
+
+const speaker = ({
+  sid,
+  name,
+  bio,
+  img,
+}) => `<div class="speaker" id="speaker-${sid}">
+  <img class="img" src="${img}" alt="${name}"/>
+  <div class="name">${name}</div>
+  <div class="bio">${bio}</div>
+</div>`
+
+// ****
+// TIME
+// ****
+
+const getHourTimestamp = (date=loadTime) => {
+  date = new Date(date)
+  // Round down to the nearest hour
+  date.setMinutes(0, 0, 0) // Sets minutes, seconds, and milliseconds to 0
+  const timestamp = `${date.getTime()}`
+  return timestamp
 }
 
 const scrollToHour = () => {
@@ -74,6 +83,21 @@ const scrollToHour = () => {
     eventDiv.scrollIntoView({ behavior: 'smooth' })
   }
 }
+
+// ******
+// RENDER
+// ******
+
+const renderSpeakers = speakers => {
+  const contentDiv = document.getElementById('speakers')
+  contentDiv.innerHTML = Object.values(speakers).map(speaker).join("")
+}
+
+const renderEvents = (speakers, events) => {
+  const contentDiv = document.getElementById('events')
+  contentDiv.innerHTML = events.map(event(speakers)).join("")
+}
+
 const renderTestScroll = () => {
   const contentDiv = document.getElementById('scroll-test-event')
   contentDiv.innerHTML = `<div id="event-${getHourTimestamp()}"></div>`
