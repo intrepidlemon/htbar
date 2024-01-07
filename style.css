@@ -1,3 +1,8 @@
+body {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
 body * {
   width: 100%;
   line-height: 1.5;
@@ -5,8 +10,18 @@ body * {
 
 h1 {
   display: flex;
+  font-size: 5rem;
   align-items: center;
   justify-content: center;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color:crimson
+}
+
+h2 {
+  font-size: 4rem;
+  font-family: 'Arial Narrow Bold', sans-serif;
+  font-weight: 700;
+  margin-bottom: 1rem;
 }
 
 .subtitle {
@@ -32,6 +47,7 @@ h1 {
 
   .name {
     font-size: 1.5rem;
+    font-family: 'Courier New';
     font-style: bold;
   }
 
@@ -45,7 +61,8 @@ h1 {
   .details {
     width: 100%;
     display: flex;
-    fiex-direction: row;
+    font-family: 'Courier New', Courier, monospace;
+    flex-direction: row;
     justify-content: space-between;
 
     .datetime {
