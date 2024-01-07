@@ -21,9 +21,9 @@
     speakers:
       - edmonds
   - name: break
-    datetime: 2024-01-29T10:00:00-05:00
-  - name: Academic panel
     datetime: 2024-01-29T10:15:00-05:00
+  - name: Academic panel
+    datetime: 2024-01-29T10:30:00-05:00
     location: PCAM conference room
     speakers:
       - kim
@@ -32,6 +32,36 @@
       - mankoff
       - cook
       - lazor
+  - name: Lunch
+    datetime: 2024-01-29T12:00:00-05:00
+    location: PCAM conference room
+  - name: Promotion & Career Path
+    datetime: 2024-01-29T13:00:00-05:00
+    location: PCAM conference room
+    speakers:
+      - nadolski
+  - name: break
+    datetime: 2024-01-29T14:00:00-05:00
+  - name: How to give a Powerpoint Presentation
+    datetime: 2024-01-29T14:15:00-05:00
+    location: PCAM conference room
+    speakers:
+      - simpson
+  - name: break
+    datetime: 2024-01-29T15:00:00-05:00
+  - name: Goals and Objectives
+    datetime: 2024-01-29T15:15:00-05:00
+    location: PCAM conference room
+    speakers:
+      - scanlon
+  - name: break
+    datetime: 2024-01-29T15:45:00-05:00
+  - name: Residency Tracks
+    datetime: 2024-01-29T16:00:00-05:00
+    location: PCAM conference room
+  - name: Residency Track Happy Hour
+    datetime: 2024-01-29T16:45:00-05:00
+    location: PCAM conference room
 - day: Tuesday
   events:
   - name: Transforming Practice
