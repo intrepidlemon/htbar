@@ -64,35 +64,28 @@
     location: PCAM conference room
 - day: Tuesday
   events:
-  - name: Transforming Practice
-    datetime: 2024-01-29T07:30:00-05:00
+  - name: To be determined...
+    datetime: 2024-01-30T07:30:00-05:00
     location: Donner-Grice Lecture Hall
     speakers:
-      - schnall
-  - name: Leading change projects in healthcare
-    datetime: 2024-01-29T08:15:00-05:00
+      - wjkim
+  - name: MARIA-1 - Microsoft Research
+    datetime: 2024-01-30T08:15:00-05:00
     location: Donner-Grice Lecture Hall
     speakers:
-      - lexa
+      - hyland
   - name: break
-    datetime: 2024-01-29T09:00:00-05:00
-  - name: HTBAR orientation
-    datetime: 2024-01-29T09:15:00-05:00
-    location: PCAM conference room
-  - name: Academic tracks
-    datetime: 2024-01-29T09:30:00-05:00
+    datetime: 2024-01-30T09:00:00-05:00
+  - name: Career Path
+    datetime: 2024-01-30T09:15:00-05:00
     location: PCAM conference room
     speakers:
-      - edmonds
+      - wjkim
   - name: break
-    datetime: 2024-01-29T10:00:00-05:00
-  - name: Academic panel
-    datetime: 2024-01-29T10:15:00-05:00
+    datetime: 2024-01-30T10:30:00-05:00
+  - name: Shark Tank
+    datetime: 2024-01-29T10:45:00-05:00
     location: PCAM conference room
     speakers:
-      - kim
-      - schmitt
-      - sellmyer
-      - mankoff
-      - cook
-      - lazor
+      - wjkim
+      - jha
