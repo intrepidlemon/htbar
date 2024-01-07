@@ -24,6 +24,12 @@ h2 {
   margin-bottom: 1rem;
 }
 
+h3 {
+  margin-top: 3rem;
+  margin-bottom: 0rem;
+  font-size: 2rem;
+}
+
 .subtitle {
   display: flex;
   align-items: center;
@@ -32,7 +38,11 @@ h2 {
 
 /* EVENTS */
 
-#events {
+
+
+.day {
+  border-bottom: black 2px solid;
+  margin-bottom: 10px;
   & > * + * {
     margin-top: 1rem;
     padding-top: 1rem;
@@ -104,6 +114,14 @@ h2 {
   .bio {
     white-space: pre-wrap;
     width: 100%;
+  }
+
+  &:hover {
+    border-color: #aaaaaa;
+  }
+
+  &:active {
+    border-color: black;
   }
 
 }

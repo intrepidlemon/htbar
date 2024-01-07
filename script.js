@@ -76,6 +76,19 @@ const event = allSpeakers => ({
   </div>`
 }
 
+const dayEvents = allSpeakers => ({day, events}) => {
+  return `<div class="day" id="day-${day}"> <h3>${day}</h3>
+    ${events.map(event => {
+      const { name, datetime, location, speakers } = event;
+      return `<div class="event" id="event-${getHourTimestamp(datetime)}">
+        ${eventDetails(name, datetime)}
+        ${eventLocation(location)}
+        ${eventSpeakers(allSpeakers, speakers)}
+      </div>`
+    }).join('')}
+  </div>`
+}
+
 // ********
 // SPEAKERS
 // ********
@@ -120,9 +133,9 @@ const renderSpeakers = speakers => {
   contentDiv.innerHTML = Object.values(speakers).map(speaker).join("")
 }
 
-const renderEvents = (speakers, events) => {
+const renderEvents = (speakers, agenda) => {
   const contentDiv = document.getElementById('events')
-  contentDiv.innerHTML = events.map(event(speakers)).join("")
+  contentDiv.innerHTML = agenda.map(dayEvents(speakers)).join("")
 }
 
 const renderTestScroll = () => {

@@ -1,32 +1,68 @@
-- name: Transforming Practice
-  datetime: 2024-01-29T07:30:00-05:00
-  location: Donner-Grice Lecture Hall
-  speakers:
-    - schnall
-- name: Leading change projects in healthcare
-  datetime: 2024-01-29T08:15:00-05:00
-  location: Donner-Grice Lecture Hall
-  speakers:
-    - lexa
-- name: break
-  datetime: 2024-01-29T09:00:00-05:00
-- name: HTBAR orientation
-  datetime: 2024-01-29T09:15:00-05:00
-  location: PCAM conference room
-- name: Academic tracks
-  datetime: 2024-01-29T09:30:00-05:00
-  location: PCAM conference room
-  speakers:
-    - edmonds
-- name: break
-  datetime: 2024-01-29T10:00:00-05:00
-- name: Academic panel
-  datetime: 2024-01-29T10:15:00-05:00
-  location: PCAM conference room
-  speakers:
-    - kim
-    - schmitt
-    - sellmyer
-    - mankoff
-    - cook
-    - lazor
+- day: Monday
+  events:
+  - name: Transforming Practice
+    datetime: 2024-01-29T07:30:00-05:00
+    location: Donner-Grice Lecture Hall
+    speakers:
+      - schnall
+  - name: Leading change projects in healthcare
+    datetime: 2024-01-29T08:15:00-05:00
+    location: Donner-Grice Lecture Hall
+    speakers:
+      - lexa
+  - name: break
+    datetime: 2024-01-29T09:00:00-05:00
+  - name: HTBAR orientation
+    datetime: 2024-01-29T09:15:00-05:00
+    location: PCAM conference room
+  - name: Academic tracks
+    datetime: 2024-01-29T09:30:00-05:00
+    location: PCAM conference room
+    speakers:
+      - edmonds
+  - name: break
+    datetime: 2024-01-29T10:00:00-05:00
+  - name: Academic panel
+    datetime: 2024-01-29T10:15:00-05:00
+    location: PCAM conference room
+    speakers:
+      - kim
+      - schmitt
+      - sellmyer
+      - mankoff
+      - cook
+      - lazor
+- day: Tuesday
+  events:
+  - name: Transforming Practice
+    datetime: 2024-01-29T07:30:00-05:00
+    location: Donner-Grice Lecture Hall
+    speakers:
+      - schnall
+  - name: Leading change projects in healthcare
+    datetime: 2024-01-29T08:15:00-05:00
+    location: Donner-Grice Lecture Hall
+    speakers:
+      - lexa
+  - name: break
+    datetime: 2024-01-29T09:00:00-05:00
+  - name: HTBAR orientation
+    datetime: 2024-01-29T09:15:00-05:00
+    location: PCAM conference room
+  - name: Academic tracks
+    datetime: 2024-01-29T09:30:00-05:00
+    location: PCAM conference room
+    speakers:
+      - edmonds
+  - name: break
+    datetime: 2024-01-29T10:00:00-05:00
+  - name: Academic panel
+    datetime: 2024-01-29T10:15:00-05:00
+    location: PCAM conference room
+    speakers:
+      - kim
+      - schmitt
+      - sellmyer
+      - mankoff
+      - cook
+      - lazor
