@@ -77,7 +77,9 @@ const event = allSpeakers => ({
 }
 
 const dayEvents = allSpeakers => ({day, events}) => {
-  return `<div class="day" id="day-${day}"> <h3>${day}</h3>
+  return `
+  <h3>${day}</h3>
+  <div class="day" id="day-${day}">
     ${events.map(event => {
       const { name, datetime, location, speakers } = event;
       return `<div class="event" id="event-${getHourTimestamp(datetime)}">

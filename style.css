@@ -10,7 +10,7 @@ body * {
 
 h1 {
   display: flex;
-  font-size: 5rem;
+  font-size: 3rem;
   align-items: center;
   justify-content: center;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -18,16 +18,14 @@ h1 {
 }
 
 h2 {
-  font-size: 4rem;
+  font-size: 2rem;
   font-family: 'Arial Narrow Bold', sans-serif;
   font-weight: 700;
   margin-bottom: 1rem;
 }
 
 h3 {
-  margin-top: 3rem;
-  margin-bottom: 0rem;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 .subtitle {
@@ -39,13 +37,9 @@ h3 {
 /* EVENTS */
 
 
-
 .day {
-  border-bottom: black 2px solid;
-  margin-bottom: 10px;
+  border: 1px solid #ccc;
   & > * + * {
-    margin-top: 1rem;
-    padding-top: 1rem;
     border-top: 1px solid #ccc;
   }
 }
@@ -54,10 +48,11 @@ h3 {
   width: 100%;
   display: flex;
   flex-direction: column;
+  padding: 1rem;
+  box-sizing: border-box;
 
   .name {
     font-size: 1.5rem;
-    font-family: 'Courier New';
     font-style: bold;
   }
 
@@ -71,7 +66,6 @@ h3 {
   .details {
     width: 100%;
     display: flex;
-    font-family: 'Courier New', Courier, monospace;
     flex-direction: row;
     justify-content: space-between;
 
@@ -85,8 +79,9 @@ h3 {
 /* SPEAKERS */
 
 #speakers {
+  margin-top: 1rem;
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
   grid-template-rows: masonry;
   gap: 1rem;
 }
