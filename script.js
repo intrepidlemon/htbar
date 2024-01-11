@@ -151,7 +151,7 @@ const render = async () => {
   console.log(speakers, events)
   renderEvents(speakers, events)
   renderSpeakers(speakers)
-  renderTestScroll()
+  //renderTestScroll()
   scrollToHour()
 }
 
