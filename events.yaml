@@ -1,4 +1,4 @@
-- day: Monday
+- day: Monday, Jan 29, 2024
   events:
   - name: Transforming Practice
     datetime: 2024-01-29T07:30:00-05:00
@@ -64,7 +64,7 @@
     datetime: 2024-01-29T16:45:00-05:00
     location: PCAM conference room
 
-- day: Tuesday
+- day: Tuesday, Jan 30, 2024
   events:
   - name: TBD
     datetime: 2024-01-30T07:30:00-05:00
@@ -116,7 +116,7 @@
     datetime: 2024-01-30T15:15:00-05:00
     location: PCAM conference room
 
-- day: Wednesday
+- day: Wednesday, Jan 31, 2024
   events:
   - name: TBD
     datetime: 2024-01-31T07:30:00-05:00
@@ -162,7 +162,7 @@
     datetime: 2024-02-01T18:00:00-05:00
     location: Five Iron Golf - Rittenhouse
 
-- day: Thursday
+- day: Thursday, Feb 01, 2024
   events:
   - name: R1 case presentations
     datetime: 2024-02-01T07:30:00-05:00
@@ -220,7 +220,7 @@
     speakers:
       - dickleson
 
-- day: Friday
+- day: Friday, Feb 02, 2024
   events:
   - name: R1 case presentations
     datetime: 2024-02-02T07:30:00-05:00

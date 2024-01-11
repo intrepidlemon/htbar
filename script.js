@@ -36,11 +36,12 @@ const eventSpeakers = (allSpeakers, speakers) => speakers
 const eventName = name => `<div class="name">${name}</div>`
 
 
-const eventDetails = (name, datetime) => `
-    <div class="details ${name === "break" ? "break" : ""}">
-      ${eventName(name)}
-      ${eventDatetime(datetime)}
-    </div>
+const eventDetails = (allSpeakers, name, location, speakers) => `
+  <div class="details ">
+    ${eventName(name)}
+    ${eventLocation(location)}
+    ${eventSpeakers(allSpeakers, speakers)}
+  </div>
 `
 
 const eventDatetime = datetime => {
@@ -49,7 +50,7 @@ const eventDatetime = datetime => {
     ${new Intl.DateTimeFormat(
       "en",
       {
-        dateStyle: "medium",
+        //dateStyle: "medium",
         timeStyle: "short",
       }
     ).format(date)}
@@ -69,10 +70,9 @@ const event = allSpeakers => ({
   location,
   speakers,
 }) => {
-  return `<div class="event" id="event-${getHourTimestamp(datetime)}">
-    ${eventDetails(name, datetime)}
-    ${eventLocation(location)}
-    ${eventSpeakers(allSpeakers, speakers)}
+  return `<div class="event ${name === "break" ? "break" : ""}" id="event-${getHourTimestamp(datetime)}">
+    ${eventDatetime(datetime)}
+    ${eventDetails(allSpeakers, name, location, speakers)}
   </div>`
 }
 
@@ -80,14 +80,7 @@ const dayEvents = allSpeakers => ({day, events}) => {
   return `
   <h3>${day}</h3>
   <div class="day" id="day-${day}">
-    ${events.map(event => {
-      const { name, datetime, location, speakers } = event;
-      return `<div class="event" id="event-${getHourTimestamp(datetime)}">
-        ${eventDetails(name, datetime)}
-        ${eventLocation(location)}
-        ${eventSpeakers(allSpeakers, speakers)}
-      </div>`
-    }).join('')}
+    ${events.map(e => event(allSpeakers)(e)).join('')}
   </div>`
 }
 

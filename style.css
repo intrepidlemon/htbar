@@ -38,41 +38,45 @@ h3 {
 
 
 .day {
-  border: 1px solid #ccc;
-  & > * + * {
-    border-top: 1px solid #ccc;
+  & > *+* {
+    margin-top: 1rem;
   }
 }
 
 .event {
   width: 100%;
   display: flex;
-  flex-direction: column;
-  padding: 1rem;
+  flex-direction: row;
   box-sizing: border-box;
+  align-items: center;
 
-  .name {
-    font-size: 1.5rem;
-    font-style: bold;
-  }
-
-  .break {
+  &.break {
     opacity: 0.3;
     .name {
       font-size: 1rem;
     }
   }
 
+  .datetime {
+    text-align: right;
+    width: 10rem;
+    padding: 1rem;
+  }
+
   .details {
     width: 100%;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-between;
+    border-left: 1px solid #ccc;
+    padding: 1rem;
 
-    .datetime {
-      text-align: right;
+    .name {
+      font-size: 1.5rem;
+      font-style: bold;
     }
-  }
+
+   }
 }
 
 
