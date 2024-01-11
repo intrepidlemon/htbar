@@ -121,3 +121,12 @@ h3 {
   }
 
 }
+
+@media print {
+  .speaker {
+    -webkit-column-break-inside: avoid;
+    page-break-inside: avoid;
+    break-inside: avoid;
+    page-break-before: always;
+  }
+}
