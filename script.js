@@ -95,9 +95,7 @@ const speaker = ({
   img,
 }) => `<div class="speaker" id="speaker-${sid}">
   <div class="name">${name}</div>
-  <div class="bio">
-    <img class="img" src="${img}" alt="${name}"/> ${bio}
-  </div>
+  <div class="bio"> <img class="img" src="${img}" alt="${name}"/> ${bio} </div>
 </div>`
 
 // ****
