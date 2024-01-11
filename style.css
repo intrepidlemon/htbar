@@ -94,7 +94,6 @@ h3 {
 
 .speaker {
   box-sizing: border-box;
-  border: 1px solid #cbcbcb;
   padding: 1rem;
   display: flex;
   flex-direction: column;
@@ -102,33 +101,24 @@ h3 {
 
   .img {
     display: inline-block;
-    float: left;
+    float: right;
+    margin-left: 1rem;
     max-width: 20rem;
     max-height: 20rem;
     object-fit: cover;
     object-position: top;
-    margin-right: 1rem;
   }
 
   .name {
     font-size: 1.5rem;
     font-weight: 700;
-    margin-bottom: 0;
+    margin-bottom: 1rem;
   }
 
   .bio {
     white-space: pre-wrap;
     width: 100%;
   }
-
-  &:hover {
-    border-color: #aaaaaa;
-  }
-
-  &:active {
-    border-color: black;
-  }
-
 }
 
 @media print {
