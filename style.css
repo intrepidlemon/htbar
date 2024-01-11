@@ -99,16 +99,19 @@ h3 {
   align-items: center;
 
   .img {
+    display: inline-block;
+    float: left;
     max-width: 20rem;
     max-height: 20rem;
     object-fit: cover;
     object-position: top;
+    margin-right: 1rem;
   }
 
   .name {
     font-size: 1.5rem;
     font-weight: 700;
-    margin-bottom: 1rem;
+    margin-bottom: 0;
   }
 
   .bio {
