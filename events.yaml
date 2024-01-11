@@ -253,7 +253,7 @@
   - name: Lunch
     datetime: 2024-02-02T12:00:00-05:00
     location: PCAM conference room
-  - name: Strategies for Success: altruism, failure, and being a good mentee
+  - name: "Strategies for Success: altruism, failure, and being a good mentee"
     datetime: 2024-02-02T13:00:00-05:00
     location: PCAM conference room
     speakers:
