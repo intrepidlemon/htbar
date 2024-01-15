@@ -18,9 +18,9 @@ hyland:
   sid: hyland
   name: Stephanie Hyland, PhD
   bio: |
-    Stephanie Hyland, PhD, is Senior Researcher in the Healthcare Intelligence group at Microsoft Research in Cambridge. Her research interests are in modelling medical time series (especially complex physiological ones) for real-world problems, and making machine learning useful for healthcare. This means working closely with clinical collaborators to identify important problems where machine learning can support human experts, as well as thinking carefully on how we evaluate and validate our models. As part of this, she is also interested in privacy-preserving machine learning, because responsible use of machine learning on healthcare data requires respecting the sensitive nature of that data.
+    Stephanie Hyland, PhD is a Principal Researcher in Microsoft Research Health Futures. She works on multimodal machine learning and its use for healthcare, with a special focus on radiology as part of Project MAIRA (opens in new tab). Her research to date also includes the modelling of medical time series of the kind found in electronic health records, especially physiological time series from  ICU patients. Above all she is interested in making machine learning practically useful; as such she enjoys working closely with clinical collaborators to identify problems where machine learning can support human experts, as well as thinking carefully on how to evaluate and validate models.
 
-    Prior to joining the healthcare intelligence team at MSR Cambridge, she completed her PhD at Cornell University/Weill Cornell Medicine/Sloan Kettering Cancer Center in Computational Biology and Medicine, and studied Theoretical Physics and Applied Mathematics at Trinity College Dublin (BA Mod.) and Cambridge University (Part III; MASt).
+    Prior to joining Microsoft, she completed my PhD at Cornell University/Weill Cornell Medicine/Sloan Kettering Cancer Center in Computational Biology and Medicine, and studied Theoretical Physics and Applied Mathematics at Trinity College Dublin (BA Mod.) and Cambridge University (Part III; MASt).
   img: img/hyland.jpg
 schmitt:
   sid: schmitt
@@ -144,7 +144,7 @@ scanlon:
     Dr. Scanlon’s research interests center on radiology education and new ways to reach Gen Z and Millennials.
     She is passionate about organizational and political activism:
     • She is past president of the Philadelphia Roentgen Ray society and Pennsylvania Radiological Society. She was the honored radiologist by both societies. Current faculty liaison to PRS RFS section
-    • She is President -Elect of APDR (Association of Program Directors in Radiology), APDR Councilor to ACR and is currently chairing a national task force on how to ensure that resident training meets the procedural needs of the populations we serve.
+    • She is President-Elect of APDR (Association of Program Directors in Radiology), APDR Councilor to ACR and is currently chairing a national task force on how to ensure that resident training meets the procedural needs of the populations we serve.
     • She is currently a board member and Treasurer for ACR’s RadPac.
     • She was named 2020 ACR Advocate of the Year.
   img: img/scanlon.jpg
@@ -158,7 +158,7 @@ jha:
     Harry is a British-trained doctor and Penn-trained radiologist. He's a proli!ic writer whose work has appeared in multiple outlets such as NEJM, JAMA, Stat News and Medscape. He's a global radiology enthusiast who led a team to deliver an AI- enabled x-ray to Everest Base Camp. He works with institutions in Nepal, India, and Nigeria.
   img: img/jha.jpg
 rosin:
-  sid: rosin 
+  sid: rosin
   name: Roy Rosin, MBA
   mba: Stanford
   bio: |
