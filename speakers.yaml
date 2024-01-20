@@ -52,11 +52,6 @@ campbell:
   name: Frank Campbell, MS
   img: img/campbell.jpg
   bio: Frank is the Medical Education Liaison Librarian. In this role, he works to increase engagement between the Library and the M.D. program of Penn’s Perelman School of Medicine. Frank earned a BA in Biology, and an MS in Library and Information Science from the University of Missouri-Columbia. Before coming to Penn, he was a medical reference librarian at the Virginia Commonwealth University/Medical College of Virginia.
-clegg:
-  sid: clegg
-  name: Jeffrey Clegg, MD
-  img: img/clegg.jpg
-  bio: Jeff is one of our Neuroradiology fellows, slaying call with our fearless R2s. He completed medical school at University of Rochester and residency in radiology at University of Minnesota before coming east. In residency, he mastered the art of Sectra and has been gracious enough to share his wisdom with those he is on call with, helping to make everyone’s life a little better.
 tischfield:
   sid: tischfield
   name: David Tischfield, MD, PhD
