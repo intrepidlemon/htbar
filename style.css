@@ -129,3 +129,7 @@ h3 {
     page-break-before: always;
   }
 }
+
+#organizers {
+   text-align: center;
+}
