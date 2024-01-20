@@ -155,6 +155,7 @@
     location: PCAM conference room
     speakers:
       - zafar
+      - pogozelski
   - name: Call draft
     datetime: 2024-02-01T16:30:00-05:00
     location: PCAM conference room
