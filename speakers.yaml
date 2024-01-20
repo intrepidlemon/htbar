@@ -208,3 +208,39 @@ pogozelski:
      I am a New Jersey native. I love the east coast living with beaches and mountains.
      My Penn journey started in 2014 as the HUP MRI manager and transitioned in 2022 to HUP Assistant Director of Radiology in the Patient Safety and Quality division. I have been in radiology for over 25 years to understand all facets of radiology- from the technical aspect to management through this quality leadership position. I have worked in non-profit, for-profit, union, nonunion, acute care, and community-based care. I have spent a lot of that time in directly serving care to patients in CT & MRI. Now in my current position- continuing to care for the caregivers on a higher level- including clinical teams, managers, and radiologists.
      My goal is strengthening our HRO culture with constant quality monitoring and providing the resources to improving our workflow within each radiology division. I collaborate with lean six sigma style task forces that keep moving toward common patient care goals. My position is to raise awareness in healthcare process improvement initiatives that helps remind us of the significant impact we provide on patient care and treatment.
+cook:
+  sid: cook
+  name: Tessa Cook, MD, PhD, CIIP, FSIIM, FCPP
+  img: img/cook.jpg
+  bio: |
+    Dr. Cook is an Associate Professor of Radiology at the Perelman School of Medicine at the University of Pennsylvania in Philadelphia, and Vice Chair of Practice Transformation in the Department of Radiology. She is an active member of multiple radiology societies, including the RSNA, ACR, SIIM, and AUR. She is the director of the Imaging Informatics Fellowship and Modality Chief of 3-D and Advanced Imaging. Dr. Cook is the Chair of the Society for Imaging Informatics in Medicine (SIIM). In 2020, she was inducted into the College of SIIM Fellows and received SIIM’s Dr. Ruth Dayhoff Award for the Advancement of Women in Medical Imaging Informatics. She pursues innovative methods to enhance care delivery in radiology and improve radiologists' workflow.
+steyer:
+  sid: steyer
+  name: Benjamin Steyer,
+  img: img/steyer.jpeg
+  bio: |
+    Benjamin Steyer, MD, PhD is a diagnostic radiology resident at Penn Medicine. His doctoral research involved the development of genotype specific gene therapies for inherited retinal disease. His professional interests include application of technologies to facilitate development of precision medicine, and understanding the effect of regulatory policies on the affordability and incentive for innovation of novel therapeutic and diagnostic modalities. He received his MD and PhD in Molecular Biology at the University of Wisconsin, Madison.
+doshi:
+  sid: doshi
+  name: Tulsee Doshi, M.S.
+  img: img/doshi.jpg
+  bio: |
+    Tulsee Doshi is the Head of Product for Google’s Responsible AI & Human Centered Technology organization. In this role, she leads the development of Google-wide improvements, resources, and best practices for developing more inclusive & ethical products. Tulsee has been recognized as one of Forbes’ 30 under 30 leaders and one of the top women in AI Ethics. She also serves as an AI Ethics advisor to growing Insurtech, Lemonade. She holds a BS in Symbolic Systems and an MS in Computer Science from Stanford University.
+witschey:
+  sid: witschey
+  name: Walter Witschey, PhD
+  img: img/witschey.png
+  bio: |
+    Dr. Walter Witschey is an Associate Professor of Radiology and Director of the Advanced Cardiovascular Imaging Lab at the University of Pennsylvania. His research focus is theoretical and applied magnetic resonance imaging (MRI), machine learning and cardiovascular imaging. The Witschey lab uses a multidisciplinary and translational approach, integrating techniques from electrical engineering, computer science, biology and bioengineering. The group has contributed to MR physics and pulse sequence development (T1ρ and quantitative susceptibility mapping / QSM) and MR spectroscopy (1H downfield MRS), non-proton imaging and spectroscopy (23Na and 31P), machine learning and computer vision, and closed-loop systems for medical imaging. The Witschey lab has is basic science research in myocardial ischemia and coronary artery disease, reperfusion injury, non-ischemic heart disease, congenital heart disease and metabolic imaging of the heart. We develop machine learning algorithms for cardiac magnetic resonance, chest and hepatic and visceral computed tomography and MRI.
+obrien:
+  sid: obrien
+  name: Sophie O'Brien, MD
+  img: img/obrien.png
+  bio: |
+    Sophia R. O'Brien, MD is an Assistant Professor of Clinical Radiology in the Penn Nuclear Medicine and Breast Imaging Divisions.  She is passionate about medical education, specifically radiology residency education, and is currently pursuing her Masters of Medical Education at Penn.  She is a co-founder and co-faculty leader of TEACH, the Director of Resident Education in the Nuclear Medicine division, and a rising Associate Program Director (come July 2023!).  She is also co-founder and one of the faculty leaders of the Penn Women in Radiology group.  Besides medical education, her clinical and research interests include radionuclide therapy, F18-Fluoroestradiol imaging, clinical trials, mentorship, and women in medicine.
+elahi:
+  sid: elahi
+  name: Fatima Elahi, DO, MHA
+  img: img/elahi.png
+  bio: |
+    Fatima Elahi, DO, is a fourth-year diagnostic radiology resident who was awarded the RADPAC Achievement Award this year. Dr. Elahi serves as the Vice Chair/Chair-elect for the American College of Radiology (ACR) Resident and Fellow Section (ACR RFS), and as a board member on RADPAC, the College’s nonpartisan political action committee, and American College of Radiology Association (ACRA) Radiology Advocacy Network (RAN). After Dr. Elahi completes her residency, she intends to pursue additional training in breast imaging and continue her work in the educational, advocacy and equity aspects of radiology. She aims to promote patient and professional advocacy.
