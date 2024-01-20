@@ -113,7 +113,7 @@ schnall:
   residency: UPenn
   bio: |
     Mitchell D. Schnall, MD, PhD, is the Eugene P. Pendergrass Professor of Radiology and Chair of the Radiology Department at the Perelman School of Medicine, University of Pennsylvania. Dr. Schnall is an international leader in translational biomedical and imaging research, working throughout his career across the interface between basic imaging science and clinical medicine to ensure e#ective integration of radiology research with other medical disciplines. His work has led to fundamental changes in the imaging approaches to breast and prostate cancer, and he continues to have a signi!icant in!luence on emerging imaging technologies, including those in optical imaging. Dr. Schnall has played a critical role in e#orts to organize cancer clinical and translational imaging research in the US. He has been the principal investigator of numerous team science initiatives. In 2008 he assumed the role of ACRIN Chair. Among the important trials ACRIN completed under his leadership is the landmark National Lung Cancer Screening trial that demonstrated the ability of low done lung cancer screening to reduce lung cancer mortality by 20% in high risk patients. Dr. Schnall was one of the architects of the merger of ECOG and ACRIN to form the new ECOG-ACRIN Cancer Research Group, which he now co-Chairs. Dr. Schnall has been elected as a member of the American Society for Clinical Investigation, the Association of American Physicians and the Institute of Medicine of the National Academy of Sciences (now the National Academy of Medicine)
-  img: img/schnall.jpg
+  img: img/schnall.png
 edmonds:
   sid: edmonds
   name: Christine Edmonds, MD
@@ -122,7 +122,7 @@ edmonds:
   fellowship: Breast Imaging, Memorial Sloan-Kettering Cancer Center
   bio: |
     Christine is an Assistant Professor of Radiology at Penn and one of our fabulous breast radiologists. When not zooming around the reading room moving effortlessly from biopsy to screener to diag, she is crushing it in the research world with projects spanning from racial disparities in breast cancer to molecular imaging. She is also a Mom of two!
-  img: img/edmonds.jpg
+  img: img/edmonds.png
 simpson:
   sid: simpson
   name: Scott Simpson, DO, MS, MSEd
@@ -132,7 +132,7 @@ simpson:
   fellowship: Cardiothoracic Imaging, UPenn
   bio: |
     Dr. Simpson graduated from Penn's cardiothoracic imaging fellowship in 2014, spent 3 years at Temple University Hospital and then returned to Penn in 2017. Since he has returned to Penn his leadership efforts have mostly on education. He serves as the APD for the radiology residency, Director of Radiology Medical Student Education for PSOM, and Co-Founder and Director of the Penn Radiology TEACH track. Dr. Simpson recently completed a Masters in Medical Education at Penn's GSE. He is married to Michelle Hershman and the father of a baby boy!
-  img: img/simpson.jpg
+  img: img/simpson.jpeg
 scanlon:
   sid: scanlon
   name: Mary Scanlon, MD, FACR
@@ -156,14 +156,14 @@ jha:
   fellowship: Cardiovascular Imaging, UPenn
   bio: |
     Harry is a British-trained doctor and Penn-trained radiologist. He's a proli!ic writer whose work has appeared in multiple outlets such as NEJM, JAMA, Stat News and Medscape. He's a global radiology enthusiast who led a team to deliver an AI- enabled x-ray to Everest Base Camp. He works with institutions in Nepal, India, and Nigeria.
-  img: img/jha.jpg
+  img: img/jha.jpeg
 rosin:
   sid: rosin 
   name: Roy Rosin, MBA
   mba: Stanford
   bio: |
     Roy Rosin is the chief innovation officer at Penn Medicine, where he works with thought leaders from across the health system to turn ideas into measurable impact in the areas of health outcomes, patient experience, and new revenue streams. Previously, Roy served as the !irst vice president of innovation for Intuit, a leading software company best known for Quicken, QuickBooks and TurboTax. In this role, he led changes in how Intuit manages new business creation, allowing small teams pursuing new opportunities to get to market and experiment rapidly. Roy also built innovation programs that dramatically increased entrepreneurial activity, with annual new releases increasing from five per year to 30, while time to market decreased from one year to a few months. After five years of Intuit’s new approach to growth, the company had delivered shareholder returns of three times Google and 33 times the S&P 500. Roy received his MBA from the Stanford Graduate School of Business and graduated with honors from Harvard College. Outside of work he serves as a board member and angel investor for venture-funded startups, an advisor to Fortune 100 companies and avid spectator at his kids’ track and cross country events.
-  img: img/rosin.jpg
+  img: img/rosin.png
 zafar:
   sid: zafar
   name: Hanna Zafar, MD, MHS
