@@ -1,4 +1,10 @@
 ---
+wjkim:
+  sid: wjkim
+  name: Woojin Kim, MD
+  img: img/wjkim.jpg
+  bio: |
+    Woojin Kim (김우진) is currently the Chief Medical Information Officer of Rad AI. He was the Co-founder and Chief Medical Officer of Equium Intelligence, Inc., which was acquired by Rad AI in 2022. Dr. Kim was the Chief Medical Information Officer at Nuance Communications from 2016 to 2019. He was a Co-founder and Director of Innovation at Montage Healthcare Solutions, acquired by Nuance in 2016. He served as Interim Chief of the Division of Musculoskeletal Imaging, Chief of Radiography Modality, Director of the Center for Translational Imaging Informatics, Associate Director of Imaging Informatics, and Assistant Professor of Radiology at the Hospital of the University of Pennsylvania. He completed his radiology residency and MSK fellowship training at the Hospital of the University of Pennsylvania. Also, he completed an Imaging Informatics fellowship at the University of Maryland/Baltimore VA Medical Center. Dr. Kim has been an active member of imaging informatics within various societies, including ACR, SIIM, and RSNA, focusing on data mining, analytics, and machine learning.
 gade:
   sid: gade
   name: Terence P. Gade, MD, PhD
@@ -232,7 +238,7 @@ obrien:
   name: Sophie O'Brien, MD
   img: img/obrien.png
   bio: |
-    Sophia R. O'Brien, MD is an Assistant Professor of Clinical Radiology in the Penn Nuclear Medicine and Breast Imaging Divisions.  She is passionate about medical education, specifically radiology residency education, and is currently pursuing her Masters of Medical Education at Penn.  She is a co-founder and co-faculty leader of TEACH, the Director of Resident Education in the Nuclear Medicine division, and a rising Associate Program Director (come July 2023!).  She is also co-founder and one of the faculty leaders of the Penn Women in Radiology group.  Besides medical education, her clinical and research interests include radionuclide therapy, F18-Fluoroestradiol imaging, clinical trials, mentorship, and women in medicine.
+    Sophia R. O'Brien, MD is an Assistant Professor of Clinical Radiology in the Penn Nuclear Medicine and Breast Imaging Divisions.  She is passionate about medical education, specifically radiology residency education, and is currently pursuing her Masters of Medical Education at Penn.  She is a co-founder and co-faculty leader of TEACH, the Director of Resident Education in the Nuclear Medicine division, and an Associate Program Director.  She is also co-founder and one of the faculty leaders of the Penn Women in Radiology group.  Besides medical education, her clinical and research interests include radionuclide therapy, F18-Fluoroestradiol imaging, clinical trials, mentorship, and women in medicine.
 elahi:
   sid: elahi
   name: Fatima Elahi, DO, MHA
