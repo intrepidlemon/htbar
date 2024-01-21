@@ -43,11 +43,6 @@ depietro:
   name: Dan DePietro, MD
   img: img/depietro.png
   bio: Dr. DePietro completed his undergraduate education in bioengineering at Lehigh University and received his medical degree from the Perelman School of Medicine at the University of Pennsylvania. During his residency in interventional radiology at Penn he demonstrated a passion for both clinical research and medical education, participating in Penn'S TEACH track and continuing on to become both a Cope-Cook research fellow in IR as well as a Measey medical education fellow. He is looking forward to staying on as a CE track assistant professor in the IR division and continuing to pursue both clinical and med ed research.
-halverson:
-  sid: halverson
-  name: Mark Halverson, MD, FRCPC
-  img: img/halverson.jpg
-  bio: Mark Halverson, MD, FRCPC received his medical degree from the UC Davis School of Medicine. He then traveled to Utah to complete his residency in Diagnostic Radiology at the University of Utah before ending up in Pennsylvania for fellowship in Pediatric Radiology and Pediatric Neuroradiology at the Children’s Hospital of Philadelphia (CHOP). He decided to stay on at faculty at CHOP and is currently an attending pediatric neuroradiologist and also serves as the pediatric neuroradiology fellowship director. He is currently enrolled in the Penn Medical Education Master’s Program and has won several teaching awards for his work in medical education.
 kim:
   sid: kim
   name: Phillip Kim, MD, MPH
@@ -217,7 +212,7 @@ cook:
     Dr. Cook is an Associate Professor of Radiology at the Perelman School of Medicine at the University of Pennsylvania in Philadelphia, and Vice Chair of Practice Transformation in the Department of Radiology. She is an active member of multiple radiology societies, including the RSNA, ACR, SIIM, and AUR. She is the director of the Imaging Informatics Fellowship and Modality Chief of 3-D and Advanced Imaging. Dr. Cook is the Chair of the Society for Imaging Informatics in Medicine (SIIM). In 2020, she was inducted into the College of SIIM Fellows and received SIIM’s Dr. Ruth Dayhoff Award for the Advancement of Women in Medical Imaging Informatics. She pursues innovative methods to enhance care delivery in radiology and improve radiologists' workflow.
 steyer:
   sid: steyer
-  name: Benjamin Steyer,
+  name: Benjamin Steyer, MD, PhD
   img: img/steyer.jpeg
   bio: |
     Benjamin Steyer, MD, PhD is a diagnostic radiology resident at Penn Medicine. His doctoral research involved the development of genotype specific gene therapies for inherited retinal disease. His professional interests include application of technologies to facilitate development of precision medicine, and understanding the effect of regulatory policies on the affordability and incentive for innovation of novel therapeutic and diagnostic modalities. He received his MD and PhD in Molecular Biology at the University of Wisconsin, Madison.
