@@ -156,6 +156,9 @@
     speakers:
       - zafar
       - pogozelski
+  - name: Introduction to ED Readiness
+    datetime: 2024-02-01T16:15:00-05:00
+    location: PCAM conference room
   - name: Call draft
     datetime: 2024-02-01T16:30:00-05:00
     location: PCAM conference room
