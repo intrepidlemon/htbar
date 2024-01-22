@@ -238,14 +238,14 @@
       - mankoff
   - name: break
     datetime: 2024-02-02T10:00:00-05:00
-  - name: Crazy Cool Science: The PIGI Lab - current and future directions
+  - name: The PIGI Lab - current and future directions
     datetime: 2024-02-02T10:15:00-05:00
     location: PCAM conference room
     speakers:
       - gade
   - name: break
     datetime: 2024-02-02T11:00:00-05:00
-  - name: Crazy Cool Science: Applying imaging in the age of accelerated immunotherapy development
+  - name: Applying imaging in the age of accelerated immunotherapy development
     datetime: 2024-02-02T11:15:00-05:00
     location: PCAM conference room
     speakers:
