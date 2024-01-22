@@ -105,15 +105,18 @@
       - hwang
   - name: break
     datetime: 2024-01-30T14:00:00-05:00
-  - name: TBD
+  - name: Fairness in AI
     datetime: 2024-01-30T14:15:00-05:00
     location: PCAM conference room
     speakers:
-      - tulsee
+      - doshi
   - name: break
     datetime: 2024-01-30T15:00:00-05:00
   - name: Try the AI
     datetime: 2024-01-30T15:15:00-05:00
+    location: PCAM conference room
+  - name: Powerpoint Workshop
+    datetime: 2024-01-30T16:15:00-05:00
     location: PCAM conference room
 
 - day: Wednesday, Jan 31, 2024
@@ -150,8 +153,14 @@
     location: PCAM conference room
     speakers:
       - pantel
-  - name: Quality Improvement and Negotiations
+  - name: Quality & Radiology Residency: sweeter together - Part 1. Negotation
     datetime: 2024-01-31T13:15:00-05:00
+    location: PCAM conference room
+    speakers:
+      - zafar
+      - pogozelski
+  - name: Quality & Radiology Residency: sweeter together - Part 2. Quality Improvement
+    datetime: 2024-01-31T14:15:00-05:00
     location: PCAM conference room
     speakers:
       - zafar
