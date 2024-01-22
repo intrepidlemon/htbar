@@ -118,6 +118,8 @@
   - name: Powerpoint Workshop
     datetime: 2024-01-30T16:15:00-05:00
     location: PCAM conference room
+    speakers:
+      - simpson
 
 - day: Wednesday, Jan 31, 2024
   events:
@@ -158,7 +160,6 @@
     location: PCAM conference room
     speakers:
       - zafar
-      - pogozelski
   - name: Quality & Radiology Residency | sweeter together
     datetime: 2024-01-31T14:15:00-05:00
     location: PCAM conference room
