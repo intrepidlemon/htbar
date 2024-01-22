@@ -98,14 +98,14 @@
     location: Donner Grice Lecture Hall
     speakers:
       - wjkim
-  - name: High-frequency Ultrasound
+  - name: High-frequency Ultrasound for Neonatal Microvasculature
     datetime: 2024-01-30T13:15:00-05:00
     location: PCAM conference room
     speakers:
       - hwang
   - name: break
     datetime: 2024-01-30T14:00:00-05:00
-  - name: Perspectives from Industry (Google) | Fairness in AI
+  - name: Perspectives from Industry (Google) | Fairness and AI
     datetime: 2024-01-30T14:15:00-05:00
     location: PCAM conference room
     speakers:
@@ -153,13 +153,13 @@
     location: PCAM conference room
     speakers:
       - pantel
-  - name: Quality & Radiology Residency | sweeter together - Part 1. Negotation
+  - name: Negotation Workshop
     datetime: 2024-01-31T13:15:00-05:00
     location: PCAM conference room
     speakers:
       - zafar
       - pogozelski
-  - name: Quality & Radiology Residency | sweeter together - Part 2. Quality Improvement
+  - name: Quality & Radiology Residency | sweeter together
     datetime: 2024-01-31T14:15:00-05:00
     location: PCAM conference room
     speakers:
