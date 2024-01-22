@@ -71,7 +71,7 @@
     location: Donner-Grice Lecture Hall
     speakers:
       - wjkim
-  - name: MARIA-1 - Microsoft Research
+  - name: Perspectives from Industry (Microsoft Research) | MARIA-1 
     datetime: 2024-01-30T08:15:00-05:00
     location: Donner-Grice Lecture Hall
     speakers:
@@ -93,7 +93,7 @@
       - jha
   - name: break
     datetime: 2024-01-30T11:45:00-05:00
-  - name: Lunch - Grand Rounds - Navigating the New Frontier: How Generative AI is Reshaping Radiology
+  - name: (Grand Rounds) Navigating the New Frontier | How Generative AI is Reshaping Radiology 
     datetime: 2024-01-30T12:00:00-05:00
     location: Donner Grice Lecture Hall
     speakers:
@@ -105,14 +105,14 @@
       - hwang
   - name: break
     datetime: 2024-01-30T14:00:00-05:00
-  - name: Fairness in AI
+  - name: Perspectives from Industry (Google) | Fairness in AI
     datetime: 2024-01-30T14:15:00-05:00
     location: PCAM conference room
     speakers:
       - doshi
   - name: break
     datetime: 2024-01-30T15:00:00-05:00
-  - name: Try the AI
+  - name: Try the AI Workshop
     datetime: 2024-01-30T15:15:00-05:00
     location: PCAM conference room
   - name: Powerpoint Workshop
@@ -153,13 +153,13 @@
     location: PCAM conference room
     speakers:
       - pantel
-  - name: Quality & Radiology Residency: sweeter together - Part 1. Negotation
+  - name: Quality & Radiology Residency | sweeter together - Part 1. Negotation
     datetime: 2024-01-31T13:15:00-05:00
     location: PCAM conference room
     speakers:
       - zafar
       - pogozelski
-  - name: Quality & Radiology Residency: sweeter together - Part 2. Quality Improvement
+  - name: Quality & Radiology Residency | sweeter together - Part 2. Quality Improvement
     datetime: 2024-01-31T14:15:00-05:00
     location: PCAM conference room
     speakers:
