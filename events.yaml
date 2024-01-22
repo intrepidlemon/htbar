@@ -66,7 +66,7 @@
 
 - day: Tuesday, Jan 30, 2024
   events:
-  - name: TBD
+  - name: AI in Medical Imaging | Fear, hype, and reality
     datetime: 2024-01-30T07:30:00-05:00
     location: Donner-Grice Lecture Hall
     speakers:
@@ -78,21 +78,21 @@
       - hyland
   - name: break
     datetime: 2024-01-30T09:00:00-05:00
-  - name: Career Path
+  - name: Career Path + Q/A
     datetime: 2024-01-30T09:15:00-05:00
-    location: PCAM conference room
+    location: Donner 2 Conference Room
     speakers:
       - wjkim
   - name: break
-    datetime: 2024-01-30T10:30:00-05:00
-  - name: Shark Tank
-    datetime: 2024-01-30T10:45:00-05:00
-    location: PCAM conference room
+    datetime: 2024-01-30T10:15:00-05:00
+  - name: Shark Tank | Idea Workshop
+    datetime: 2024-01-30T10:20:00-05:00
+    location: Donner 2 Conference Room
     speakers:
       - wjkim
       - jha
   - name: break
-    datetime: 2024-01-30T11:45:00-05:00
+    datetime: 2024-01-30T11:30:00-05:00
   - name: (Grand Rounds) Navigating the New Frontier | How Generative AI is Reshaping Radiology 
     datetime: 2024-01-30T12:00:00-05:00
     location: Donner Grice Lecture Hall
