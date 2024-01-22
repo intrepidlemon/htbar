@@ -5,24 +5,24 @@
     location: Donner-Grice Lecture Hall
     speakers:
       - schnall
-  - name: Leading change projects in healthcare
+  - name: Leading Change Projects in Healthcare
     datetime: 2024-01-29T08:15:00-05:00
     location: Donner-Grice Lecture Hall
     speakers:
       - lexa
   - name: break
     datetime: 2024-01-29T09:00:00-05:00
-  - name: HTBAR orientation
+  - name: HTBAR Orientation
     datetime: 2024-01-29T09:15:00-05:00
     location: PCAM conference room
-  - name: Academic tracks
+  - name: Academic Tracks
     datetime: 2024-01-29T09:30:00-05:00
     location: PCAM conference room
     speakers:
       - edmonds
   - name: break
     datetime: 2024-01-29T10:15:00-05:00
-  - name: Academic panel
+  - name: Academic Panel
     datetime: 2024-01-29T10:30:00-05:00
     location: PCAM conference room
     speakers:
@@ -43,7 +43,7 @@
       - nadolski
   - name: break
     datetime: 2024-01-29T14:00:00-05:00
-  - name: How to give a Powerpoint Presentation
+  - name: How to Give a Powerpoint Presentation
     datetime: 2024-01-29T14:15:00-05:00
     location: PCAM conference room
     speakers:
@@ -168,7 +168,7 @@
   - name: Introduction to ED Readiness
     datetime: 2024-02-01T16:15:00-05:00
     location: PCAM conference room
-  - name: Call draft
+  - name: Call Draft
     datetime: 2024-02-01T16:30:00-05:00
     location: PCAM conference room
   - name: R1 Social
@@ -177,15 +177,12 @@
 
 - day: Thursday, Feb 01, 2024
   events:
-  - name: R1 case presentations
+  - name: R1 Case Presentations
     datetime: 2024-02-01T07:30:00-05:00
-    location: Donner-Grice Lecture Hall
-  - name: R1 case presentations
-    datetime: 2024-02-01T08:15:00-05:00
     location: Donner-Grice Lecture Hall
   - name: break
     datetime: 2024-02-01T09:00:00-05:00
-  - name: Education panel
+  - name: Education Panel
     datetime: 2024-02-01T09:15:00-05:00
     location: PCAM conference room
     speakers:
@@ -194,7 +191,7 @@
       - simpson
   - name: break
     datetime: 2024-02-01T10:45:00-05:00
-  - name: How to build an educational research project
+  - name: How to Build an Educational Research Project
     datetime: 2024-02-01T11:00:00-05:00
     location: PCAM conference room
     speakers:
@@ -205,7 +202,7 @@
   - name: Lunch
     datetime: 2024-02-01T12:00:00-05:00
     location: PCAM conference room
-  - name: Research pitches
+  - name: Research Pitches
     datetime: 2024-02-01T13:00:00-05:00
     location: PCAM conference room
     speakers:
@@ -222,6 +219,11 @@
       - campbell
   - name: break
     datetime: 2024-02-01T15:15:00-05:00
+  - name: RadDiscord & National Leadership
+    datetime: 2024-02-01T15:30:00-05:00
+    location: PCAM conference room
+    speakers:
+      - elahi
   - name: TBD
     datetime: 2024-02-01T16:00:00-05:00
     location: PCAM conference room
@@ -231,7 +233,7 @@
     datetime: 2024-02-01T16:30:00-05:00
     location: PCAM conference room
     speakers:
-      - dickleson
+      - dinglasan
 
 - day: Friday, Feb 02, 2024
   events:
