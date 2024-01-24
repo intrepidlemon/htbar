@@ -71,7 +71,7 @@
     location: Donner-Grice Lecture Hall
     speakers:
       - wjkim
-  - name: Perspectives from Industry (Microsoft Research) | MARIA-1 
+  - name: "(Microsoft Research) MARIA-1: A specialised large multimodal model for radiology report generation"
     datetime: 2024-01-30T08:15:00-05:00
     location: Donner-Grice Lecture Hall
     speakers:
@@ -93,7 +93,7 @@
       - jha
   - name: break
     datetime: 2024-01-30T11:30:00-05:00
-  - name: (Grand Rounds) Navigating the New Frontier | How Generative AI is Reshaping Radiology 
+  - name: (Grand Rounds) Navigating the New Frontier | How Generative AI is Reshaping Radiology
     datetime: 2024-01-30T12:00:00-05:00
     location: Donner Grice Lecture Hall
     speakers:
@@ -225,7 +225,7 @@
     location: PCAM conference room
     speakers:
       - elahi
-  - name: TBD
+  - name: "Academic Radiology: One Size Doesn’t Fit All"
     datetime: 2024-02-01T16:00:00-05:00
     location: PCAM conference room
     speakers:
