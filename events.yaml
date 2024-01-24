@@ -225,17 +225,17 @@
       - campbell
   - name: break
     datetime: 2024-02-01T15:15:00-05:00
-  - name: RadDiscord & National Leadership
+  - name: "Beyond the Viewbox: Amplifying resident impact through national leadership in radiology"
     datetime: 2024-02-01T15:30:00-05:00
     location: PCAM conference room
     speakers:
       - elahi
-  - name: "Academic Radiology: One Size Doesn’t Fit All"
+  - name: "Academic Radiology: One size doesn’t fit all"
     datetime: 2024-02-01T16:00:00-05:00
     location: PCAM conference room
     speakers:
       - birnbaum
-  - name: "VA Radiology: No Longer the Place Where Senile Radiologists Are Put to Pasture (or, How an Unexpected Path Actually Led to Greener Grass)"
+  - name: "VA Radiology: No longer the place where senile radiologists are put to pasture (or, how an unexpected path actually led to greener grass)"
     datetime: 2024-02-01T16:30:00-05:00
     location: PCAM conference room
     speakers:
