@@ -25,7 +25,7 @@ hyland:
   name: Stephanie Hyland, PhD
   img: img/hyland.jpg
   bio: |
-    Stephanie Hyland, PhD is a Principal Researcher in Microsoft Research Health Futures. She works on multimodal machine learning and its use for healthcare, with a special focus on radiology as part of Project MAIRA (opens in new tab). Her research to date also includes the modelling of medical time series of the kind found in electronic health records, especially physiological time series from  ICU patients. Above all she is interested in making machine learning practically useful; as such she enjoys working closely with clinical collaborators to identify problems where machine learning can support human experts, as well as thinking carefully on how to evaluate and validate models.
+    Stephanie Hyland, PhD is a Principal Researcher in Microsoft Research Health Futures. She works on multimodal machine learning and its use for healthcare, with a special focus on radiology as part of Project MAIRA. Her research to date also includes the modelling of medical time series of the kind found in electronic health records, especially physiological time series from  ICU patients. Above all she is interested in making machine learning practically useful; as such she enjoys working closely with clinical collaborators to identify problems where machine learning can support human experts, as well as thinking carefully on how to evaluate and validate models.
 
     Prior to joining Microsoft, she completed her PhD at Cornell University/Weill Cornell Medicine/Sloan Kettering Cancer Center in Computational Biology and Medicine, and studied Theoretical Physics and Applied Mathematics at Trinity College Dublin (BA Mod.) and Cambridge University (Part III; MASt).
 schmitt:
