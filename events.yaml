@@ -62,7 +62,7 @@
     location: PCAM conference room
   - name: Residency Track Happy Hour
     datetime: 2024-01-29T16:45:00-05:00
-    location: PCAM conference room
+    location: Pendergrass Conference Room
 
 - day: Tuesday, Jan 30, 2024
   events:
@@ -71,7 +71,7 @@
     location: Donner-Grice Lecture Hall
     speakers:
       - wjkim
-  - name: "(Microsoft Research) MARIA-1: A specialised large multimodal model for radiology report generation"
+  - name: "(Microsoft Research) MAIRA-1: A specialised large multimodal model for radiology report generation"
     datetime: 2024-01-30T08:15:00-05:00
     location: Donner-Grice Lecture Hall
     speakers:
@@ -123,7 +123,7 @@
 
 - day: Wednesday, Jan 31, 2024
   events:
-  - name: Personalized Future of Radiology Education
+  - name: Precision Learning is the Future of Radiology Education
     datetime: 2024-01-31T07:30:00-05:00
     location: Donner Grice Lecture Hall
     speakers:
@@ -245,9 +245,6 @@
   events:
   - name: R1 case presentations
     datetime: 2024-02-02T07:30:00-05:00
-    location: Donner-Grice Lecture Hall
-  - name: R1 case presentations
-    datetime: 2024-02-02T08:15:00-05:00
     location: Donner-Grice Lecture Hall
   - name: break
     datetime: 2024-02-02T09:00:00-05:00
