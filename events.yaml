@@ -128,14 +128,9 @@
     location: Donner Grice Lecture Hall
     speakers:
       - reid
-  - name: TBD
-    datetime: 2024-01-31T08:15:00-05:00
-    location: Donner Grice Lecture Hall
-    speakers:
-      - rosin
   - name: break
     datetime: 2024-01-31T09:00:00-05:00
-  - name: TBD
+  - name: "Innovating with Impact: Turning ideas into actions and outcomes"
     datetime: 2024-01-31T09:15:00-05:00
     location: PCAM conference room
     speakers:
@@ -166,6 +161,7 @@
     speakers:
       - zafar
       - pogozelski
+      - simmons
   - name: Introduction to ED Readiness
     datetime: 2024-02-01T16:15:00-05:00
     location: PCAM conference room
@@ -208,13 +204,30 @@
   - name: Lunch
     datetime: 2024-02-01T12:00:00-05:00
     location: PCAM conference room
-  - name: Research Pitches
+  - name: "Research Opportunities in Informatics and Practice Transformation"
     datetime: 2024-02-01T13:00:00-05:00
     location: PCAM conference room
     speakers:
       - cook
+  - name: "Introducing RADAR: The Radiology Data Analytics Resource"
+    datetime: 2024-02-01T13:15:00-05:00
+    location: PCAM conference room
+    speakers:
       - witschey
+  - name: "Penn Radiology has Clinical AI Tools: How do I use them to help my patients or start a research project?"
+    datetime: 2024-02-01T13:30:00-05:00
+    location: PCAM conference room
+    speakers:
+      - witschey
+  - name: "Advancing Precision Oncology: Innovations in Metabolic Imaging and Interventional Strategies"
+    datetime: 2024-02-01T13:45:00-05:00
+    location: PCAM conference room
+    speakers:
       - tischfield
+  - name: "Resident Research and the Photon Counting CT"
+    datetime: 2024-02-01T14:00:00-05:00
+    location: PCAM conference room
+    speakers:
       - steyer
   - name: break
     datetime: 2024-02-01T14:15:00-05:00
