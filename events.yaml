@@ -73,7 +73,7 @@
       - _wjkim
   - name: "(Microsoft Research) MAIRA-1: A specialised large multimodal model for radiology report generation"
     datetime: 2024-01-30T08:15:00-05:00
-    location: Donner-Grice Lecture Hall
+    location: Donner-Grice Lecture Hall (Virtual)
     speakers:
       - hyland
   - name: break
@@ -107,7 +107,7 @@
     datetime: 2024-01-30T14:00:00-05:00
   - name: Perspectives from Industry (Google) | Fairness and AI
     datetime: 2024-01-30T14:15:00-05:00
-    location: PCAM conference room
+    location: PCAM conference room (Virtual)
     speakers:
       - doshi
   - name: break
@@ -250,7 +250,7 @@
       - birnbaum
   - name: "VA Radiology: No longer the place where senile radiologists are put to pasture (or, how an unexpected path actually led to greener grass)"
     datetime: 2024-02-01T16:30:00-05:00
-    location: PCAM conference room
+    location: PCAM conference room (Virtual)
     speakers:
       - dinglasan
 
