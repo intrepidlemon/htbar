@@ -124,12 +124,12 @@
 - day: Wednesday, Jan 31, 2024
   events:
   - name: Precision Learning is the Future of Radiology Education
-    datetime: 2024-01-31T07:30:00-05:00
+    datetime: 2024-01-31T07:45:00-05:00
     location: Donner Grice Lecture Hall
     speakers:
       - reid
   - name: break
-    datetime: 2024-01-31T09:00:00-05:00
+    datetime: 2024-01-31T08:45:00-05:00
   - name: "Innovating with Impact: Turning ideas into actions and outcomes"
     datetime: 2024-01-31T09:15:00-05:00
     location: PCAM conference room
