@@ -242,7 +242,7 @@ doshi:
 witschey:
   sid: witschey
   name: Walter Witschey, PhD
-  img: img/witschey.png
+  img: img/witschey.jpg
   bio: |
     Dr. Walter Witschey is an Associate Professor of Radiology and Director of the Advanced Cardiovascular Imaging Lab at the University of Pennsylvania. His research focus is theoretical and applied magnetic resonance imaging (MRI), machine learning and cardiovascular imaging. The Witschey lab uses a multidisciplinary and translational approach, integrating techniques from electrical engineering, computer science, biology and bioengineering. The group has contributed to MR physics and pulse sequence development (T1ρ and quantitative susceptibility mapping / QSM) and MR spectroscopy (1H downfield MRS), non-proton imaging and spectroscopy (23Na and 31P), machine learning and computer vision, and closed-loop systems for medical imaging. The Witschey lab has is basic science research in myocardial ischemia and coronary artery disease, reperfusion injury, non-ischemic heart disease, congenital heart disease and metabolic imaging of the heart. We develop machine learning algorithms for cardiac magnetic resonance, chest and hepatic and visceral computed tomography and MRI.
 obrien:
