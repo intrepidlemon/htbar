@@ -5,6 +5,10 @@
   }
 }
 
+body {
+  position: relative;
+}
+
 body * {
   width: 100%;
   line-height: 1.5;
@@ -19,25 +23,15 @@ h1 {
   color:crimson
 }
 
-h2 {
-  font-size: 2rem;
-  font-family: 'Arial Narrow Bold', sans-serif;
-  font-weight: 700;
-  margin-bottom: 1rem;
-}
-
-h3 {
-  font-size: 1.5rem;
-}
-
-.subtitle {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
 /* EVENTS */
 
+.day_header {
+  font-size: 1.5rem;
+  position: sticky;
+  top: 0;
+  background: white;
+  opacity: 1;
+}
 
 .day {
   & > *+* {
@@ -74,10 +68,13 @@ h3 {
    }
 
   &.break {
-    opacity: 0.3;
+    color: #ccc;
     font-size: 1rem;
     .name {
       font-size: 1rem;
+    }
+    .details {
+      border-left: 1px solid #ccc;
     }
   }
 
