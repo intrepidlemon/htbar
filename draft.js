@@ -143,7 +143,7 @@ const render = async () => {
   console.log(speakers, events)
 
   let now = new Date()
-  //now = events[2].events[4].datetime for testing
+  //now = events[2].events[4].datetime // for testing
 
   renderSpeakers(speakers)
   renderEvents(now)(speakers)(events)
