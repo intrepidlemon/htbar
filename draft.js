@@ -129,7 +129,7 @@ const scrollToHour = datetime => {
 
 const renderSpeakers = speakers => {
   const contentDiv = document.getElementById('speakers')
-  contentDiv.innerHTML = Object.values(speakers).map(speaker).join("")
+  contentDiv.innerHTML = Object.keys(speakers).toSorted().map(s => speaker(speakers[s])).join("")
 }
 
 const renderEvents = now => speakers => agenda => {
