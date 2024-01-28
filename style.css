@@ -7,6 +7,7 @@
 
 body {
   position: relative;
+  margin: 0;
 }
 
 body * {
@@ -20,7 +21,22 @@ h1 {
   align-items: center;
   justify-content: center;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color:crimson;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  display: flex;
+  font-size: 1.6rem;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color:crimson
+}
+
+#about {
+  width: auto;
+  margin: 0 1rem;
 }
 
 /* EVENTS */
@@ -31,6 +47,8 @@ h1 {
   top: 0;
   background: white;
   opacity: 1;
+  margin: 0 1rem;
+  width: auto;
 }
 
 .day {
@@ -67,6 +85,10 @@ h1 {
 
    }
 
+  &.current {
+    background: #ffffd7;
+  }
+
   &.break {
     color: #ccc;
     font-size: 1rem;
@@ -77,7 +99,6 @@ h1 {
       border-left: 1px solid #ccc;
     }
   }
-
 }
 
 

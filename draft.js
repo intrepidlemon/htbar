@@ -2,8 +2,6 @@
 // LOAD
 // ****
 
-const loadTime = new Date()
-
 const loadYaml = async path => {
   try {
     // Fetch the YAML file
@@ -64,23 +62,30 @@ const eventSpeaker = ({
   ? `<a class="event-speaker" href="#speaker-${sid}">${name}</a>`
   : ``
 
-const event = allSpeakers => ({
+const event = now => allSpeakers => ({
   name,
   datetime,
   location,
   speakers,
 }) => {
-  return `<div class="event ${name === "break" ? "break" : ""}" id="event-${getHourTimestamp(datetime)}">
+  const eventTimestamp = getHourTimestamp(datetime)
+  return `<div class="
+    event
+    ${name === "break" ? "break" : ""}
+    ${getHourTimestamp(now) === eventTimestamp ? "current": ""}
+    "
+    id="event-${eventTimestamp}"
+  >
     ${eventDatetime(datetime)}
     ${eventDetails(allSpeakers, name, location, speakers)}
   </div>`
 }
 
-const dayEvents = allSpeakers => ({day, events}) => {
+const dayEvents = now => speakers => ({day, events}) => {
   return `
-  <h3>${day}</h3>
+  <h3 class="day_header">${day}</h3>
   <div class="day" id="day-${day}">
-    ${events.map(e => event(allSpeakers)(e)).join('')}
+    ${events.map(e => event(now)(speakers)(e)).join('')}
   </div>`
 }
 
@@ -102,19 +107,19 @@ const speaker = ({
 // TIME
 // ****
 
-const getHourTimestamp = (date=loadTime) => {
-  date = new Date(date)
+const getHourTimestamp = datetime => {
+  date = new Date(datetime)
   // Round down to the nearest hour
   date.setMinutes(0, 0, 0) // Sets minutes, seconds, and milliseconds to 0
   const timestamp = `${date.getTime()}`
   return timestamp
 }
 
-const scrollToHour = () => {
-  const timestamp = getHourTimestamp()
+const scrollToHour = datetime => {
+  const timestamp = getHourTimestamp(datetime)
   const eventDiv = document.getElementById(`event-${timestamp}`)
   if (eventDiv) {
-    eventDiv.scrollIntoView({ behavior: 'smooth' })
+    eventDiv.scrollIntoView({ behavior: 'smooth', block: "center" })
   }
 }
 
@@ -127,24 +132,22 @@ const renderSpeakers = speakers => {
   contentDiv.innerHTML = Object.values(speakers).map(speaker).join("")
 }
 
-const renderEvents = (speakers, agenda) => {
+const renderEvents = now => speakers => agenda => {
   const contentDiv = document.getElementById('events')
-  contentDiv.innerHTML = agenda.map(dayEvents(speakers)).join("")
-}
-
-const renderTestScroll = () => {
-  const contentDiv = document.getElementById('scroll-test-event')
-  contentDiv.innerHTML = `<div id="event-${getHourTimestamp()}"></div>`
+  contentDiv.innerHTML = agenda.map(dayEvents(now)(speakers)).join("")
 }
 
 const render = async () => {
   const speakers = await loadYaml("speakers.yaml")
   const events = await loadYaml("events.yaml")
   console.log(speakers, events)
-  renderEvents(speakers, events)
+
+  let now = new Date()
+  //now = events[2].events[4].datetime for testing
+
   renderSpeakers(speakers)
-  //renderTestScroll()
-  scrollToHour()
+  renderEvents(now)(speakers)(events)
+  scrollToHour(now)
 }
 
 render()
