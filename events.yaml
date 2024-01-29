@@ -26,12 +26,12 @@
     datetime: 2024-01-29T10:30:00-05:00
     location: PCAM conference room
     speakers:
+      - cook
       - kim
+      - lazor
+      - mankoff
       - schmitt
       - sellmyer
-      - mankoff
-      - cook
-      - lazor
 
   - name: Lunch
     datetime: 2024-01-29T12:00:00-05:00
