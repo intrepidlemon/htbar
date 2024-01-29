@@ -68,11 +68,10 @@ const event = now => allSpeakers => ({
   location,
   speakers,
 }) => {
-  const eventTimestamp = getHourTimestamp(datetime)
+  const eventTimestamp = getTimestamp(datetime)
   return `<div class="
     event
     ${name === "break" ? "break" : ""}
-    ${getHourTimestamp(now) === eventTimestamp ? "current": ""}
     "
     id="event-${eventTimestamp}"
   >
@@ -107,19 +106,37 @@ const speaker = ({
 // TIME
 // ****
 
-const getHourTimestamp = datetime => {
+const getTimestamp = datetime => {
   date = new Date(datetime)
   // Round down to the nearest hour
-  date.setMinutes(0, 0, 0) // Sets minutes, seconds, and milliseconds to 0
+  //date.setMinutes(0, 0, 0) // Sets minutes, seconds, and milliseconds to 0
   const timestamp = `${date.getTime()}`
   return timestamp
 }
 
-const scrollToHour = datetime => {
-  const timestamp = getHourTimestamp(datetime)
-  const eventDiv = document.getElementById(`event-${timestamp}`)
-  if (eventDiv) {
-    eventDiv.scrollIntoView({ behavior: 'smooth', block: "center" })
+const findCurrent = (events, now) => {
+  const nowTimestamp = getTimestamp(now)
+  let current = getTimestamp(events[0].events[0].datetime)
+  let last = getTimestamp(events[0].events[0].datetime)
+  for (let day of events) {
+    for (let event of day.events) {
+      current = getTimestamp(event.datetime)
+      if (nowTimestamp < current) {
+        return last
+      }
+      last = current
+    }
+  }
+}
+
+const highlightNow = (events, now) => {
+  const current = findCurrent(events, now)
+  if (current !== null) {
+    const eventDiv = document.getElementById(`event-${current}`)
+    if (eventDiv) {
+      eventDiv.classList.add("current")
+      eventDiv.scrollIntoView({ behavior: 'smooth', block: "center" })
+    }
   }
 }
 
@@ -147,7 +164,7 @@ const render = async () => {
 
   renderSpeakers(speakers)
   renderEvents(now)(speakers)(events)
-  scrollToHour(now)
+  highlightNow(events, now)
 }
 
 render()
