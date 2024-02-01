@@ -171,28 +171,28 @@
     location: Donner-Grice Lecture Hall
   - name: break
     datetime: 2024-02-01T09:00:00-05:00
-  - name: Week in the Life
+  - name: Education Panel
     datetime: 2024-02-01T09:15:00-05:00
     location: PCAM conference room
     speakers:
+      - depietro
       - obrien
+      - simpson
   - name: Journey of a Medical Educator
     datetime: 2024-02-01T09:45:00-05:00
     location: PCAM conference room
     speakers:
       - simpson
-  - name: How to Build a Medical Education Project
+  - name: Week in the Life
     datetime: 2024-02-01T10:15:00-05:00
     location: PCAM conference room
     speakers:
-      - depietro
-  - name: Education Panel
+      - obrien
+  - name: How to Build a Medical Education Project
     datetime: 2024-02-01T10:45:00-05:00
     location: PCAM conference room
     speakers:
       - depietro
-      - obrien
-      - simpson
   - name: Lunch
     datetime: 2024-02-01T12:00:00-05:00
     location: PCAM conference room
