@@ -108,10 +108,8 @@ const speaker = ({
 
 const getTimestamp = datetime => {
   date = new Date(datetime)
-  // Round down to the nearest hour
-  //date.setMinutes(0, 0, 0) // Sets minutes, seconds, and milliseconds to 0
   const timestamp = `${date.getTime()}`
-  return timestamp
+  return parseInt(timestamp)
 }
 
 const findCurrent = (events, now) => {
