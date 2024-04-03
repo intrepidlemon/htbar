@@ -1,4 +1,4 @@
-- day: Monday, April 8, 2024
+- day: Monday, Jan 29, 2024
   events:
   - name: Transforming Practice
     datetime: 2024-01-29T07:30:00-05:00
@@ -64,7 +64,7 @@
     datetime: 2024-01-29T16:45:00-05:00
     location: Pendergrass Conference Room
 
-- day: Tuesday, April 9, 2024
+- day: Tuesday, Jan 30, 2024
   events:
   - name: AI in Medical Imaging | Fear, hype, and reality
     datetime: 2024-01-30T07:30:00-05:00
@@ -121,7 +121,7 @@
     speakers:
       - simpson
 
-- day: Wednesday, April 10, 2024
+- day: Wednesday, Jan 31, 2024
   events:
   - name: Precision Learning is the Future of Radiology Education
     datetime: 2024-01-31T07:45:00-05:00
@@ -164,7 +164,7 @@
     datetime: 2024-01-31T18:00:00-05:00
     location: Five Iron Golf - Rittenhouse
 
-- day: Thursday, April 11, 2024
+- day: Thursday, Feb 01, 2024
   events:
   - name: R1 Case Presentations
     datetime: 2024-02-01T07:30:00-05:00
@@ -246,7 +246,7 @@
     speakers:
       - dinglasan
 
-- day: Friday, April 12, 2024
+- day: Friday, Feb 02, 2024
   events:
   - name: R1 case presentations
     datetime: 2024-02-02T07:30:00-05:00
@@ -303,4 +303,4 @@
       - scanlon
   - name: Happy Hour
     datetime: 2024-02-02T17:30:00-05:00
-    location: New Deck
+    location: Human Robot - 2401 Walnut St, Philadelphia, PA 19103
