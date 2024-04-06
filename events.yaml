@@ -1,306 +1,257 @@
 - day: Monday, April 8, 2024
   events:
-  - name: Transforming Practice
-    datetime: 2024-01-29T07:30:00-05:00
-    location: Donner-Grice Lecture Hall
+  - name: "Locums IR: A Bridge to Independent Practice"
+    datetime: 2024-04-08T07:30:00-05:00
+    location: Donner-Grice Lecture Hall (virtual)
     speakers:
-      - schnall
-  - name: Career Strategies for Early Success in Academics
-    datetime: 2024-01-29T08:15:00-05:00
-    location: Donner-Grice Lecture Hall
+      - devulapalli
+  - name: "Integrating mathematics and evolutionary principles in cancer treatment and imaging"
+    datetime: 2024-04-08T08:15:00-05:00
+    location: Donner-Grice Lecture Hall (virtual)
     speakers:
-      - lexa
+      - gatenby
   - name: break
-    datetime: 2024-01-29T09:00:00-05:00
+    datetime: 2024-04-08T09:00:00-05:00
   - name: HTBAR Orientation
-    datetime: 2024-01-29T09:15:00-05:00
+    datetime: 2024-04-08T09:15:00-05:00
     location: PCAM conference room
-  - name: Academic Tracks
-    datetime: 2024-01-29T09:30:00-05:00
+  - name: "Inside/Outside Academia Panel"
+    datetime: 2024-04-08T09:30:00-05:00
     location: PCAM conference room
     speakers:
-      - edmonds
+      - eljack
+      - mulugeta
+      - oliver
   - name: break
-    datetime: 2024-01-29T10:15:00-05:00
-  - name: Academic Panel
-    datetime: 2024-01-29T10:30:00-05:00
+    datetime: 2024-04-08T10:30:00-05:00
+  - name: "Personal Finance for Residents"
+    datetime: 2024-04-08T10:45:00-05:00
     location: PCAM conference room
     speakers:
-      - cook
-      - kim
-      - lazor
-      - mankoff
-      - schmitt
-      - sellmyer
-
+      - michel
   - name: Lunch
-    datetime: 2024-01-29T12:00:00-05:00
+    datetime: 2024-04-08T12:00:00-05:00
     location: PCAM conference room
-  - name: Promotion & Career Path
-    datetime: 2024-01-29T13:00:00-05:00
-    location: PCAM conference room
-    speakers:
-      - nadolski
-  - name: break
-    datetime: 2024-01-29T14:00:00-05:00
-  - name: How to Give a Powerpoint Presentation
-    datetime: 2024-01-29T14:15:00-05:00
+  - name: "Administration in an Academic Medical Center Radiology Department"
+    datetime: 2024-04-08T13:00:00-05:00
     location: PCAM conference room
     speakers:
-      - simpson
+      - kirschner
   - name: break
-    datetime: 2024-01-29T15:00:00-05:00
-  - name: Goals and Objectives
-    datetime: 2024-01-29T15:15:00-05:00
+    datetime: 2024-04-08T14:00:00-05:00
+  - name: "Side Hustles"
+    datetime: 2024-04-08T14:15:00-05:00
     location: PCAM conference room
     speakers:
-      - scanlon
+      - hunt
   - name: break
-    datetime: 2024-01-29T15:45:00-05:00
-  - name: Residency Tracks
-    datetime: 2024-01-29T16:00:00-05:00
-    location: Pendergrass Conference Room
-  - name: Residency Track Happy Hour
-    datetime: 2024-01-29T16:45:00-05:00
-    location: Pendergrass Conference Room
+    datetime: 2024-04-08T15:15:00-05:00
+  - name: "R1 Research Proposals"
+    datetime: 2024-04-08T15:15:00-05:00
+    location: PCAM conference room
+    speakers:
+      - sellmyer, pantel, cranston, mankoff
 
 - day: Tuesday, April 9, 2024
   events:
-  - name: AI in Medical Imaging | Fear, hype, and reality
-    datetime: 2024-01-30T07:30:00-05:00
+  - name: "Deep Risks"
+    datetime: 2024-04-09T07:30:00-05:00
     location: Donner-Grice Lecture Hall
     speakers:
-      - _wjkim
-  - name: "(Microsoft Research) MAIRA-1: A specialised large multimodal model for radiology report generation"
-    datetime: 2024-01-30T08:15:00-05:00
+      - _schoppe
+  - name: "Becoming a Meducator"
+    datetime: 2024-04-09T08:15:00-05:00
     location: Donner-Grice Lecture Hall (Virtual)
     speakers:
-      - hyland
+      - nel
   - name: break
-    datetime: 2024-01-30T09:00:00-05:00
-  - name: Career Path + Q/A
-    datetime: 2024-01-30T09:15:00-05:00
+    datetime: 2024-04-09T09:00:00-05:00
+  - name: "RADPAC Intro and Q/A + Resident Perspective"
+    datetime: 2024-04-09T09:15:00-05:00
     location: Donner 2 Conference Room
     speakers:
-      - _wjkim
-  - name: break
-    datetime: 2024-01-30T10:15:00-05:00
-  - name: Shark Tank | Idea Workshop
-    datetime: 2024-01-30T10:20:00-05:00
+      - burnes
+      - rich
+  - name: Career Path + Personal Finance
+    datetime: 2024-04-09T10:00:00-05:00
     location: Donner 2 Conference Room
     speakers:
-      - _wjkim
-      - jha
+      - _schoppe
   - name: break
-    datetime: 2024-01-30T11:30:00-05:00
-  - name: (Grand Rounds) Navigating the New Frontier | How Generative AI is Reshaping Radiology
-    datetime: 2024-01-30T12:00:00-05:00
+    datetime: 2024-04-09T12:00:00-05:00
+  - name: (Grand Rounds) Policy is Culture
+    datetime: 2024-04-09T12:00:00-05:00
     location: Donner Grice Lecture Hall
     speakers:
-      - _wjkim
-  - name: What Being an Academic Radiologist is Like
-    datetime: 2024-01-30T13:15:00-05:00
+      - _schoppe
+  - name: Career Path
+    datetime: 2024-04-09T13:15:00-05:00
     location: PCAM conference room
     speakers:
-      - hwang
-  - name: break
-    datetime: 2024-01-30T14:00:00-05:00
-  - name: Perspectives from Industry (Google) | Fairness and AI
-    datetime: 2024-01-30T14:15:00-05:00
+      - harrison
+  - name: "137 years of Medical Malpractice"
+    datetime: 2024-04-09T13:55:00-05:00
     location: PCAM conference room (Virtual)
     speakers:
-      - doshi
-  - name: break
-    datetime: 2024-01-30T15:00:00-05:00
-  - name: Try the AI Workshop
-    datetime: 2024-01-30T15:15:00-05:00
-    location: PCAM conference room
-  - name: Powerpoint Workshop
-    datetime: 2024-01-30T16:15:00-05:00
+      - strong
+  - name: "Creating an open-source low-field MRI scanner in just one week - Summary of the 'MRI4ALL Hackathon 2023'"
+    datetime: 2024-04-09T14:45:00-05:00
     location: PCAM conference room
     speakers:
-      - simpson
+      - tobias
+      - alon
+  - name: "Radiologist in Industry"
+    datetime: 2024-04-09T16:15:00-05:00
+    location: PCAM conference room
+    speakers:
+      - solomon
 
 - day: Wednesday, April 10, 2024
   events:
-  - name: Precision Learning is the Future of Radiology Education
-    datetime: 2024-01-31T07:45:00-05:00
+  - name: "My Accidental Entrepreneurship"
+    datetime: 2024-04-10T07:45:00-05:00
     location: Donner Grice Lecture Hall
     speakers:
-      - reid
-  - name: break
-    datetime: 2024-01-31T08:45:00-05:00
-  - name: "Call Draft + Intro to EDRC"
-    datetime: 2024-01-31T09:15:00-05:00
-    location: PCAM conference room
-  - name: break
-    datetime: 2024-01-31T10:45:00-05:00
-  - name: PMA Competency Model & Interviewing at Penn
-    datetime: 2024-01-31T11:00:00-05:00
+      - agrawal
+  - name: "Design for Delight"
+    datetime: 2024-04-10T08:14:00-05:00
+    location: Donner-Grice Lecture Hall
+    speakers:
+      - rosin
+  - name: "Innovating with Impact: Turning ideas into outcomes"
+    datetime: 2024-04-10T09:15:00-05:00
     location: PCAM conference room
     speakers:
-      - schnall
+      - rosin
+  - name: break
+    datetime: 2024-04-10T10:45:00-05:00
+  - name: Hybrid Private Practice and Academic Career
+    datetime: 2024-04-10T11:00:00-05:00
+    location: PCAM conference room (virtual)
+    speakers:
+      - rudie
   - name: Lunch
-    datetime: 2024-01-31T12:00:00-05:00
+    datetime: 2024-04-10T12:00:00-05:00
     location: PCAM conference room
-  - name: Penn PET explorer
-    datetime: 2024-01-31T13:00:00-05:00
+  - name: Learning to Mentor
+    datetime: 2024-04-10T13:00:00-05:00
+    location: PCAM conference room
+    speakers:
+      - sadee
+  - name: Global Health Panel
+    datetime: 2024-04-10T14:15:00-05:00
+    location: PCAM conference room
+    speakers:
+      - eljack
+      - jha
+      - otero
+  - name: "R1 Research Proposals"
+    datetime: 2024-04-10T15:15:00-05:00
     location: PCAM conference room
     speakers:
       - pantel
-  - name: Negotation Workshop
-    datetime: 2024-01-31T13:15:00-05:00
-    location: PCAM conference room
-    speakers:
-      - zafar
-  - name: Quality & Radiology Residency | sweeter together
-    datetime: 2024-01-31T14:15:00-05:00
-    location: PCAM conference room
-    speakers:
-      - pogozelski
-      - simmons
-      - zafar
-  - name: R1 Social
-    datetime: 2024-01-31T18:00:00-05:00
-    location: Five Iron Golf - Rittenhouse
+      - ghodasara
+      - wolfe
 
 - day: Thursday, April 11, 2024
   events:
-  - name: R1 Case Presentations
-    datetime: 2024-02-01T07:30:00-05:00
-    location: Donner-Grice Lecture Hall
+  - name: "The 4 Biggest Traps in Physician Employment Agreements"
+    datetime: 2024-04-11T07:30:00-05:00
+    location: Donner-Grice Lecture Hall (virtual)
+    speakers:
+      - hursh
+  - name: "Anatomy of a Contract - Self-Advocacy"
+    datetime: 2024-04-11T08:15:00-05:00
+    location: Donner-Grice Lecture Hall (virtual)
+    speakers:
+      - batlle
   - name: break
-    datetime: 2024-02-01T09:00:00-05:00
-  - name: Journey of a Medical Educator
-    datetime: 2024-02-01T09:15:00-05:00
+    datetime: 2024-04-11T09:00:00-05:00
+  - name: "Medical Device Innovation in Academic Interventional Radiology"
+    datetime: 2024-04-11T09:15:00-05:00
     location: PCAM conference room
     speakers:
-      - simpson
-  - name: Week in the Life
-    datetime: 2024-02-01T09:45:00-05:00
-    location: PCAM conference room
+      - clark
+  - name: break
+    datetime: 2024-04-11T10:00:00-05:00
+  - name: "Physician Founders: The how-to, tips, and experience not found in the book"
+    datetime: 2024-04-11T10:15:00-05:00
+    location: PCAM conference room (virtual)
     speakers:
-      - obrien
-  - name: How to Build a Medical Education Project
-    datetime: 2024-02-01T10:15:00-05:00
-    location: PCAM conference room
-    speakers:
-      - depietro
-  - name: Education Panel
-    datetime: 2024-02-01T10:45:00-05:00
-    location: PCAM conference room
-    speakers:
-      - depietro
-      - obrien
-      - simpson
+      - qiao
+  - name: break
+    datetime: 2024-04-11T11:00:00-05:00
   - name: Lunch
-    datetime: 2024-02-01T12:00:00-05:00
+    datetime: 2024-04-11T12:00:00-05:00
     location: PCAM conference room
-  - name: "Research Opportunities in Informatics and Practice Transformation"
-    datetime: 2024-02-01T13:00:00-05:00
-    location: PCAM conference room
-    speakers:
-      - cook
-  - name: "Introducing RADAR: The Radiology Data Analytics Resource"
-    datetime: 2024-02-01T13:15:00-05:00
+  - name: "How to be an Effective Manuscript Reviewer"
+    datetime: 2024-04-11T13:00:00-05:00
     location: PCAM conference room
     speakers:
-      - witschey
-  - name: "Penn Radiology has Clinical AI Tools: How do I use them to help my patients or start a research project?"
-    datetime: 2024-02-01T13:30:00-05:00
-    location: PCAM conference room
+      - nazarian
+  - name: "Entrepreneurship in Radiology: I was an academic radiologist and fell off the wagon"
+    datetime: 2024-04-11T14:00:00-05:00
+    location: PCAM conference room (virtual)
     speakers:
-      - witschey
-  - name: "Advancing Precision Oncology: Innovations in Metabolic Imaging and Interventional Strategies"
-    datetime: 2024-02-01T13:45:00-05:00
-    location: PCAM conference room
-    speakers:
-      - tischfield
-  - name: "Photon Counting CT in Clinical Practice"
-    datetime: 2024-02-01T14:00:00-05:00
-    location: PCAM conference room
-    speakers:
-      - steyer
+      - boon
   - name: break
-    datetime: 2024-02-01T14:15:00-05:00
-  - name: Library Resources & Services
-    datetime: 2024-02-01T14:30:00-05:00
-    location: PCAM conference room
+    datetime: 2024-04-11T14:45:00-05:00
+  - name: "IR in Underserved/Rural Communities"
+    datetime: 2024-04-11T15:00:00-05:00
+    location: PCAM conference room (virtual)
     speakers:
-      - campbell
+      - khurana
   - name: break
-    datetime: 2024-02-01T15:15:00-05:00
-  - name: "Beyond the Viewbox: Amplifying resident impact through national leadership in radiology"
-    datetime: 2024-02-01T15:30:00-05:00
-    location: PCAM conference room
+    datetime: 2024-04-11T15:45:00-05:00
+  - name: "MEDICOLEGAL Issues in Radiology You Should Know"
+    datetime: 2024-04-11T16:00:00-05:00
+    location: PCAM conference room (virtual)
     speakers:
-      - elahi
-  - name: "Academic Radiology: One size doesn’t fit all"
-    datetime: 2024-02-01T16:00:00-05:00
-    location: PCAM conference room
-    speakers:
-      - birnbaum
-  - name: "VA Radiology: No longer the place where senile radiologists are put to pasture (or, how an unexpected path actually led to greener grass)"
-    datetime: 2024-02-01T16:30:00-05:00
-    location: PCAM conference room (Virtual)
-    speakers:
-      - dinglasan
+      - yousem
 
 - day: Friday, April 12, 2024
   events:
-  - name: R1 case presentations
-    datetime: 2024-02-02T07:30:00-05:00
+  - name: "Fellow and Senior Resident Panel"
+    datetime: 2024-04-11T07:30:00-05:00
     location: Donner-Grice Lecture Hall
+    speakers:
+      - kumar
   - name: break
-    datetime: 2024-02-02T09:00:00-05:00
-  - name: Demystifying Grants
-    datetime: 2024-02-02T09:15:00-05:00
+    datetime: 2024-04-11T09:00:00-05:00
+  - name: "Strength-Based Leadership in a Changing Healthcare Environment"
+    datetime: 2024-04-11T09:15:00-05:00
     location: PCAM conference room
     speakers:
-      - mankoff
+      - foster
   - name: break
-    datetime: 2024-02-02T10:00:00-05:00
-  - name: The PIGI Lab - current and future directions
-    datetime: 2024-02-02T10:15:00-05:00
+    datetime: 2024-04-11T10:45:00-05:00
+  - name: "The Resident Selection Committee: pearls and pitfalls"
+    datetime: 2024-04-11T11:00:00-05:00
     location: PCAM conference room
     speakers:
-      - gade
-  - name: break
-    datetime: 2024-02-02T11:00:00-05:00
-  - name: Applying imaging in the age of accelerated immunotherapy development
-    datetime: 2024-02-02T11:15:00-05:00
-    location: PCAM conference room
-    speakers:
-      - sellmyer
+      - siegelman
   - name: Lunch
-    datetime: 2024-02-02T12:00:00-05:00
+    datetime: 2024-04-11T12:00:00-05:00
     location: PCAM conference room
-  - name: "Strategies for Success: altruism, failure, and being a good mentee"
-    datetime: 2024-02-02T13:00:00-05:00
-    location: PCAM conference room
+  - name: "The Road not Taken"
+    datetime: 2024-04-11T13:00:00-05:00
+    location: PCAM conference room (virtual)
     speakers:
-      - soulen
+      - poff
   - name: break
-    datetime: 2024-02-02T13:45:00-05:00
-  - name: Work Ethic and Career aka "the Love Train"
-    datetime: 2024-02-02T14:00:00-05:00
+    datetime: 2024-04-11T14:00:00-05:00
+  - name: "Private Practice in Radiology: The Kaiser Permanente Model"
+    datetime: 2024-04-11T14:15:00-05:00
     location: PCAM conference room
     speakers:
-      - loevner
+      - mcginn
   - name: break
-    datetime: 2024-02-02T14:45:00-05:00
-  - name: Road to Chairmanship
-    datetime: 2024-02-02T15:00:00-05:00
+    datetime: 2024-04-11T15:00:00-05:00
+  - name: "AI Panel"
+    datetime: 2024-04-11T15:00:00-05:00
     location: PCAM conference room
     speakers:
-      - schnall
-  - name: break
-    datetime: 2024-02-02T15:45:00-05:00
-  - name: Career Path
-    datetime: 2024-02-02T16:00:00-05:00
-    location: PCAM conference room
-    speakers:
-      - scanlon
+      - jha, curnes
   - name: Happy Hour
-    datetime: 2024-02-02T17:30:00-05:00
+    datetime: 2024-04-11T17:15:00-05:00
     location: New Deck
