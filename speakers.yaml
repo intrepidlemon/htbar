@@ -324,3 +324,16 @@ mankoff:
   bio: |
     Dr. David Mankoff is the Matthew J. Wilson Professor and Vice-Chair for Research. He also serves as the Associate Director for Education and Training for Penn’s Abramson Cancer Center (ACC). He is a graduate of Penn’s MSTP Program and holds a PhD in Bioengineering focusing on PET instrumentation. He practices Nuclear Medicine, with a special interest in oncologic applications of molecular imaging and radiopharmaceutical therapy. In addition to his role in education and training for the ACC, Dr. Mankoff and serves as mentor for Penn’s MSTP and MSTR programs. Dr. Mankoff’s research focuses on molecular imaging of cancer, primarily on breast cancer, and emphasizes molecular imaging biomarkers for precision oncology, therapeutic monitoring, and identifying biologic factors mediating therapeutic response and resistance. He also works on the translation of new methods into clinical trials and clinical practice and on methods for quantitative imaging and image analysis. Dr. Mankoff is an Komen Scholar for the Susan G. Komen Foundation and Co-Chairs the Radiologic Society of North America (RSNA) Research Vice-Chair Group. Dr. Mankoff is a past member and President of the American Board of Nuclear Medicine and is on the editorial boards of Nuclear Medicine and Biology, Breast Cancer Research, Journal of Nuclear Medicine, and Clinical Cancer Research and serves as an Associate Editor for the Journal of Nuclear Medicine and Deputy Editor for Breast Cancer Research.
 
+qiao:
+  sid: qiao
+  name: John Qiao, MD
+  img: img/qiao.png
+  bio: |
+    John Qiao is the incoming Chief resident for the Integrated Interventional Radiology Program at UTHealth Houston / M.D. Anderson Cancer Center.  He is a first-time physician founder who has been working for over half a decade to develop an interventional oncology access platform for emerging in vivo electroporation-based cancer treatments.  He is from Upstate New York, a proud dad to a 6 month old son named Leo, and husband to a lovely lady from Long Island.  He is learning everyday. 
+
+sadee:
+  sid: sadee
+  name: Christoph Sadée, MS
+  img: img/sadee.jpg
+  bio: |
+    Christoph (Chris) Sadée is a data scientist at Stanford University working in Biomedical AI research in the Gevaert Lab. His original background is in Theoretical Physics before converging into Biochemistry, here he successfully developed and patented devices for lab automation at the Francis Crick Institute in the UK. Following their development Chris proceeded with his work in Biochemistry at Stanford, where looked at the intricate interactions of RNA and Protein using high through put microfluidic devices. In his latest work Chris joined the Gevaert lab to merge his molecular expertise and prior mathematical/computational background to answer translational questions in Medicine with a recent ai model for the classification of Monkey Pox.
