@@ -61,11 +61,16 @@
       - _schoppe
   - name: "Becoming a Meducator"
     datetime: 2024-04-09T08:15:00-04:00
-    location: Donner-Grice Lecture Hall (Virtual)
+    location: Donner-Grice Lecture Hall (virtual)
     speakers:
       - nel
   - name: break
     datetime: 2024-04-09T09:00:00-04:00
+  - name: "Transitioning to first year in practice (Fellows only)"
+    datetime: 2024-04-09T09:00:00-04:00
+    location: PCAM Conference Room
+    speakers:
+      - _schoppe
   - name: "RADPAC Intro and Q/A + Resident Perspective"
     datetime: 2024-04-09T09:15:00-04:00
     location: Donner 2 Conference Room
@@ -84,22 +89,22 @@
     location: Donner Grice Lecture Hall
     speakers:
       - _schoppe
-  - name: Career Path
+  - name: Community Hospital/Hybrid Academics
     datetime: 2024-04-09T13:15:00-04:00
     location: PCAM conference room
     speakers:
       - harrison
   - name: "137 years of Medical Malpractice"
     datetime: 2024-04-09T13:55:00-04:00
-    location: PCAM conference room (Virtual)
+    location: PCAM conference room (virtual)
     speakers:
       - strong
   - name: "Creating an open-source low-field MRI scanner in just one week - Summary of the 'MRI4ALL Hackathon 2023'"
     datetime: 2024-04-09T14:45:00-04:00
     location: PCAM conference room
     speakers:
-      - tobias
       - alon
+      - block
   - name: "Radiologist in Industry"
     datetime: 2024-04-09T16:15:00-04:00
     location: PCAM conference room
@@ -215,7 +220,12 @@
     datetime: 2024-04-11T07:30:00-04:00
     location: Donner-Grice Lecture Hall
     speakers:
+      - bhattacharya
+      - chahine
+      - goity
       - kumar
+      - matari
+      - standiford
   - name: break
     datetime: 2024-04-11T09:00:00-04:00
   - name: "Strength-Based Leadership in a Changing Healthcare Environment"
@@ -251,8 +261,11 @@
     datetime: 2024-04-11T15:00:00-04:00
     location: PCAM conference room
     speakers:
-      - jha
       - curnes
+      - hochstetler
+      - jairaj
+      - jha
+      - shah
   - name: Happy Hour
     datetime: 2024-04-11T17:15:00-04:00
     location: New Deck
