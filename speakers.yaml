@@ -1,259 +1,339 @@
 ---
-_wjkim:
-  sid: _wjkim
-  name: Woojin Kim, MD
-  img: img/wjkim.jpg
+_schoppe:
+  sid: _schoppe
+  name: Kurt Schoppe, MD
+  img: img/schoppe.jpg
   bio: |
-    Woojin Kim, MD, is the Chief Medical Information Officer at Rad AI and a musculoskeletal radiologist at the VA Palo Alto, CA. He was Co-founder and Chief Medical Officer at Equium Intelligence, acquired by Rad AI in 2022. Dr. Kim was the Chief Medical Information Officer at Nuance Communications from 2016 to 2019. He co-founded Montage Healthcare Solutions, acquired by Nuance in 2016. Previously, Dr. Kim served as Interim Chief of the Division of Musculoskeletal Imaging, Director of the Center for Translational Imaging Informatics, and Chief of Radiography at the Hospital of the University of Pennsylvania.
-gade:
-  sid: gade
-  name: Terence P. Gade, MD, PhD
-  img: img/gade.jpg
-  bio: "Terence P. Gade, MD, PhD graduated from medical school at the New York-Presbyterian / Weill Cornell Medical Center. He completed residency at the Hospital of the University of Pennsylvania and Lankenau Hospital and fellowship at the Hospital of the University of Pennsylvania. He is a Co-Director of the Penn Image-Guided Interventions (PIGI) Laboratory, an Assistant Professor of Radiology, and an Assistant Professor of Cancer Biology at the University of Pennsylvania. He is board certified in Diagnostic Radiology. He also received his PhD in Biophysics from the Weill Graduate School of Medical Sciences of Cornell University and continues to conduct research. He is a member of the following: Academy of Radiology Research, American Association for Cancer Research, American Society of Clinical Oncology, Association of University Radiologists, National Institutes of Health, Radiological Society of North America, Society of Interventional Oncology, and Society of Interventional Radiology."
+    Dr. Kurt A. Schoppe completed his radiology residency and fellowship training in Abdominal Imaging at Wake Forest. He now lives in the Dallas Fort Worth metroplex where he is the President of Radiology Associates of North Texas. In addition, Dr.Schoppe has spent much of his career working on state and national payment policy through the ACR. Currently, Dr Schoppe also serves as the Vice Speaker for ACR.
+
+gatenby:
+  sid: gatenby
+  name: Robert Gatenby, MD
+  img: img/gatenby.jpg
+  bio: |
+    Dr. Gatenby is a practicing clinical radiologist and chair of the Radiology department of the Moffitt Cancer Center for the past 16 years. He spearheaded the formation of a new program at Moffitt titled Integrative Mathematical Oncology (IMO). The IMO brings to the Cancer Center a cadre of applied mathematicians to collaborate with tumor biologists and clinical oncologists. The goal is to use the mathematics developed for other nonlinear dynamical systems to examine the physiology of a tumor incorporating factors such as phenotypic evolution, intracellular communication pathways and interactions with microenvironmental factors including therapies. The program fosters continuous interaction between mathematicians and experimentalists as they form explicit comprehensive theoretical models to serve as a framework for understanding cancer’s development, progression and treatment. The IMO, led by Dr. Gatenby, represents an experiment in rethinking paradigms in medical research. A key purpose of the IMO is to provide the quantitative methods that will allow experimentalists and clinicians to frame their hypotheses, simulate their experimental design in-silico, and identify first principles that govern cancer growth and treatment. Dr. Gatenby aims to make progress using methods that have been successful in the physical sciences for centuries —through an iterative partnership between mathematically-oriented theoreticians, biologists and clinical physicians.
+
+eljack:
+  sid: eljack
+  name: Amr Kamal El Jack, MD, PhD
+  img: img/eljack.jpg
+  bio: |
+    Amr El Jack was born in Sudan and grew up in Dakar, Senegal; Paris, France; Addis Ababa, Ethiopia; and Glendale, California. His father was an architect with UNESCO, leading to his family’s moves. He completed his undergraduate degree at California State University in Los Angeles and then moved to Boston University for MD/PhD training. His PhD work focused on insulin- regulated vesicle trafficking. He attended University of Pennsylvania for radiology residency and a fellowship in body MRI. He worked in private practice at Southeast Radiology for 11 years before returning to Penn and joining the abdominal imaging division in 2018. He is married with two children, Leila (13y) and Zein (10y), and a rambunctious German Shepherd, Jimmy (3y).
+
+mulugeta:
+  sid: mulugeta
+  name: Philipose Getachew Mulugeta, MD
+  img: img/mulugeta.png
+  bio: |
+    Phil Mulugeta class of 2016 (DR) and 2017 - combined fellowship in oncologic imaging (Nuclear Medicine/Body). Currently, Associate Professor of Clinical Radiology and Clinical Director of Nuclear Medicine. Professional interest is focused on the multimodality imaging and therapy of prostate cancer.
+
+oliver:
+  sid: oliver
+  name: Edward R. Oliver, MD, PhD
+  img: img/oliver.jpg
+  bio: |
+    Edward R. Oliver, MD, PhD is an attending pediatric radiologist at the Children's Hospital of Philadelphia and Associate Professor of Clinical Radiology at the Perelman School of Medicine at the University of Pennsylvania. He received his medical and doctoral (Human Genetics) degrees at the University of Michigan. Dr. Oliver completed his post-graduate and fellowship training at the Hospital of the University of Pennsylvania. He is a member of the Body Imaging and Fetal Imaging Divisions in the Department of Radiology at the Children's Hospital of Philadelphia and is the former Director of Fellowship, Residency, and Observership Programs.  His research interests are in the prenatal diagnosis of congenital anomalies. Dr. Oliver is a member of the American College of Radiology and Society for Pediatric Radiology and is a Fellow of the Society of Radiologists in Ultrasound, American Institute of Ultrasound in Medicine, and Philadelphia College of Physicians.
+
+hunt:
+  sid: hunt
+  name: Stephen J. Hunt, MD, PhD, DABR
+  img: img/hunt.jpg
+  bio: |
+    Dr. Stephen Hunt is the Co-Director of the Penn Image-Guided Interventions (PIGI) Laboratory and an Assistant Professor of Radiology at the Hospital of the University of Pennsylvania. He graduated medical school from the Stanford University School of Medicine, completed residency at the Hospital of the University of Pennsylvania and Kaiser Foundation Hospital, and completed fellowship at the Hospital of the University of Pennsylvania. He is Board certified in Interventional Radiology and Diagnostic Radiology. He received his PhD in Molecular & Cellular Physiology from Stanford University School of Medicine, and he received his MTR in Translational Therapeutics from the Perelman School of Medicine. He also conducts research in the follow fields: immuno-oncology, interventional oncology, cancer, cancer biology, immunotherapy, cell biology, cell physiology, animal models, translational research, vascular disease, health policy, health economics, GIS, artificial intelligence, ultrasound, AVUS, embolization, ablation, and the abscopal effect.
+
+burnes:
+  sid: burnes
+  name: Ted Burnes
+  img: img/burnes.png
+  bio: |
+    Ted Burnes is Senior Director of Political Affairs and has run political operations for the American College of Radiology for the past 19 years. Under his leadership, Burnes has turned RADPAC from a half-a-million dollar a year political action committee (PAC) into a $1 million PAC. RADPAC consistently ranks among the top healthcare provider PACs in both contributions raised and contributions made. Burnes possesses a thorough knowledge of campaign !inance law having worked for the Federal Election Commission and has more than 20 years of experience in fundraising and political consulting. He has worked both as a political pollster and consultant on numerous successful political campaigns at the local, state and federal levels, including high-pro!ile Presidential campaigns. He has also lobbied Members of Congress and state legislators on numerous legislative issues, with a particular focus on health policy. Originally from the Philadelphia area, Burnes earned his B.A. in Government & Politics from George Mason University and received his masters degree in Public Administration with a concentration in government relations from The George Washington University. Burnes resides in Ashburn, VA, with his wife and two children.
+
+harrison:
+  sid: harrison
+  name: Neil Harrison, MD
+  img: img/harrison.jpg
+  bio: |
+    Neil Harrison, MD received his medical degree from the Perelman School of Medicine at the University of Pennsylvania. He stayed at the University of Pennsylvania for training in Diagnostic Radiology before eventually transitioning in to one of the first positions for the new integrated Interventional Radiology/Diagnostic Radiology track. He graduated from residency in 2020 and took a job at Albany Med for one year before deciding to return to University of Pennsylvania to work as an attending Interventional Radiologist and Assistant Professor of Clinical Radiology at Pennsylvania Hospital.
+
+agrawal:
+  sid: agrawal
+  name:  Gautam Agrawal, MD
+  img: img/agrawal.jpg
+  bio: |
+    Gautam Agrawal is a serial entrepreneur who has started a number of companies in health-related market segments including his current teleradiology practice (as an R3).   His technical background in Nuclear Engineering has served as a foundation for working at the intersection of health and technology.    Gautam has been married for 21 years to an entrepreneurial wife.  He has two children (15 year old daughter and 13 year old son) who he adores!   Outside of medicine, Gautam is a coin & comic book collector as well as an avid gamer.
+
+clark:
+  sid: clark
+  name: Timothy W.I. Clark, MD
+  img: img/clark.jpg
+  bio: |
+    Dr. Timothy Clark is the Director of Interventional Radiology at Penn Presbyterian Medical Center and a Professor of Radiology at the Hospital of the University of Pennsylvania. He graduated medical school from the University of Alberta and completed a masters in Clinical Epidemiology at Dalhousie University. He underwent post-graduate training as an intern and resident in Diagnostic Radiology at Royal Columbian Hospital at the University of British Columbia and completed fellowship in vascular and Interventional Radiology at the University of Pennsylvania. He has research interests in multivariate modeling in clinical outcomes, peripheral arterial disease, TIPS and computational dynamics in medical device design.
+
+nazarian:
+  sid: nazarian
+  name: Levon N. Nazarian, MD
+  img: img/nazarian.png
+  bio: |
+    Levon N. Nazarian, MD, FAIUM, FACR has co-authored more than 100 peer-reviewed manuscripts and more than 100 abstracts on topics including the use of ultrasound to diagnose and guide innovative treatments for a wide range of musculoskeletal conditions. From 2011-2018 he was Editor-in-Chief of the Journal of Ultrasound in Medicine. He currently serves on the editorial boards of Radiology and the European Journal of Radiology.  In January 2023, Dr. Nazarian joined the faculty at Penn Medicine where he is Professor of Radiology, Professor of Radiology in Orthopaedic Surgery, and Chief of the Division of Musculoskeletal Radiology.
+
+boonn:
+  sid: boonn
+  name: William Boonn, MD
+  img: img/boonn.jpg
+  bio: |
+    William Boonn, MD is currently the Chief Medical Officer at Rad AI Inc, and also serves as a cardiovascular radiology attending at Penn. He started his career at Penn as a radiology resident in 2003 on the research track. He completed an Imaging Informatics Fellowship at the University of Maryland, followed by a CV Fellowship at Penn. In 2009, he became a full-time CE-pathway assistant professor for Penn Radiology. In 2010, he co-founded Montage Healthcare Solutions with Penn colleagues Woojin Kim and Curt Langlotz. In 2012, he transitioned to per-diem clinical work at Penn, and in 2016, Montage was sold to Nuance Communication, where he remained as CMIO. He left Nuance at the end of 2019 to start Equium Intelligence, which was later acquired by Rad AI at the end of 2022. Dr. Boonn is an active member of national and international radiology societies and organizations. He has held various leadership roles, including chair and committee positions with the Radiological Society of North America and the American College of Radiology. He also served as a member of the Board of Directors for the Society for Imaging Informatics in Medicine. Outside of his medical and entrepreneurial work, Dr. Boonn is a member of the Board of Directors at the Cobbs Creek Foundation and a member of Robin Hood Ventures, a network of angel investors focused on supporting early-stage startups.
+
+khurana:
+  sid: khurana
+  name: Neal Khurana, MD
+  img: img/khurana.jpg
+  bio: |
+    Dr. Neal Khurana is a board-certified and fellowship-trained interventional radiologist. He has experience treating a variety of conditions using interventional radiology.
+
+    Dr. Khurana earned his medical degree from Chicago Medical School at Rosalind Franklin University. He completed his residency in diagnostic radiology and a subsequent fellowship in vascular and interventional radiology at Rush University Medical Center. Dr. Khurana completed his undergraduate studies at Tulane University with a B.S. in neuroscience.
+
+yousem:
+  sid: yousem
+  name: David M. Yousem, MD, MBA
+  img: img/yousem.jpg
+  bio: |
+    Dr. David M. Yousem is a Professor of Neuroradiology in the  Johns Hopkins University School of Medicine Department of Radiology and Radiological Science.
+
+    Dr. Yousem received his B.S. and M.D. degrees at the University of Michigan. He completed a radiology residency at Johns Hopkins and a two-year fellowship in neuroradiology at the University of Pennsylvania. He received his M.B.A. at Johns Hopkins University in 2003.
+
+    Dr. Yousem's expertise spans the full gamut of neuroradiology techniques including computed tomography (CT), magnetic resonance imaging (MRI), angiography, myelography, CT guided aspirations and biopsies, functional MRI, diffusion and perfusion imaging, MR/CT angiography, and 3-D reconstructions. He is a noted authority on disorders of the brain, spine, head and neck, olfaction, cranial neuropathies and neurodegeneration.
+
+    Dr. Yousem has authored five books—Neuroradiology: THE REQUISITES (now in its 5th edition), Head and Neck Case Review, Neuroimaging Case Review, Radiology Business Practice: How to Succeed, and Non-Interpretive Skills Case Review. He has published over 400 peer reviewed articles over 50 chapters in books and has lectured on five continents.
+
+    Dr. Yousem created an on line course containing over 30 lectures on the Business of Medicine available to the public at https://webcast.jhu.edu/Mediasite/Catalog/Full/2facf598655b40ecaf3e7ee71698b86421 which was funded by the RSNA Educator Award. This is currently used by residency programs across the country to fulfill ACGME requirements for business of radiology content.
+
+    Dr. Yousem served as President of the American Society of Neuroradiology in 2008-2009 and as the Secretary of Treasurer of the World Federation of Neuroradiological Societies from 2011 to 2016. He won the RSNA’s lifetime Educator Award  and the Exceptional Mentor Award by the American Medical Women’s Association in 2018.
+
+    Dr. Yousem has completed two marathons (best time: 3 hours, 54 minutes), a half Ironman, and a full Ironman (2.5-mile swim followed by 112-mile bike ride and then a 26-mile run) competition.
+
+foster:
+  sid: foster
+  name: Olivia Foster, MSODL, PMP
+  img: img/foster.jpg
+  bio: |
+    Olivia has 7 years of project management, change and organizational development experience across healthcare and financial industries. As an Analyst on the Penn Medicine Academy Change Management team, Olivia partners with health-system leaders to design and implement strategic and cultural change. Key projects include the launch of PennDnA, the kick-off of the Penn Medicine Nursing strategic plan and enhancing the care and coordination of patients with Sickle Cell Disease.
+
+poff:
+  sid: poff
+  name: Jason Poff, MD
+  img: img/poff.jpg
+  bio: |
+    Biography: Jason Poff fondly remembers his time at UPenn, where he finished training in 2013. After three years at Fairfax Radiological Consultants in Northern VA, he has been a private practice radiologist in Greensboro Radiology in Greensboro, NC since 2016, where he specializes in abdominal, thoracic and oncologic imaging and serves on the local practice board. For years at Greensboro and RP, Jason has explored the intersection of AI, radiologist work!low and quality improvement and has served as the director of innovation deployment at RP since April 2022.
+
+mcginn:
+  sid: mcginn
+  name: Chris McGinn, MD
+  img: img/mcginn.jpg
+  bio: |
+    Chris McGinn represents the best of UPenn alumnae. He is an interventional radiologist at Mid-Atlantic Permanente Medical Group (MAPMG) where he started in July 2019. Prior to joining Kaiser, he completed integrated IR/DR residency at Penn with a transitional Year in NYC at Cornell & Sloan Kettering. He is married with a delightful fur baby. He finds himself back in Philly often due to an unhealthy relationship with Philly sports teams.
+
+devulapalli:
+  sid: devulapalli
+  name: Kavi Devulapalli, MD (Line Monkey MD)
+  img: img/devulapalli.jpg
+  bio: |
+    Kavi Devulapalli is an independent interventional radiologist based in Columbia, Missouri, who contracts with multiple hospitals and outpatient practices. His clinical interests include benign prostatic hyperplasia, uterine fibroids, venous disease, and critical limb ischemia. He is one of a few interventional radiologists with significant experience performing prostate artery embolization in office interventional suites.
+
+    He graduated magna cum laude from Rice University. Subsequently, he underwent a combined medical and masters in public health program from Case Western Reserve University, where he was elected to the Alpha Omega Alpha honors society. Dr. Devulapalli completed a diagnostic radiology residency at the University of California San Francisco and a fellowship in vascular and interventional radiology at the University of North Carolina. He has published in the radiology literature and has been a speaker at regional, national and international educational meetings, though is perhaps best known for his blog, Line Monkey MD, which chronicles his scenic journey as an early career interventional radiologist.
+
+    As an advocate for physician entrepreneurship and interventional radiology independence, he is passionate about creating meaningful opportunities for independent practice. He co-founded Travelier, which is focused on creating sustainable long-term relationships with healthcare systems centered on creating longitudinal clinical care programs.  He also co-founded Physician Staffing Solutions, which engages in short and intermediate-term contracting in addition to the healthcare system and physician practice consulting.
+
+    Dr. Devulapalli is active in the Small and Rural Practice Committee in the Society of Interventional Radiology, the Annual Meeting Planning Committee for the Outpatient Endovascular and Interventional Society and the Vascular Panel of the Appropriateness Criteria Committee for the American College of Radiology.
+
+michel:
+  sid: michel
+  name: Robert Michel, MBA
+  img: img/michel.jpg
+  bio: |
+    As the co-founder and Chief Investment Officer (CIO) of Alooola, Rob is responsible for the firm’s market research, investment outlook, and portfolio monitoring. Prior to starting alooola, Rob worked in the Investment Banking Division at Morgan Stanley in New York City. Rob earned a Bachelor of Arts in both economics and political science from Yale University in addition to later attending the University of Pennsylvania’s Business School Wharton for his MBA. Rob currently serves on the Finance Committee of St. Patrick's Church in Philadelphia, the Board of the Dough Main Financial Literacy Foundation, and the Finance Committee of the Naval Square Community in Philadelphia.
+
+kirschner:
+  sid: kirschner
+  name: William C. Kirschner, MBA
+  img: img/kirschner.png
+  bio: |
+    Bill is a Healthcare leader with over 25 years of progressive leadership experience with Penn Medicine. He has held various administrative positions in Corporate Finance and CPUP Departments, including Women’s Health and currently Radiology. He is recognized for his strong strategic planning and financial acumen, as well as working with various leadership roles across the organization. Among the significant accomplishments under Bill’s guidance include achieving 99th %tile ranking for Press Ganey for 5 consecutive years, renegotiating various contracts with outside entities (VA, Tower Health) resulting in over $2M in incremental revenue and architecting the Utilization Management programs with Independence Blue Cross. Bill received his Undergraduate Degree in Economics/Business from Ursinus College and his MBA in Finance from Saint Joseph’s University. He is father to three boys and married to his wife for 28 years.
+
+nel:
+  sid: nel
+  name: Michael Nel, MBChB, BSC (Med) Hons
+  img: img/nel.jpg
+  bio: |
+    Michael Nel lives in Cape Town, South Africa. He graduated from medical school in 2017 with an MBChB and a BSc(Med)Hons in Infectious Diseases and Immunology. Two years ago he and his wife started Radiology Tutorials, an online medical education platform for junior radiologists and trainees. He has also created three radiology physics learning pathways for Radiopaedia.org. He is passionate about medical education as well as teaching others how to distribute their own teaching in a way that is sustainable. In his spare time he loves to trail run, walk his dog and play golf.
+
+strong:
+  sid: strong
+  name: Benjamin W. Strong, MD
+  img: img/strong.jpg
+  bio: |
+    Ben Strong, MD is Chief Medical Officer of vRad. With a focus on maintaining and finding new ways to enhance our practice environment, Dr. Strong plays a critical role in advancing vRad’s efforts, along with its radiologist and hospital partners, in expanding access, improving quality and reducing the total cost of care.
+
+    Dr. Strong joined vRad as a teleradiologist in July 2004, and served as a medical director within vRad’s practice from October 2005 to October 2012. Dr. Strong is board certified in both radiology and internal medicine. Prior to joining vRad, Dr. Strong worked as an emergency room physician for the IHS, as a private practice radiologist for Inland Imaging in Spokane, WA, and as a Clinical Assistant Professor of Radiology for the University of Arizona Health Sciences Center.
+
+    Dr. Strong earned his medical degree from the University of Arizona College of Medicine, Tucson, completed his residency in internal medicine at Dartmouth-Hitchcock Medical Center, Lebanon, New Hampshire, and completed both a radiology residency and a fellowship in Musculoskeletal MRI at the University of Arizona, Arizona Health Sciences Center in Tucson. Dr. Strong is licensed to practice in all 50 U.S. states and holds credentials in a number of foreign countries.
+
+solomon:
+  sid: solomon
+  name: Jeffrey Solomon, MD
+  img: img/solomon.jpg
+  bio: |
+     Jeffrey is currently the chief medical officer and vice president of clinical affairs at XACT Robotics.  XACT Robotics is a privately held company based in Caesarea, Israel and focused on advancing the field of radiology with the world’s only handsfree robotic solution that can significantly improve targeting accuracy, efficiency, and consistency in percutaneous procedures.  He brings with him close to 30 years of combined experience in healthcare services and medical device industries. He is a founder and board member of Infiniti Medical and has consulted for numerous medical device companies. An interventional radiologist by training, Jeffrey spent more than 10 years as a practicing physician in an academic setting and brings with him a passion for education, training, and research.  Jeffrey earned undergraduate degrees with honors from Brown University in Biology and Classics. He graduated from the University of Pennsylvania School of Medicine and was elected to the AOA honor society. He then completed a residency in diagnostic radiology and a fellowship in interventional radiology at the Hospital of the University of Pennsylvania. As part of his postgraduate training, he earned an MBA from the Wharton School of Business with a concentration in health care management.  Jeffrey is a lecturer at the Wharton School of the University of Pennsylvania where he teaches a class in the management of medical devices and technology.
+
+rosin:
+  sid: rosin
+  name: Roy Rosin, MBA
+  img: img/rosin.png
+  bio: |
+    Roy Rosin is the chief innovation officer at Penn Medicine, where he works with thought leaders from across the health system to turn ideas into measurable impact in the areas of health outcomes, patient experience, and new revenue streams. Previously, Roy served as the first vice president of innovation for Intuit, a leading software company best known for Quicken, QuickBooks and TurboTax. In this role, he led changes in how Intuit manages new business creation, allowing small teams pursuing new opportunities to get to market and experiment rapidly. Roy also built innovation programs that dramatically increased entrepreneurial activity, with annual new releases increasing from five per year to 30, while time to market decreased from one year to a few months. After five years of Intuit’s new approach to growth, the company had delivered shareholder returns of three times Google and 33 times the S&P 500. Roy received his MBA from the Stanford Graduate School of Business and graduated with honors from Harvard College. Outside of work he serves as a board member and angel investor for venture-funded startups, an advisor to Fortune 100 companies and avid spectator at his kids’ track and cross country events.
+
+rudie:
+  sid: rudie
+  name: Jeff Rudie, MD PhD
+  img: img/rudie.jpg
+  bio: |
+    Jeff Rudie, MD PhD, completed a Medical Scientist Training Program at UCLA with a PhD in neuroscience in 2012. He went to the Hospital of the University in Pennsylvania for a research track radiology residency and informatics fellowship. He was a HTBAR leader from 2017-2018. He then completed a two-year Neuroradiology fellowship at UCSF in 2021. He is currently a neuroradiologist at Scripps Clinic Medical Group in San Diego, where holds leadership positions within the operations committee of the radiology group and is leading efforts to evaluate AI solutions into for Scripps Health. He is also an Adjunct Assistant Professor of Radiology at University of California, San Diego. His research is focused on developing and translating artificial intelligence into clinical practice to improve the accuracy and efficiency of neuroradiology. In particular, he is involved research used deep-learning based segmentation methods for the longitudinal assessment in neuro-oncology, including diffuse gliomas and intracranial metastases. He also conducts research through radiology societies (RSNA and ASNR) and industry, including Cortechs.ai and Subtle Medical. He is the lead organizer of the 2024 International Brain Tumor Segmentation Challenge (BraTS) on post-treatment gliomas, a member of the RSNA AI committee and course director for the ASNR/ASFNR AI workshop.
+
+alon:
+  sid: alon
+  name: Leeor Alon, PhD
+  img: img/alon.jpg
+  bio: |
+    Leeor Alon is a researcher at NYU’s Center for Biomedical Imaging. Leeor graduated from NYU’s Biomedical Imaging and Technology PhD Program in 2014 and is now an Assistant Professor working on RF hardware design and development of imaging methods based on ultra-wideband microwaves.
+
+block:
+  sid: block
+  name: Kai Tobias Block, PhD
+  img: img/block.jpg
+  bio: |
+    Kai Tobias Block is a researcher at NYU’s Center for Biomedical Imaging. Tobias graduated from the University of Goettingen, Germany in Physics. After working at Siemens Healthcare MR for several years, he joined NYU in 2011 where he focuses on the development of MRI pulse sequences and open-source software for rapid clinical translation.
+
+otero:
+  sid: otero
+  name: Hansel J Otero, MD, FAAP
+  img: img/otero.jpg
+  bio: |
+    Dr. Otero is the vice-chair for clinical research, John Westgate Hope Endowed Chair for faculty development at the radiology department at Children’s Hospital of Philadelphia and an assistant professor of Radiology at the Perelman School of Medicine at the University of Pennsylvania.
+
+    Prior to his radiology career, Dr. Otero practiced medicine in Venezuela and as an emergency response physician with Doctors without Borders/Médecins Sans Frontières (MSF) in Liberia, Sudan, Angola, Pakistan, and Yemen from 2002 to 2005. Dr. Otero has continued his international outreach in pediatric radiology. He serves as the director of outreach for the World Federation of Pediatric Imaging and a global health scholar of the Center for Global Health, Perelman School of Medicine at the University of Pennsylvania. He is also the chairperson of the Section on Radiology of the American Academy of Pediatrics and an assistant Editor of the Journal of the American College of Radiology.
+
+jha:
+  sid: jha
+  name: Saurabh (Harry) Jha, MBBS MRCS MS
+  img: img/jha.jpg
+  bio: |
+    Harry is a British-trained doctor and Penn-trained radiologist. He's a prolific writer whose work has appeared in multiple outlets such as NEJM, JAMA, Stat News and Medscape. He's a global radiology enthusiast who led a team to deliver an AI-enabled x-ray to Everest Base Camp. He works with institutions in Nepal, India, and Nigeria.
+
+hursh:
+  sid: hursh
+  name: Dennis Hursh, Esq
+  img: img/hursh.jpg
+  bio: |
+    Dennis Hursh, a veteran physicians’ lawyer, with over 40 years of health-law experience is a frequent lecturer on physician contracts to residency and fellowship programs and has spoken at events sponsored by the American Health Law Association, the American Osteopathic Association, the White Coat Investor, the American College of Rheumatology, the American Podiatry Association, and numerous health systems and physician organizations. A former contributing editor to Physicians News Digest, Dennis has authored several published articles on physician contractual matters and has literally “written the book” on physician employment agreement negotiation - “The Final Hurdle - A Physicians’ Guide to Negotiating a Fair Employment Agreement”.
+
+    Dennis represents physicians in all 50 states in reviewing and negotiating employment agreements from both a legal and financial perspective. His firm, Physician Agreements Health Law, was the first law firm in the nation to focus exclusively on physician employment agreements, and offers a fixed fee review of physician employment agreements to protect physicians in one of the biggest transactions of their careers.
+
+    Dennis has also published information you may find useful in his <a href="https://pahealthlaw.com/physician-contracts-blog/">Physician Contracts Blog</a>.
+
+batlle:
+  sid: batlle
+  name: Juan Batlle, MD, MBA
+  img: img/batlle.jpg
+  bio: |
+    Dr. Batlle is a cardiothoracic and musculoskeletal radiologist with an unusual training and professional path since he started Penn Med in 1999. He spent a little extra time at Penn and collected two additional degrees -- an MBA and an M. Bioethics -- ostensibly out of curiosity rather than professional launch delay. After training at Mass General Hospital, he returned to his Miami hometown to serve Baptist Health South Florida, the largest health system in Miami-Dade, via its radiology group, Radiology Associates of South Florida (a RadPartners group). In Miami, he served as team radiologist for the Dolphins, Heat, Panthers, Inter Miami, and FIU,  belonged to the cardiac imaging team performing more than 5000 coronary CTA per year, and developed the lung cancer screening program as well as the radiology pathways for the lung tumor team at the then-new Miami Cancer Institute. Along the way he has been active in publications and meeting presentations annually, at the SCCT in leadership positions, as well as at the ACR, where he serves as Florida Radiological Society President-Elect, Council Steering Committee member and Director of the Cardiac MRI Education Center course. In 2021 he took an unconventional professional course, moving his family to Boulder, Colorado, first as a day-work full-time partner for RASF and then eventually as a part-time employee for RASF and almost-full-time employee of Penn Medicine as an Adjunct Associate Professor. He plays a lot of recreational Ultimate frisbee, enjoys crossword puzzles and word games, and spends family time with his wife Kathy, three screenagers, and a lab mutt named Poe.
+
+goity:
+  sid: goity
+  name: Luis Goity, MD
+  img: img/goity.jpg
+  bio: |
+    Luis Goity is a PGY-6 integrated interventional radiology resident joining the Mid Atlantic Permanente Medical Group after training.  He will be joining several other Penn IR grads at the practice.  He grew up in Virginia and went to the University of Virginia for undergraduate and medical school.  His favorite part of Penn Radiology outside the angiography suite was working in Gaborone, Botswana twice during training, reading studies and performing minor procedures.
+
+bhattacharya:
+  sid: bhattacharya
+  name: Anup K. Bhattacharya, MD
+  img: img/bhattacharya.jpg
+  bio: |
+    Anup Bhattacharya is currently a Chief Neuroradiology Fellow at Penn. He grew up in the greater Philadelphia area, in Springfield, PA, and attended the University of Pennsylvania for his undergraduate degree. At Penn, he double majored in Biological Basis of Behavior and Economics. He went on to medical school at the Lewis Katz School of Medicine at Temple University, where he graduated in 2018. He completed his Transitional Year Internship at Scripps Mercy Hospital in San Diego, CA, where he was Intern of the Year. In 2019, Anup embarked on his radiology residency training at the Mallinckrodt Institute of Radiology of the Washington University School of Medicine in St. Louis / Barnes-Jewish Hospital. In his final year of residency in 2023, he completed a mini-fellowship in breast imaging. Anup will join the world of private practice radiology in July 2024 on the partnership track for Progressive Physician Associates / St. Luke's University Health Network based out of Bethlehem, PA, where he will read predominantly neuroradiology with some breast imaging. In his spare time, Anup enjoys rooting on his Philadelphia sports teams, traveling, healthy eating and fitness and has recently taken an interest in personal finance and investment.
+
+chahine:
+  sid: chahine
+  name: Chantal Issam Chahine, MD
+  img: img/chahine.png
+  bio: |
+    Chantal Issam Chahine, MD, is a diagnostic radiology resident at Penn Medicine and the Pennsylvania Radiological Society Residents and Fellows Section representative. During her residency she has been involved in outreach programming with the rIDE committee as well as scholarly work pertaining to conducting effective health equity research and to bridging the radiology representation gap through early intervention. To this end, she has also mentored undergraduates and medical students of diverse backgrounds at various stages of their professional journey. Her interests include implementation science as a bridge from research to practical applications of evidence-based interventions, particularly as they pertain to equity in medical education at an international level, and to health outcomes on a regional level. Her professional interests include political advocacy and its bearing on health equity from the standpoint of access to care, affordability, and best practices. She is an advocate for early specialization in radiology training and will be doing an enfolded 4th year MSK fellowship in 2024-2025 with the goal of staying on staff as an MSK radiologist at Penn. She received her MD from the University of Balamand, Lebanon. 
+
 pantel:
   sid: pantel
   name: Austin Pantel, MD, MSTR
   img: img/pantel.jpg
-  bio: "Austin is an Assistant Professor of Radiology at Penn, as well as the Program Director of the Nuclear Radiology Fellowship. After completing the research track here, he completed an MSTR degree at Penn studying the human translation of novel radiotracers. Austin's current research focuses on translation of [18F]Fluoroglutamine and [18F]FluorThanatrace, as well the PennPET Explorer, a novel whole-body PET scanner. He is also involved in numerous other, smaller projects. Austin and his wife Lourdes (a cardiac anesthesiologist at Penn and his med school classmate) recently welcomed their first child, a little baby girl named Lucy. Lucy has recently discovered the french fry (see picture) and will soon try a JBC!"
-soulen:
-  sid: soulen
-  name: Michael C Soulen, MD, FSIR, FCIRSE
-  img: img/soulen.jpg
-  bio: "Michael C. Soulen, MD, FSIR, FCIRSE is Professor of Radiology and Director of Interventional Oncology at the University of Pennsylvania Abramson Cancer Center and Director of Clinical Research in the Division of Interventional Radiology. His major clinical and research focus for the past 30 years has been image-guided cancer therapy (interventional oncology), with a specific focus on embolotherapy and ablative therapy of solid tumors in the liver and kidney. Animal research includes swine, rabbit, and rat models for liver-directed therapies, investigating novel embolic agents, novel ablation devices, and ultrasound-mediated drug delivery using novel drug-loaded microbubble contrast agents. Clinic trials focus on embolotherapies for primary liver cancers, liver metastases from colorectal and neuroendocrine tumors, and renal cell carcinomas. Current clinical investigations focus on synergy between locoregional and systemic therapies, including 1) pharmacologic modulation of the metabolic stress response under conditions of embolic ischemia; 2) IR therapies as immunostimulants combined with immune checkpoint inhibition, 3) radioembolization with radiosensitizing drugs; 4) serial biopsy for tumor cell culture, rapid drug screening, sequencing and testing in PDX mice, with the goal of personalized precision medicine; and 5) the first international randomized trial comparing embolotherapy techniques for neuroendocrine tumor liver metastases. Dr. Soulen received Research Mentor awards from the University of Pennsylvania Department of Radiology and the North American Neuroendocrine Tumor Society and the Gold Medal from the Society of Interventional Radiology."
-hyland:
-  sid: hyland
-  name: Stephanie Hyland, PhD
-  img: img/hyland.jpg
   bio: |
-    Stephanie Hyland, PhD is a Principal Researcher in Microsoft Research Health Futures. She works on multimodal machine learning and its use for healthcare, with a special focus on radiology as part of Project MAIRA. Her research to date also includes the modelling of medical time series of the kind found in electronic health records, especially physiological time series from ICU patients. Above all she is interested in making machine learning practically useful; as such she enjoys working closely with clinical collaborators to identify problems where machine learning can support human experts, as well as thinking carefully on how to evaluate and validate models.
+    Austin is an Assistant Professor of Radiology at Penn, as well as the Program Director of the Nuclear Radiology Fellowship. After completing the research track here, he completed an MSTR degree at Penn studying the human translation of novel radiotracers. Austin's current research focuses on translation of [18F]Fluoroglutamine and [18F]FluorThanatrace, as well the PennPET Explorer, a novel whole-body PET scanner. He is also involved in numerous other, smaller projects. Austin and his wife Lourdes (a cardiac anesthesiologist at Penn and his med school classmate) recently welcomed their first child, a little baby girl named Lucy. Lucy has recently discovered the french fry (see picture) and will soon try a JBC!
 
-    Prior to joining Microsoft, she completed her PhD at Cornell University/Weill Cornell Medicine/Sloan Kettering Cancer Center in Computational Biology and Medicine, and studied Theoretical Physics and Applied Mathematics at Trinity College Dublin (BA Mod.) and Cambridge University (Part III; MASt).
-schmitt:
-  sid: schmitt
-  name: James Eric Schmitt, MD, PhD
-  img: img/schmitt.jpg
-  bio: "Eric grew up in the semi-rural outskirts of Richmond, Virginia, suffused with Gen X angst and the smell of tobacco. Desperate for change, he moved to Silicon Valley for college. While in Cali he picked up biology and psychology degrees, a spouse from the PNW, and an undying love for both quantitative neuroscience and Zachary’s pizza. He worked his way up from undergrad lab rat to manager at the Center for Interdisciplinary Brain Science Research, performing some of the first quantitative MRI studies on neurogenetic diseases -- most notably Williams syndrome and 22q11.2. He then returned to Richmond to learn statistical genetics from the gurus at the Institute for Psychiatric and Behavioral Genetics, and completed his MD/PhD dissertation on the genetics of neurodevelopment in collaboration with NIMH Intramural. After a brief New Haven detour for internship (and more pizza), he landed at Penn for both research track residency and neuro/informatics fellowships, finishing up in 2016. He is now an Assistant Professor of Radiology and Psychiatry, and has been part of the Penn family for 13.5 years (which coincidentally is the exact age of his third child). He strives to make meaningful contributions to all aspects of Penn’s tripartite mission--despite pressures for increasing specialization--and is occasionally successful. He is the Associate Director of the Penn Neuraxis course, has won the neuro division teaching award 2 of the last 4 years."
+siegelman:
+  sid: siegelman
+  name: Evan S. Siegelman, MD
+  img: img/siegelman.jpg
+  bio: |
+    Evan Siegelman, MD, is professor of Radiology in the Abdominal Imaging Division at Penn Medicine. He has chaired the Resident Selection Committee since 2002. He has won the Wallace T. Miller Sr. Teaching Award more than any single faculty member in the history of Diagnostic Radiology at Penn.  He is the "Jedi Master" of teaching the principles and practice of Body MR. He has published an early definitive textbook on Body MR and has lectured regionally, nationally and internationally on applications of Body MR. He is currently a member of the ORADS (ovarian reporting and data system) Committee and a former member of the LI-RADS working group.
+
+curnes:
+  sid: curnes
+  name: Natalie Curnes
+  img: img/curnes.jpg
+  bio: |
+    Natalie graduated from the University of North Carolina at Chapel Hill with a BS in Business Administration from the Kenan-Flagler School of Business and a minor in Environmental Studies.
+
+    Natalie focuses on investments in the enterprise software and digital health sectors. Prior to TCV, Natalie was an early-stage consumer investor at AF Ventures and before that was a generalist investor at Harvest Partners. Natalie began her career in investment banking at Morgan Stanley.
+
+    Natalie currently lives in New York City where she can be found jogging up and down the West Side Highway or frequenting her favorite Italian spots for a bowl of pasta. When the weather turns cold, Natalie trades in running for her newfound love of skiing and can be spotted (unsuccessfully) chasing her friends and family down the Wasatch mountains.
+
+shah:
+  sid: shah
+  name: Samir Shah, MD, MMM, FACR
+  img: img/shah.jpg
+  bio: |
+    Dr. Samir S. Shah, a highly accomplished radiologist with 20 plus years of experience in practice, serves as the Chief Medical Officer (CMO) at Qure.ai. In this role, he not only guides the company's product development, clinical research and U.S. expansion but also leads the team with his extensive expertise in teleradiology and healthcare management. Throughout his distinguished career, Dr. Shah has held pivotal senior leadership positions at large radiology practices as a physician executive including Envision Healthcare, NightHawk Radiology Services, Virtual Radiologic (vRad), and Radiology Partners. His training at the University of Pennsylvania, where he was the inaugural recipient of the Baum-Laufer Service Excellence Award, and Interventional Radiology fellowship at Northwestern University, coupled with his academic experience as a Clinical Assistant Professor at UPMC in Pittsburgh, PA, provides him with a multifaceted background and a comprehensive understanding of the specialty.
+
+    Dr. Shah's academic achievements, include receiving a Master of Medical Management degree from Carnegie Mellon University and obtaining a professional executive certificate in Artificial Intelligence from MIT's Sloan School of Management, are a testament to his drive to revolutionize healthcare. Dr. Shah serves on the Board of Directors at the Pennsylvania Radiological Society, has won multiple awards for his research in radiology and has authored many scientific articles in the radiology literature. Dr. Shah has lectured nationally as a consultant for GE Healthcare on contrast media usage.
+
+    Dr. Shah serves on several national radiology committees and is a member of the Editorial Advisory Board for Imaging Economics. He is also a fellow of, and a Councilor to the American College of Radiology, and has served as Past President of the Pittsburgh Roentgen Society, along with volunteering on the Board of the Albert Schweitzer Fellowship Program
+
+hochstetler:
+  sid: hochstetler
+  name: Adam Hochstetler
+  img: img/hochstetler.jpg
+  bio: |
+    Adam Hochstetler has over 12 years in the healthcare space with a specialization in working with transformative healthcare technology companies. Throughout his career, Adam has helped scale a regional teleradiology group, StatRad, to become a national teleradiology operator. In addition, Adam was also paramount in helping scale the nation’s largest medical image exchange platform, Nuance. Before joining Aidoc, he was also part of a small startup team that built a disruptive telemedicine platform for the post-acute industry prior to and through COVID. Adam now is in a senior leadership position within Aidoc’s Innovation team.
+
 sellmyer:
   sid: sellmyer
   name: Mark Sellmyer, MD, PhD
   img: img/sellmyer.jpg
-  bio: "Mark was born and raised in Lincoln, Nebraska, where he developed a deep appreciation for corn-on-the-cob and a love of Husker football. After soaking in the sweetness of a college town in the midwest, Mark attended M.I.T. and majored in Chemistry (BS) with a concentration in Music. During his undergraduate degree, Mark joined Joe Jacobson's group called the Molecular Machines Lab in the M.I.T. Media Lab. The interdisciplinary nature of that environment, combining engineering with chemistry and biology, was inspiring and fostered the habit of doing experimental science at the same time as attempting to accomplish other things. That habit transformed into a full-blown MD/PhD in the Stanford MSTP program. At Stanford, Mark trained in chemical biology with Tom Wandless and found translational applications for new technologies using molecular imaging with Chris Contag. The natural combination of these fields are the foundation of his research today. Mark then came to the University of Pennsylvania as a research track radiology resident and completed a Nuclear Radiology fellowship. If he isn't in his office thinking “deep thoughts” or reading scans as a radiologist in the clinic, he's probably playing with his four kids, his wife, and their black lab in the backyard while growing and eating corn."
-depietro:
-  sid: depietro
-  name: Dan DePietro, MD
-  img: img/depietro.png
-  bio: Dr. DePietro completed his undergraduate education in bioengineering at Lehigh University and received his medical degree from the Perelman School of Medicine at Penn. During his residency in interventional radiology at Penn he participated in the TEACH track and pursued interests in both clinical research and medical education, culminating with roles as a Cope-Cook research fellow in IR and as a Measey medical education fellow in his final year. He is now a CE track assistant professor in the IR division and continuing to pursue these interests, and was recently named a co-course director for the 1st year anatomy course in the medical school.
-kim:
-  sid: kim
-  name: Phillip Kim, MD, MPH
-  img: img/kim.jpg
-  bio: Phillip Kim initially joined medicine to become a surgeon, then initially joined radiology to become an interventionalist, and then finally decided to become a diagnostician. His interests have evolved over time. During residency at Georgetown, he ventured out and developed a 3D printing lab with his mentor in his office. His most proud print is an interactive Couinaud segmentation model of the liver. He loves every single aspect of abdominal imaging but particularly PIRADS. Phillip completed informatics fellowships at Georgetown and Penn. His special interests are radiology workflow optimization and its interplay with human behavior. He implemented lab values on the Epic reading palette and cleverly named the project the CLEVER (Clinical Lab Value Extraction for Radiology) project. His current works include Sectra display protocol development, ED-Radiology collaborative initiative in reducing over-utilization of CT GI Bleeding studies, reduction in inappropriate retroperitoneal US within 24 hours of CT for AKI, etc. Phillip currently serves as the fluoroscopy modality chief and Sectra liaison.
-campbell:
-  sid: campbell
-  name: Frank Campbell, MS
-  img: img/campbell.jpg
-  bio: Frank is the Medical Education Liaison Librarian. In this role, he works to increase engagement between the Library and the M.D. program of Penn’s Perelman School of Medicine. Frank earned a BA in Biology, and an MS in Library and Information Science from the University of Missouri-Columbia. Before coming to Penn, he was a medical reference librarian at the Virginia Commonwealth University/Medical College of Virginia.
-tischfield:
-  sid: tischfield
-  name: David Tischfield, MD, PhD
-  img: img/tischfield.jpg
-  bio: David spent the majority of his childhood in Indiana and New Jersey. After high school, he attended Harvard College to earn a bachelor's degree in neuroscience. He then entered UPenn's MD/PhD program, followed by a preliminary medicine year at Pennsylvania Hospital before commencing his diagnostic radiology residency at UPenn. David graduated from the research track, conducting the majority of his research within the PIGI lab. There, he contributed to the development of PDX models of HCC and characterized immune responses to TACE in HCC. Currently a nuclear radiology fellow at UPenn, David is using functional metabolic imaging to better understand metabolic vulnerabilities in HCC and enhance diagnostic imaging paradigms. He is set to join the UPenn faculty in the CE track beginning in July. Outside of work, David is an avid snowboarder, hiker, and world traveler, though he spends most of his time watching TV on the couch with his wife, Jill, son, Nathan, and cat, Kitty Monster.
-nadolski:
-  sid: nadolski
-  name: Gregory Nadolski, MD
-  img: img/nadolski.jpg
-  bio: Dr. Nadolski received his medical degree from the Indiana University School of Medicine, where he graduated with highest honors and was the recipient of the Marcus Ravdin Award for highest academic achievement. He completed his post- graduate training in Radiology and Interventional Radiology at the University of Pennsylvania. During his residency, he co-founded the Penn Image Guided Interventions Laboratory. As faculty Dr. Nadolski completed a Master's in Translational Science Program at the University of Pennsylvania with a focus on clinical trial design and development of novel therapeutics. His research and clinical interests include multimodality therapies for the treatment of hepatocellular carcinoma and lymphatic leaks. He has started several investigator initiated clinical trials at the Hospital of the University of Pennsylvania for treating hepatocellular carcinoma and participated in or served as site PI for numerous federally funded and industry sponsored oncology trials.
-lexa:
-  sid: lexa
-  name: Frank Lexa, MD, MBA, FACR
-  img: img/lexa.jpg
   bio: |
-    Frank J. Lexa, MD, MBA, FACR is an academic neuroradiologist at the University of Pittsburgh where he is a Professor and the Vice Chair for Faculty Affairs. At Pitt, he also works in several capacities for UPMC International and teaches at the Katz business school.
+    Mark was born and raised in Lincoln, Nebraska, where he developed a deep appreciation for corn-on-the-cob and a love of Husker football. After soaking in the sweetness of a college town in the midwest, Mark attended M.I.T. and majored in Chemistry (BS) with a concentration in Music. During his undergraduate degree, Mark joined Joe Jacobson's group called the Molecular Machines Lab in the M.I.T. Media Lab. The interdisciplinary nature of that environment, combining engineering with chemistry and biology, was inspiring and fostered the habit of doing experimental science at the same time as attempting to accomplish other things. That habit transformed into a full-blown MD/PhD in the Stanford MSTP program. At Stanford, Mark trained in chemical biology with Tom Wandless and found translational applications for new technologies using molecular imaging with Chris Contag. The natural combination of these fields are the foundation of his research today. Mark then came to the University of Pennsylvania as a research track radiology resident and completed a Nuclear Radiology fellowship. If he isn't in his office thinking “deep thoughts” or reading scans as a radiologist in the clinic, he's probably playing with his four kids, his wife, and their black lab in the backyard while growing and eating corn.
 
-    Previously, he served as a Professor, Associate Chief and Vice Chair of Strategy and Leadership in the Department of Medical Imaging at the University of Arizona. He began his career in France with a visiting position at the Université de Bordeaux and has been a Clinical Professor at the University of Pennsylvania School of Medicine and a Professor of Radiology at the Drexel University College of Medicine where he was also the Vice Chair.
-
-    He has been honored with several major scientific research awards including the Cornelius G. Dyke Memorial award of the American Society of Neuroradiology. He also works outside of academic medicine and was a member of the adjunct faculty of the Wharton School of the University of Pennsylvania in the marketing department for seventeen years where he taught both graduate and executive MBA students in the Global Consulting Practicum. That took him to five continents. In the GCP, he served in multiple leadership roles including: the Spain, United Arab Emirates, and Israel Country Manager positions as well as the East Asia Regional manager for mainland China and Taiwan.
-
-    He served as an ASNR International Outreach professor in Lviv, Ukraine in 2017 and in Tanzania in 2023. For several years he also held an appointment as a Professor of Business Development in the Life Sciences at the Instituto de Empresa in Madrid, at the time the top business school in Europe. There he twice won the prestigious “Prize of Excellence” for outstanding teaching. He has also done international medical and educational work in multiple nations including Uganda, Thailand, China, and Russia with plans to go to Ghana in 2024.
-
-    Dr. Lexa lectures, consults, and writes extensively on issues at the interface of health care and business. He has authored over 170 peer reviewed papers as well as numerous articles in the general medical press and in alternative media and has also contributed multiple book and encyclopedia chapters. He has given over 2,000 academic, invited, educational, business and Grand Rounds lectures as well as chaired and directed numerous educational meetings for academic, professional and business organizations. His book “Leadership Lessons for Success in Health Care” takes a systematic approach to developing medical leadership skills.
-
-    He has chaired, co-chaired and served on several key national committees and task forces for major organizations in US radiology. He is the Chief Medical Officer of the Radiology Leadership Institute of the ACR as well as the Chair of the RLI Board. He served as the 2022-2023 Vice President of the American College of Radiology and in that role also served on the Board of the Canadian Association of Radiologists. He co-led the ACR’s Five Year Strategic Planning process cycle which was completed in 2022. He is also the current chair of the ACR International Economics Committee and a member of the ACR International Commission. He served on the Board of Chancellors of the ACR for two terms as the Chair of the Commission on Leadership and Practice Development. He also served for six years as a founding co-chair of the Future Trends Committee for the ACR and was also on the Budget and Finance Committee.
-
-    In 2022, he began a three-year term as the chair of the Intersociety Committee which brings together all of the key organizations in US radiology. He has also worked on a cooperative agreement with the International Society of Radiology and that has led to leadership programs in Lusaka, Zambia and in the Phillipines.
-
-    Previously he directed health care investments for the British Technology Group International and worked as a strategic consultant for the Boston Consulting Group in their healthcare practice. He is the founder and CEO of a boutique health care strategy group: LSG Ventures. For several years, he was a partner at Philadelphia Ventures-a venture capital firm focusing on high tech medical and information technology early stage investments and he continues to work with start up companies and venture firms in the healthcare sector.
-
-    He was educated and did his medical training in Boston, the San Francisco Bay Area, and in Philadelphia. He is a licensed GA airplane pilot and an avid skier and SCUBA diver. He has raised money for several charities in multiple ways including a 100 mile bike ride for MS research. In his spare time, he cycles and chases after his Portuguese water dog Gabby and his pot belly pig, Pyper.
-birnbaum:
-  sid: birnbaum
-  name: Julia Birnbaum, MD
-  img: img/birnbaum.jpg
-  bio: |
-    Julia Birnbaum, MD is an Assistant Professor of Clinical Radiology and one of our stellar breast attendings. She is originally from Long Island and if you ask nicely might get her to slip into a true ‘Noo Yawker’ accent! She has lived in 7 states on both coasts and visited 41 states and Puerto Rico and counting. She did a fellowship in Women’s Imaging at Penn in 1997 and never left. Julia has worked in both breast and ultrasound, but more recently been only in the breast department where she is an expert in ultrasound and image guided interventions.
-
-    She once thought she wanted to do medical segments on news broadcasts and so spent some time working at KABC-TV in Los Angeles where she researched and produced medical segments. She also contributed to a medical documentary, book, and cookbook on high cholesterol.
-
-    She is a mom of 4 (ages 16--36) and grandmom of a newborn, and has a 6 year old poodle. When not reading mammograms she can be found reading psychological thrillers, listening to country music, catching a Broadway show, or relaxing at the Jersey shore.
-reid:
-  sid: reid
-  name: Janet R. Reid, MD, FRCPC, MSEd
-  img: img/reid.jpg
-  bio: |
-    Janet R. Reid, MD, FRCPC, MSEd, is an attending physician and Vice Chair of Education in the Department of Radiology at Children's Hospital of Philadelphia. She holds the Patricia Borns Endowed Chair in Radiology Education. She is a Professor of Radiology, University of Pennsylvania, Perelman School of Medicine. She runs an active Education Innovation team in CHOP Radiology studying the best ways to personalize learning and educate the next generation of radiologists.
-schnall:
-  sid: schnall
-  name: Mitchell Schnall, MD, PhD
-  medschool: UPenn
-  phd: UPenn
-  residency: UPenn
-  img: img/schnall.png
-  bio: |
-    Mitchell D. Schnall, MD, PhD, is the Eugene P. Pendergrass Professor of Radiology and Chair of the Radiology Department at the Perelman School of Medicine, University of Pennsylvania. Dr. Schnall is an international leader in translational biomedical and imaging research, working throughout his career across the interface between basic imaging science and clinical medicine to ensure effective integration of radiology research with other medical disciplines. His work has led to fundamental changes in the imaging approaches to breast and prostate cancer, and he continues to have a significant influence on emerging imaging technologies, including those in optical imaging. Dr. Schnall has played a critical role in efforts to organize cancer clinical and translational imaging research in the US. He has been the principal investigator of numerous team science initiatives. In 2008 he assumed the role of ACRIN Chair. Among the important trials ACRIN completed under his leadership is the landmark National Lung Cancer Screening trial that demonstrated the ability of low dose lung cancer screening to reduce lung cancer mortality by 20% in high risk patients. Dr. Schnall was one of the architects of the merger of ECOG and ACRIN to form the new ECOG-ACRIN Cancer Research Group, which he now co-Chairs. Dr. Schnall has been elected as a member of the American Society for Clinical Investigation, the Association of American Physicians and the Institute of Medicine of the National Academy of Sciences (now the National Academy of Medicine)
-hwang:
-  sid: hwang
-  name: Misun Hwang, MD, MS
-  img: img/hwang.jpeg
-  bio: Misun Hwang, MD, MS, is the Director of the Section of Neonatal Imaging and an attending radiologist with the Department of Radiology at Children's Hospital of Philadelphia. She conducts cutting edge research in neonatal imaging using contrast enhanced ultrasound to explore microcirculation of the neonatal brain and other organs.
-edmonds:
-  sid: edmonds
-  name: Christine Edmonds, MD
-  medschool: UPenn
-  residency: UPenn
-  fellowship: Breast Imaging, Memorial Sloan-Kettering Cancer Center
-  img: img/edmonds.png
-  bio: |
-    Christine Edmonds, MD is an Assistant Professor of Radiology at Penn and one of our fabulous breast radiologists. When not zooming around the reading room moving effortlessly from biopsy to screener to diag, she is crushing it in the research world with projects spanning from racial disparities in breast cancer to molecular imaging. She is also a Mom of two!
-simpson:
-  sid: simpson
-  name: Scott Simpson, DO, MS, MSEd
-  masters: Medical Education, UPenn
-  medschool: New York College of Osteopathic Medicine
-  residency: Temple
-  fellowship: Cardiothoracic Imaging, UPenn
-  img: img/simpson.jpg
-  bio: |
-    Dr. Simpson graduated from Penn's cardiothoracic imaging fellowship in 2014, spent 3 years at Temple University Hospital and then returned to Penn in 2017. Since he has returned to Penn his leadership efforts have mostly on education. He serves as the APD for the radiology residency, Director of Radiology Medical Student Education for PSOM, and Co-Founder and Director of the Penn Radiology TEACH track. Dr. Simpson recently completed a Masters in Medical Education at Penn's GSE. He is married to Michelle Hershman and the father of a baby boy!
-scanlon:
-  sid: scanlon
-  name: Mary Scanlon, MD, FACR
-  medschool: Medical College of Pennsylvania
-  residency: Albert Einstein Medical Center
-  fellowship: Cardiothoracic Imaging, UPenn
-  img: img/scanlon.jpg
-  bio: |
-    Mary Helene Scanlon, MD FACR, is a Clinical Professor of Radiology at Penn Medicine and the Vice Chair of Education. She divides her clinical practice between the Division of Neuroradiology at Penn Medicine and the Department of Radiology of the Philadelphia Veterans Affairs Medical Center. Her subspecialty within Neuroradiology is Head and Neck. She has been program director since 2006, the same year she won the Wallace T. Miller Sr. Teaching Award.
-    Dr. Scanlon’s research interests center on radiology education and new ways to reach Gen Z and Millennials.
-    She is passionate about organizational and political activism:
-    • She is the current president of APDR (Association of Program Directors in Radiology)
-    • She is past president of the Philadelphia Roentgen Ray society and Pennsylvania Radiological Society. She was the honored radiologist by both societies.
-    • She chaired the APDR Procedure task force to ensure that resident training meets the procedural needs of the populations we serve.
-    • She is currently a board member and Treasurer for ACR’s RadPac.
-    • She was named 2020 ACR Advocate of the Year.
-jha:
-  sid: jha
-  name: Saurabh (Harry) Jha, MD
-  medschool: University of London
-  residency: General Surgery, London & Worthing and Radiology, UPENN
-  fellowship: Cardiovascular Imaging, UPenn
-  img: img/jha.jpeg
-  bio: |
-    Harry is a British-trained doctor and Penn-trained radiologist. He's a prolific writer whose work has appeared in multiple outlets such as NEJM, JAMA, Stat News and Medscape. He's a global radiology enthusiast who led a team to deliver an AI-enabled x-ray to Everest Base Camp. He works with institutions in Nepal, India, and Nigeria.
-rosin:
-  sid: rosin
-  name: Roy Rosin, MBA
-  mba: Stanford
-  img: img/rosin.png
-  bio: |
-    Roy Rosin is the chief innovation officer at Penn Medicine, where he works with thought leaders from across the health system to turn ideas into measurable impact in the areas of health outcomes, patient experience, and new revenue streams. Previously, Roy served as the first vice president of innovation for Intuit, a leading software company best known for Quicken, QuickBooks and TurboTax. In this role, he led changes in how Intuit manages new business creation, allowing small teams pursuing new opportunities to get to market and experiment rapidly. Roy also built innovation programs that dramatically increased entrepreneurial activity, with annual new releases increasing from five per year to 30, while time to market decreased from one year to a few months. After five years of Intuit’s new approach to growth, the company had delivered shareholder returns of three times Google and 33 times the S&P 500. Roy received his MBA from the Stanford Graduate School of Business and graduated with honors from Harvard College. Outside of work he serves as a board member and angel investor for venture-funded startups, an advisor to Fortune 100 companies and avid spectator at his kids’ track and cross country events.
 mankoff:
   sid: mankoff
   name: David Mankoff, MD, PhD
-  medschool: UPenn
-  phd: UPenn
-  residency: Internal Medicine and Nuclear Medicine, University of Washington
   img: img/mankoff.jpg
   bio: |
     Dr. David Mankoff is the Matthew J. Wilson Professor and Vice-Chair for Research. He also serves as the Associate Director for Education and Training for Penn’s Abramson Cancer Center (ACC). He is a graduate of Penn’s MSTP Program and holds a PhD in Bioengineering focusing on PET instrumentation. He practices Nuclear Medicine, with a special interest in oncologic applications of molecular imaging and radiopharmaceutical therapy. In addition to his role in education and training for the ACC, Dr. Mankoff and serves as mentor for Penn’s MSTP and MSTR programs. Dr. Mankoff’s research focuses on molecular imaging of cancer, primarily on breast cancer, and emphasizes molecular imaging biomarkers for precision oncology, therapeutic monitoring, and identifying biologic factors mediating therapeutic response and resistance. He also works on the translation of new methods into clinical trials and clinical practice and on methods for quantitative imaging and image analysis. Dr. Mankoff is an Komen Scholar for the Susan G. Komen Foundation and Co-Chairs the Radiologic Society of North America (RSNA) Research Vice-Chair Group. Dr. Mankoff is a past member and President of the American Board of Nuclear Medicine and is on the editorial boards of Nuclear Medicine and Biology, Breast Cancer Research, Journal of Nuclear Medicine, and Clinical Cancer Research and serves as an Associate Editor for the Journal of Nuclear Medicine and Deputy Editor for Breast Cancer Research.
-loevner:
-  sid: loevner
-  name: Laurie Loevner, MD
-  medschool: UPenn
-  residency: University of Michigan
-  fellowship: Neuroradiology, UPenn
-  img: img/loevner.jpg
+
+qiao:
+  sid: qiao
+  name: John Qiao, MD
+  img: img/qiao.png
   bio: |
-    Laurie A. Loevner, MD, is the Chief of the Neuroradiology Division. Dr. Loevner joined the Penn faculty as an Assistant Professor in 1995. She rapidly ascended through the ranks to Professor of Radiology in 2005, and has joint appointments in Otorhinolaryngology: Head and Neck Surgery, Neurosurgery, and Ophthalmology at the University of Pennsylvania. Dr. Loevner reflects the tri-partite mission of clinical, educational and academic excellence. She was the recipient of the IS Ravdin Master Clinician Award in 2009 in recognition of her clinical expertise and compassionate delivery of care to patients. She has been recognized as a "top doc" in Philadelphia magazine and "best doctors" most years of her career. She was inducted into the Academy of Master clinicians at UPenn, and is now on their Board of Directors. Dr. Loevner is a highly respected local, national and international educator and lecturer, and is the recipient of numerous teaching awards. She has been invited to give over 500 lectures nationally and internationally. She is widely respected in the global Neuroradiology community for her expertise and leadership in the field, and has served as President of the American Society of Neuroradiology in 2015-2016, President of the American Society of Head and Neck Radiology in 2009-2010, and President of the Eastern Neuroradiological Society in 2001-2002. Dr. Loevner is currently the Co-Chair of the Foundation of the ASNR. She also chairs numerous committees for the ASNR and the RSNA. Dr. Loevner has made important scientific contributions to our understanding of the radiologic manifestations of head and neck cancer, as well as the role of imaging in determining surgical candidacy. She has published over 150 articles, numerous chapters, and she has authored five textbooks. She has also been a leader in the clinical translation of functional imaging biomarkers to predict and monitor the treatment response of head and neck cancer. She was the 2012 Recipient of the Prize of Innovation and Excellence from the Canadian Radiological Society for her body of research in head and neck MRI. Dr. Loevner has a focused interest in the academic mentoring of trainees and junior faculty, and in multidisciplinary collaboration. Her energy is directed toward continuing Penn’s legacy of national leadership in Neuroradiology.
-lazor:
-  sid: lazor
-  name: Jillian Lazor, MD
-  img: img/lazor.jpg
+    John Qiao is the incoming Chief resident for the Integrated Interventional Radiology Program at UTHealth Houston / M.D. Anderson Cancer Center.  He is a first-time physician founder who has been working for over half a decade to develop an interventional oncology access platform for emerging in vivo electroporation-based cancer treatments.  He is from Upstate New York, a proud dad to a 6 month old son named Leo, and husband to a lovely lady from Long Island.  He is learning everyday. 
+
+sadee:
+  sid: sadee
+  name: Christoph Sadée, MS
+  img: img/sadee.jpg
   bio: |
-    Jillian Lazor, MD, is an Assistant Professor of Clinical Radiology.  She completed her diagnostic radiology residency at the Hospital of the University of Pennsylvania, while also completing the University of Pennsylvania 16-month integrated nuclear radiology fellowship and serving as radiology chief resident.  She then completed a two-year neuroradiology fellowship at the Hospital of the University of Pennsylvania, with a subspecialty concentration in head and neck imaging. Dr. Lazor is board certified by both the American Board of Nuclear Medicine and American Board of Radiology. Her clinical practice is in the neuroradiology and nuclear radiology divisions at the Hospital of the University of Pennsylvania, with a particular interest in head and neck imaging. In addition to serving as Associate Program Director for the diagnostic radiology residency, Jillian is also the Clinical Director of Neuroradiology at Pennsylvania Hospital.
-    Jillian has many interests:
-    • Her clinical and research interests center on multi-modality head and neck oncologic imaging, including MRI and molecular imaging.
-    • She is committed to resident and fellow education and was awarded Teacher of the Year for the Pennsylvania Hospital Radiology Residency in 2019, and the Wallace T. Miller, Sr. Award for Excellence in Resident Teaching and Neuroradiology Fellowship teaching awards in 2023.
-cook:
-  sid: cook
-  name: Tessa Cook, MD, PhD, CIIP, FSIIM, FCPP
-  img: img/cook.jpg
-  bio: |
-    Dr. Cook is an Associate Professor of Radiology at the Perelman School of Medicine at the University of Pennsylvania in Philadelphia, and Vice Chair of Practice Transformation in the Department of Radiology. She is an active member of multiple radiology societies, including the RSNA, ACR, SIIM, and AUR. She is the director of the Imaging Informatics Fellowship and Modality Chief of 3-D and Advanced Imaging. Dr. Cook is the Chair of the Society for Imaging Informatics in Medicine (SIIM). In 2020, she was inducted into the College of SIIM Fellows and received SIIM’s Dr. Ruth Dayhoff Award for the Advancement of Women in Medical Imaging Informatics. She pursues innovative methods to enhance care delivery in radiology and improve radiologists' workflow.
-dinglasan:
-  sid: dinglasan
-  name: Lu Anne V. Dinglasan, MD, MHS
-  img: img/dinglasan.jpg
-  bio: |
-    Dr. Dinglasan is an Assistant Professor at the University of South Florida Morsani College of Medicine and at the University of Central Florida College of Medicine, and a full time breast/body/IR attending at the Bay Pines VA in sunny St. Petersberg, FL. She serendipitously discovered radiology as a medical student at Yale while taking a late 4th year elective to contemplate her surgery future after a particularly misogynistic away surgical rotation… and never looked back. While at Penn for radiology residency, Dr. Dinglasan’s love for education and teaching flourished under Mary Scanlon, and since the core of her interests always intersected with people, pictures, and patient care, specializing in IR and breast imaging was a natural fit (even though they are at two different ends of the radiology spectrum!). As she went pedal to the metal as a full-time radiologist in academia (week long trauma call, IR, ER coverage, breast, abstracts, posters, meetings, winning Educator of the Year and the only Outstanding Physician Award ever bestowed to a radiologist at the university) while simultaneously giving birth to three girls in three years… she discovered a mass that would change her life. Come along on the journey she took which eventually led her to the VA- where she is still a full-court press radiologist, clinician and educator but also has time to be a hard-core hands on mom, community volunteer, novice fencer, amateur pianist, foodie traveler, and most importantly expert chocolate chip cookie baker.
-zafar:
-  sid: zafar
-  name: Hanna Zafar, MD, MHS
-  medschool: Jefferson Medical College
-  residency: UPenn
-  fellowship: Abdominal Imaging, UPenn
-  img: img/zafar.jpg
-  bio: |
-    Hanna M. Zafar, MD, MHS, received her BA in Biological Basis of Behavior at the University of Pennsylvania in 1995, her MHS with a concentration in Health Policy from the Johns Hopkins School of Hygiene and Public Health in 1998, and her MD from Jefferson Medical College in 2002. After completing her radiology residency and Abdominal Imaging fellowship from the Hospital of the University of Pennsylvania in 2008 she joined the faculty in the Department of Radiology at the Perelman School of Medicine, where she is now an Associate Professor. Her research focus is in identification of gaps at the intersection of clinical medicine and radiology care systems and the design of novel interventions that positively impact the practice of evidence-based radiology. She has published on optimizing the reporting, management, and outcomes of non- emergent actionable imaging findings, evidence based clinical decision support at the time of image order entry, and comparative effectiveness in cancer imaging.
-pogozelski:
-  sid: pogozelski
-  name: Andrea Pogozelski M.P.H., B.S., R.T., MR, CT
-  img: img/pogozelski.jpg
-  bio: |
-     Andrea Pogezelski, a New Jersey native, loves the east coast lifestyle, with its captivating beaches and mountains. Her journey at Penn began in 2014 as the HUP MRI manager. In 2022, she transitioned to the role of HUP Assistant Director of Radiology in the Patient Safety and Quality division. With over 25 years in radiology, she has developed an in-depth understanding of all facets of the field, from technical aspects to management, through her role in quality leadership. Her experience spans various environments, including non-profit, for-profit, union, nonunion, acute care, and community-based care, with much of her time dedicated to direct patient care in CT & MRI.
-     In her current role, Andrea continues to provide care, but at a higher level, now caring for clinical teams, managers, and radiologists. Her goal is to strengthen the HRO culture through constant quality monitoring and enhancing workflow within each radiology division. She collaborates with lean six sigma style task forces, focusing on common patient care goals. Her position involves raising awareness in healthcare process improvement initiatives, emphasizing the significant impact they have on patient care and treatment.
-simmons:
-  sid: simmons
-  name: Shaquanna Simmons M.S., R.T., MR
-  img: img/simmons.jpg
-  bio: |
-    Shaquanna Simmons M.S., R.T., MR is the Coordinator of Quality and Patient Safety for HUP Radiology. She has almost 16 years of working experience in Radiology, with many years of practical experience in pediatric and adult imaging in critical care and outpatient environments, in both diagnostic imaging and MRI. She has been an employee in the Penn Medicine Health System coming up on 12 years. She started her career at HUP as an MRI Technologist after the successful completion of the now defunct MRI Internship Program. She transitioned to her current role in 2019 after completing a master’s degree in Organization Development and Leadership as she wanted to be an effective leader in radiology with emphasis on patient care. Working in quality has provided her with that experience. She likes to remember, the patient is the number one priority in healthcare, and even though she no longer provides direct patient care, her role allows her to focus on patient safety while making improvements ensuring that patients have a positive experience in Penn Radiology's care. She manages the radiology quality improvement system called QUIQ-Rad, which is a low-level event reporting system specific to radiology. She is also responsible for auditing and tracking the reporting of critical values/results to ensure they are communicated accurately and timely. She works closely with Dr. Scott Trerotola, Dr. Hanna Zafar, and Andrea Pogozelski, in a supporting role for many Radiology Quality and Patient Safety initiatives.
-steyer:
-  sid: steyer
-  name: Benjamin Steyer, MD, PhD
-  img: img/steyer.jpeg
-  bio: |
-    Benjamin Steyer, MD, PhD is a diagnostic radiology resident at Penn Medicine. His doctoral research involved the development of genotype specific gene therapies for inherited retinal disease. His professional interests include application of technologies to facilitate development of precision medicine, and understanding the effect of regulatory policies on the affordability and incentive for innovation of novel therapeutic and diagnostic modalities. He received his MD and PhD in Molecular Biology at the University of Wisconsin, Madison.
-doshi:
-  sid: doshi
-  name: Tulsee Doshi, M.S.
-  img: img/doshi.jpg
-  bio: |
-    Tulsee Doshi is the Head of Product for Google’s Responsible AI & Human Centered Technology organization. In this role, she leads the development of Google-wide improvements, resources, and best practices for developing more inclusive & ethical products. Tulsee has been recognized as one of Forbes’ 30 under 30 leaders and one of the top women in AI Ethics. She also serves as an AI Ethics advisor to growing Insurtech, Lemonade. She holds a BS in Symbolic Systems and an MS in Computer Science from Stanford University.
-witschey:
-  sid: witschey
-  name: Walter Witschey, PhD
-  img: img/witschey.jpg
-  bio: |
-    Dr. Walter Witschey is an Associate Professor of Radiology and Director of the Advanced Cardiovascular Imaging Lab at the University of Pennsylvania. His research focus is theoretical and applied magnetic resonance imaging (MRI), machine learning and cardiovascular imaging. The Witschey lab uses a multidisciplinary and translational approach, integrating techniques from electrical engineering, computer science, biology and bioengineering. The group has contributed to MR physics and pulse sequence development (T1ρ and quantitative susceptibility mapping / QSM) and MR spectroscopy (1H downfield MRS), non-proton imaging and spectroscopy (23Na and 31P), machine learning and computer vision, and closed-loop systems for medical imaging. The Witschey lab focuses on basic science research in myocardial ischemia and coronary artery disease, reperfusion injury, non-ischemic heart disease, congenital heart disease and metabolic imaging of the heart. The lab develops machine learning algorithms for cardiac magnetic resonance, chest and hepatic and visceral computed tomography and MRI.
-obrien:
-  sid: obrien
-  name: Sophie O'Brien, MD
-  img: img/obrien.png
-  bio: |
-    Sophia R. O'Brien, MD is an Assistant Professor of Clinical Radiology in the Penn Nuclear Medicine and Breast Imaging Divisions.  She is passionate about medical education, specifically radiology residency education, and is currently pursuing her Masters of Medical Education at Penn.  She is a co-founder and co-faculty leader of TEACH, the Director of Resident Education in the Nuclear Medicine division, and an Associate Program Director.  She is also co-founder and one of the faculty leaders of the Penn Women in Radiology group.  Besides medical education, her clinical and research interests include radionuclide therapy, F18-Fluoroestradiol imaging, clinical trials, mentorship, and women in medicine.
-elahi:
-  sid: elahi
-  name: Fatima Elahi, DO, MHA
-  img: img/elahi.png
-  bio: |
-    Fatima Elahi, DO, is a fourth-year diagnostic radiology resident who was awarded the RADPAC Achievement Award this year. Dr. Elahi serves as the Vice Chair/Chair-elect for the American College of Radiology (ACR) Resident and Fellow Section (ACR RFS), and as a board member on RADPAC, the College’s nonpartisan political action committee, and American College of Radiology Association (ACRA) Radiology Advocacy Network (RAN). After Dr. Elahi completes her residency, she intends to pursue additional training in breast imaging and continue her work in the educational, advocacy and equity aspects of radiology. She aims to promote patient and professional advocacy. Dr. Elahi seeks to increase access to high-quality education through her recent role as president of RadDiscord, a resident-run, award-winning mobile educational platorm.
+    Christoph (Chris) Sadée is a data scientist at Stanford University working in Biomedical AI research in the Gevaert Lab. His original background is in Theoretical Physics before converging into Biochemistry, here he successfully developed and patented devices for lab automation at the Francis Crick Institute in the UK. Following their development Chris proceeded with his work in Biochemistry at Stanford, where looked at the intricate interactions of RNA and Protein using high through put microfluidic devices. In his latest work Chris joined the Gevaert lab to merge his molecular expertise and prior mathematical/computational background to answer translational questions in Medicine with a recent ai model for the classification of Monkey Pox.
