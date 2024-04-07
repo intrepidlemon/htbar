@@ -131,3 +131,66 @@ mcginn:
   img: img/mcginn.jpg
   bio: |
     Chris McGinn represents the best of UPenn alumnae. He is an interventional radiologist at Mid-Atlantic Permanente Medical Group (MAPMG) where he started in July 2019. Prior to joining Kaiser, he completed integrated IR/DR residency at Penn with a transitional Year in NYC at Cornell & Sloan Kettering. He is married with a delightful fur baby. He finds himself back in Philly often due to an unhealthy relationship with Philly sports teams.
+
+devulapalli:
+  sid: devulapalli
+  name: Kavi Devulapalli, MD (Line Monkey MD)
+  img: img/devulapalli
+  bio: |
+    Kavi Devulapalli is an independent interventional radiologist based in Columbia, Missouri, who contracts with multiple hospitals and outpatient practices. His clinical interests include benign prostatic hyperplasia, uterine fibroids, venous disease, and critical limb ischemia. He is one of a few interventional radiologists with significant experience performing prostate artery embolization in office interventional suites.
+    He graduated magna cum laude from Rice University. Subsequently, he underwent a combined medical and masters in public health program from Case Western Reserve University, where he was elected to the Alpha Omega Alpha honors society. Dr. Devulapalli completed a diagnostic radiology residency at the University of California San Francisco and a fellowship in vascular and interventional radiology at the University of North Carolina. He has published in the radiology literature and has been a speaker at regional, national and international educational meetings, though is perhaps best known for his blog, Line Monkey MD, which chronicles his scenic journey as an early career interventional radiologist. 
+    As an advocate for physician entrepreneurship and interventional radiology independence, he is passionate about creating meaningful opportunities for independent practice. He co-founded Travelier, which is focused on creating sustainable long-term relationships with healthcare systems centered on creating longitudinal clinical care programs.  He also co-founded Physician Staffing Solutions, which engages in short and intermediate-term contracting in addition to the healthcare system and physician practice consulting.
+    Dr. Devulapalli is active in the Small and Rural Practice Committee in the Society of Interventional Radiology, the Annual Meeting Planning Committee for the Outpatient Endovascular and Interventional Society and the Vascular Panel of the Appropriateness Criteria Committee for the American College of Radiology. 
+
+michel:
+  sid: michel
+  name: Robert Michel, MBA
+  img: img/michel
+  bio: |
+    As the co-founder and Chief Investment Officer (CIO) of Alooola, Rob is responsible for the firm’s market research, investment outlook, and portfolio monitoring. Prior to starting alooola, Rob worked in the Investment Banking Division at Morgan Stanley in New York City. Rob earned a Bachelor of Arts in both economics and political science from Yale University in addition to later attending the University of Pennsylvania’s Business School Wharton for his MBA. Rob currently serves on the Finance Committee of St. Patrick's Church in Philadelphia, the Board of the Dough Main Financial Literacy Foundation, and the Finance Committee of the Naval Square Community in Philadelphia.
+
+kirschner:
+  sid: kirschner
+  name: William C. Kirschner, MBA
+  img: img/kirschner.png
+  bio: |
+    Bill is a Healthcare leader with over 25 years of progressive leadership experience with Penn Medicine. He has held various administrative positions in Corporate Finance and CPUP Departments, including Women’s Health and currently Radiology. He is recognized for his strong strategic planning and financial acumen, as well as working with various leadership roles across the organization. Among the significant accomplishments under Bill’s guidance include achieving 99th %tile ranking for Press Ganey for 5 consecutive years, renegotiating various contracts with outside entities (VA, Tower Health) resulting in over $2M in incremental revenue and architecting the Utilization Management programs with Independence Blue Cross. Bill received his Undergraduate Degree in Economics/Business from Ursinus College and his MBA in Finance from Saint Joseph’s University. He is father to three boys and married to his wife for 28 years.
+
+nel:
+  sid: nel
+  name: Michael Nel, MBChB, BSC (Med) Hons
+  img: img/nel.jpg
+  bio: |
+    Michael Nel lives in Cape Town, South Africa. He graduated from medical school in 2017 with an MBChB and a BSc(Med)Hons in Infectious Diseases and Immunology. Two years ago he and his wife started Radiology Tutorials, an online medical education platform for junior radiologists and trainees. He has also created three radiology physics learning pathways for Radiopaedia.org. He is passionate about medical education as well as teaching others how to distribute their own teaching in a way that is sustainable. In his spare time he loves to trail run, walk his dog and play golf.
+
+strong:
+  sid: strong
+  name: Benjamin W. Strong, MD
+  img: img/strong.jpg
+  bio: |
+    Ben Strong, MD is Chief Medical Officer of vRad. With a focus on maintaining and finding new ways to enhance our practice environment, Dr. Strong plays a critical role in advancing vRad’s efforts, along with its radiologist and hospital partners, in expanding access, improving quality and reducing the total cost of care.
+    Dr. Strong joined vRad as a teleradiologist in July 2004, and served as a medical director within vRad’s practice from October 2005 to October 2012. Dr. Strong is board certified in both radiology and internal medicine. Prior to joining vRad, Dr. Strong worked as an emergency room physician for the IHS, as a private practice radiologist for Inland Imaging in Spokane, WA, and as a Clinical Assistant Professor of Radiology for the University of Arizona Health Sciences Center.
+    Dr. Strong earned his medical degree from the University of Arizona College of Medicine, Tucson, completed his residency in internal medicine at Dartmouth-Hitchcock Medical Center, Lebanon, New Hampshire, and completed both a radiology residency and a fellowship in Musculoskeletal MRI at the University of Arizona, Arizona Health Sciences Center in Tucson. Dr. Strong is licensed to practice in all 50 U.S. states and holds credentials in a number of foreign countries.
+
+solomon:
+  sid: solomon
+  name: Jeffrey Solomon, MD
+  img: img/solomon.jpg
+  bio: |
+     Jeffrey is currently the chief medical officer and vice president of clinical affairs at XACT Robotics.  XACT Robotics is a privately held company based in Caesarea, Israel and focused on advancing the field of radiology with the world’s only handsfree robotic solution that can significantly improve targeting accuracy, efficiency, and consistency in percutaneous procedures.  He brings with him close to 30 years of combined experience in healthcare services and medical device industries. He is a founder and board member of Infiniti Medical and has consulted for numerous medical device companies. An interventional radiologist by training, Jeffrey spent more than 10 years as a practicing physician in an academic setting and brings with him a passion for education, training, and research.  Jeffrey earned undergraduate degrees with honors from Brown University in Biology and Classics. He graduated from the University of Pennsylvania School of Medicine and was elected to the AOA honor society. He then completed a residency in diagnostic radiology and a fellowship in interventional radiology at the Hospital of the University of Pennsylvania. As part of his postgraduate training, he earned an MBA from the Wharton School of Business with a concentration in health care management.  Jeffrey is a lecturer at the Wharton School of the University of Pennsylvania where he teaches a class in the management of medical devices and technology.
+
+rosin:
+  sid: rosin
+  name: Roy Rosin, MBA
+  img: img/rosin.png
+  bio: |
+    Roy Rosin is the chief innovation officer at Penn Medicine, where he works with thought leaders from across the health system to turn ideas into measurable impact in the areas of health outcomes, patient experience, and new revenue streams. Previously, Roy served as the first vice president of innovation for Intuit, a leading software company best known for Quicken, QuickBooks and TurboTax. In this role, he led changes in how Intuit manages new business creation, allowing small teams pursuing new opportunities to get to market and experiment rapidly. Roy also built innovation programs that dramatically increased entrepreneurial activity, with annual new releases increasing from five per year to 30, while time to market decreased from one year to a few months. After five years of Intuit’s new approach to growth, the company had delivered shareholder returns of three times Google and 33 times the S&P 500. Roy received his MBA from the Stanford Graduate School of Business and graduated with honors from Harvard College. Outside of work he serves as a board member and angel investor for venture-funded startups, an advisor to Fortune 100 companies and avid spectator at his kids’ track and cross country events.
+
+rudie:
+  sid: rudie
+  name: Jeff Rudie, MD PhD
+  img: img/rudie.jpg
+  bio: |
+    Jeff Rudie, MD PhD, completed a Medical Scientist Training Program at UCLA with a PhD in neuroscience in 2012. He went to the Hospital of the University in Pennsylvania for a research track radiology residency and informatics fellowship. He was a HTBAR leader from 2017-2018. He then completed a two-year Neuroradiology fellowship at UCSF in 2021. He is currently a neuroradiologist at Scripps Clinic Medical Group in San Diego, where holds leadership positions within the operations committee of the radiology group and is leading efforts to evaluate AI solutions into for Scripps Health. He is also an Adjunct Assistant Professor of Radiology at University of California, San Diego. His research is focused on developing and translating artificial intelligence into clinical practice to improve the accuracy and efficiency of neuroradiology. In particular, he is involved research used deep-learning based segmentation methods for the longitudinal assessment in neuro-oncology, including diffuse gliomas and intracranial metastases. He also conducts research through radiology societies (RSNA and ASNR) and industry, including Cortechs.ai and Subtle Medical. He is the lead organizer of the 2024 International Brain Tumor Segmentation Challenge (BraTS) on post-treatment gliomas, a member of the RSNA AI committee and course director for the ASNR/ASFNR AI workshop.
+
+    
