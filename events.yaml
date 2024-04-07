@@ -1,53 +1,53 @@
 - day: Monday, April 8, 2024
   events:
   - name: "Locums IR: A Bridge to Independent Practice"
-    datetime: 2024-04-08T07:30:00-05:00
+    datetime: 2024-04-08T07:30:00-04:00
     location: Donner-Grice Lecture Hall (virtual)
     speakers:
       - devulapalli
   - name: "Integrating mathematics and evolutionary principles in cancer treatment and imaging"
-    datetime: 2024-04-08T08:15:00-05:00
+    datetime: 2024-04-08T08:15:00-04:00
     location: Donner-Grice Lecture Hall (virtual)
     speakers:
       - gatenby
   - name: break
-    datetime: 2024-04-08T09:00:00-05:00
+    datetime: 2024-04-08T09:00:00-04:00
   - name: HTBAR Orientation
-    datetime: 2024-04-08T09:15:00-05:00
+    datetime: 2024-04-08T09:15:00-04:00
     location: PCAM conference room
   - name: "Inside/Outside Academia Panel"
-    datetime: 2024-04-08T09:30:00-05:00
+    datetime: 2024-04-08T09:30:00-04:00
     location: PCAM conference room
     speakers:
       - eljack
       - mulugeta
       - oliver
   - name: break
-    datetime: 2024-04-08T10:30:00-05:00
+    datetime: 2024-04-08T10:30:00-04:00
   - name: "Personal Finance for Residents"
-    datetime: 2024-04-08T10:45:00-05:00
+    datetime: 2024-04-08T10:45:00-04:00
     location: PCAM conference room
     speakers:
       - michel
   - name: Lunch
-    datetime: 2024-04-08T12:00:00-05:00
+    datetime: 2024-04-08T12:00:00-04:00
     location: PCAM conference room
   - name: "Administration in an Academic Medical Center Radiology Department"
-    datetime: 2024-04-08T13:00:00-05:00
+    datetime: 2024-04-08T13:00:00-04:00
     location: PCAM conference room
     speakers:
       - kirschner
   - name: break
-    datetime: 2024-04-08T14:00:00-05:00
+    datetime: 2024-04-08T14:00:00-04:00
   - name: "Side Hustles"
-    datetime: 2024-04-08T14:15:00-05:00
+    datetime: 2024-04-08T14:15:00-04:00
     location: PCAM conference room
     speakers:
       - hunt
   - name: break
-    datetime: 2024-04-08T15:15:00-05:00
+    datetime: 2024-04-08T15:15:00-04:00
   - name: "R1 Research Proposals"
-    datetime: 2024-04-08T15:15:00-05:00
+    datetime: 2024-04-08T15:15:00-04:00
     location: PCAM conference room
     speakers:
       - sellmyer, pantel, cranston, mankoff
@@ -55,53 +55,53 @@
 - day: Tuesday, April 9, 2024
   events:
   - name: "Deep Risks"
-    datetime: 2024-04-09T07:30:00-05:00
+    datetime: 2024-04-09T07:30:00-04:00
     location: Donner-Grice Lecture Hall
     speakers:
       - _schoppe
   - name: "Becoming a Meducator"
-    datetime: 2024-04-09T08:15:00-05:00
+    datetime: 2024-04-09T08:15:00-04:00
     location: Donner-Grice Lecture Hall (Virtual)
     speakers:
       - nel
   - name: break
-    datetime: 2024-04-09T09:00:00-05:00
+    datetime: 2024-04-09T09:00:00-04:00
   - name: "RADPAC Intro and Q/A + Resident Perspective"
-    datetime: 2024-04-09T09:15:00-05:00
+    datetime: 2024-04-09T09:15:00-04:00
     location: Donner 2 Conference Room
     speakers:
       - burnes
       - rich
   - name: Career Path + Personal Finance
-    datetime: 2024-04-09T10:00:00-05:00
+    datetime: 2024-04-09T10:00:00-04:00
     location: Donner 2 Conference Room
     speakers:
       - _schoppe
   - name: break
-    datetime: 2024-04-09T12:00:00-05:00
+    datetime: 2024-04-09T12:00:00-04:00
   - name: (Grand Rounds) Policy is Culture
-    datetime: 2024-04-09T12:00:00-05:00
+    datetime: 2024-04-09T12:00:00-04:00
     location: Donner Grice Lecture Hall
     speakers:
       - _schoppe
   - name: Career Path
-    datetime: 2024-04-09T13:15:00-05:00
+    datetime: 2024-04-09T13:15:00-04:00
     location: PCAM conference room
     speakers:
       - harrison
   - name: "137 years of Medical Malpractice"
-    datetime: 2024-04-09T13:55:00-05:00
+    datetime: 2024-04-09T13:55:00-04:00
     location: PCAM conference room (Virtual)
     speakers:
       - strong
   - name: "Creating an open-source low-field MRI scanner in just one week - Summary of the 'MRI4ALL Hackathon 2023'"
-    datetime: 2024-04-09T14:45:00-05:00
+    datetime: 2024-04-09T14:45:00-04:00
     location: PCAM conference room
     speakers:
       - tobias
       - alon
   - name: "Radiologist in Industry"
-    datetime: 2024-04-09T16:15:00-05:00
+    datetime: 2024-04-09T16:15:00-04:00
     location: PCAM conference room
     speakers:
       - solomon
@@ -109,44 +109,44 @@
 - day: Wednesday, April 10, 2024
   events:
   - name: "My Accidental Entrepreneurship"
-    datetime: 2024-04-10T07:45:00-05:00
+    datetime: 2024-04-10T07:45:00-04:00
     location: Donner Grice Lecture Hall
     speakers:
       - agrawal
   - name: "Design for Delight"
-    datetime: 2024-04-10T08:14:00-05:00
+    datetime: 2024-04-10T08:14:00-04:00
     location: Donner-Grice Lecture Hall
     speakers:
       - rosin
   - name: "Innovating with Impact: Turning ideas into outcomes"
-    datetime: 2024-04-10T09:15:00-05:00
+    datetime: 2024-04-10T09:15:00-04:00
     location: PCAM conference room
     speakers:
       - rosin
   - name: break
-    datetime: 2024-04-10T10:45:00-05:00
+    datetime: 2024-04-10T10:45:00-04:00
   - name: Hybrid Private Practice and Academic Career
-    datetime: 2024-04-10T11:00:00-05:00
+    datetime: 2024-04-10T11:00:00-04:00
     location: PCAM conference room (virtual)
     speakers:
       - rudie
   - name: Lunch
-    datetime: 2024-04-10T12:00:00-05:00
+    datetime: 2024-04-10T12:00:00-04:00
     location: PCAM conference room
   - name: Learning to Mentor
-    datetime: 2024-04-10T13:00:00-05:00
+    datetime: 2024-04-10T13:00:00-04:00
     location: PCAM conference room
     speakers:
       - sadee
   - name: Global Health Panel
-    datetime: 2024-04-10T14:15:00-05:00
+    datetime: 2024-04-10T14:15:00-04:00
     location: PCAM conference room
     speakers:
       - eljack
       - jha
       - otero
   - name: "R1 Research Proposals"
-    datetime: 2024-04-10T15:15:00-05:00
+    datetime: 2024-04-10T15:15:00-04:00
     location: PCAM conference room
     speakers:
       - pantel
@@ -156,55 +156,55 @@
 - day: Thursday, April 11, 2024
   events:
   - name: "The 4 Biggest Traps in Physician Employment Agreements"
-    datetime: 2024-04-11T07:30:00-05:00
+    datetime: 2024-04-11T07:30:00-04:00
     location: Donner-Grice Lecture Hall (virtual)
     speakers:
       - hursh
   - name: "Anatomy of a Contract - Self-Advocacy"
-    datetime: 2024-04-11T08:15:00-05:00
+    datetime: 2024-04-11T08:15:00-04:00
     location: Donner-Grice Lecture Hall (virtual)
     speakers:
       - batlle
   - name: break
-    datetime: 2024-04-11T09:00:00-05:00
+    datetime: 2024-04-11T09:00:00-04:00
   - name: "Medical Device Innovation in Academic Interventional Radiology"
-    datetime: 2024-04-11T09:15:00-05:00
+    datetime: 2024-04-11T09:15:00-04:00
     location: PCAM conference room
     speakers:
       - clark
   - name: break
-    datetime: 2024-04-11T10:00:00-05:00
+    datetime: 2024-04-11T10:00:00-04:00
   - name: "Physician Founders: The how-to, tips, and experience not found in the book"
-    datetime: 2024-04-11T10:15:00-05:00
+    datetime: 2024-04-11T10:15:00-04:00
     location: PCAM conference room (virtual)
     speakers:
       - qiao
   - name: break
-    datetime: 2024-04-11T11:00:00-05:00
+    datetime: 2024-04-11T11:00:00-04:00
   - name: Lunch
-    datetime: 2024-04-11T12:00:00-05:00
+    datetime: 2024-04-11T12:00:00-04:00
     location: PCAM conference room
   - name: "How to be an Effective Manuscript Reviewer"
-    datetime: 2024-04-11T13:00:00-05:00
+    datetime: 2024-04-11T13:00:00-04:00
     location: PCAM conference room
     speakers:
       - nazarian
   - name: "Entrepreneurship in Radiology: I was an academic radiologist and fell off the wagon"
-    datetime: 2024-04-11T14:00:00-05:00
+    datetime: 2024-04-11T14:00:00-04:00
     location: PCAM conference room (virtual)
     speakers:
       - boonn
   - name: break
-    datetime: 2024-04-11T14:45:00-05:00
+    datetime: 2024-04-11T14:45:00-04:00
   - name: "IR in Underserved/Rural Communities"
-    datetime: 2024-04-11T15:00:00-05:00
+    datetime: 2024-04-11T15:00:00-04:00
     location: PCAM conference room (virtual)
     speakers:
       - khurana
   - name: break
-    datetime: 2024-04-11T15:45:00-05:00
+    datetime: 2024-04-11T15:45:00-04:00
   - name: "MEDICOLEGAL Issues in Radiology You Should Know"
-    datetime: 2024-04-11T16:00:00-05:00
+    datetime: 2024-04-11T16:00:00-04:00
     location: PCAM conference room (virtual)
     speakers:
       - yousem
@@ -212,47 +212,47 @@
 - day: Friday, April 12, 2024
   events:
   - name: "Fellow and Senior Resident Panel"
-    datetime: 2024-04-11T07:30:00-05:00
+    datetime: 2024-04-11T07:30:00-04:00
     location: Donner-Grice Lecture Hall
     speakers:
       - kumar
   - name: break
-    datetime: 2024-04-11T09:00:00-05:00
+    datetime: 2024-04-11T09:00:00-04:00
   - name: "Strength-Based Leadership in a Changing Healthcare Environment"
-    datetime: 2024-04-11T09:15:00-05:00
+    datetime: 2024-04-11T09:15:00-04:00
     location: PCAM conference room
     speakers:
       - foster
   - name: break
-    datetime: 2024-04-11T10:45:00-05:00
+    datetime: 2024-04-11T10:45:00-04:00
   - name: "The Resident Selection Committee: pearls and pitfalls"
-    datetime: 2024-04-11T11:00:00-05:00
+    datetime: 2024-04-11T11:00:00-04:00
     location: PCAM conference room
     speakers:
       - siegelman
   - name: Lunch
-    datetime: 2024-04-11T12:00:00-05:00
+    datetime: 2024-04-11T12:00:00-04:00
     location: PCAM conference room
   - name: "The Road not Taken"
-    datetime: 2024-04-11T13:00:00-05:00
+    datetime: 2024-04-11T13:00:00-04:00
     location: PCAM conference room (virtual)
     speakers:
       - poff
   - name: break
-    datetime: 2024-04-11T14:00:00-05:00
+    datetime: 2024-04-11T14:00:00-04:00
   - name: "Private Practice in Radiology: The Kaiser Permanente Model"
-    datetime: 2024-04-11T14:15:00-05:00
+    datetime: 2024-04-11T14:15:00-04:00
     location: PCAM conference room
     speakers:
       - mcginn
   - name: break
-    datetime: 2024-04-11T15:00:00-05:00
+    datetime: 2024-04-11T15:00:00-04:00
   - name: "AI Panel"
-    datetime: 2024-04-11T15:00:00-05:00
+    datetime: 2024-04-11T15:00:00-04:00
     location: PCAM conference room
     speakers:
       - jha
       - curnes
   - name: Happy Hour
-    datetime: 2024-04-11T17:15:00-05:00
+    datetime: 2024-04-11T17:15:00-04:00
     location: New Deck
