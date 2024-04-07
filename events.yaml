@@ -193,7 +193,7 @@
     datetime: 2024-04-11T14:00:00-05:00
     location: PCAM conference room (virtual)
     speakers:
-      - boon
+      - boonn
   - name: break
     datetime: 2024-04-11T14:45:00-05:00
   - name: "IR in Underserved/Rural Communities"
@@ -251,7 +251,8 @@
     datetime: 2024-04-11T15:00:00-05:00
     location: PCAM conference room
     speakers:
-      - jha, curnes
+      - jha
+      - curnes
   - name: Happy Hour
     datetime: 2024-04-11T17:15:00-05:00
     location: New Deck
