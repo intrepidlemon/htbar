@@ -45,7 +45,7 @@
     speakers:
       - hunt
   - name: break
-    datetime: 2024-04-08T15:15:00-04:00
+    datetime: 2024-04-08T15:00:00-04:00
   - name: "R1 Research Proposals"
     datetime: 2024-04-08T15:15:00-04:00
     location: PCAM conference room
@@ -85,13 +85,13 @@
     location: Donner 2 Conference Room
     speakers:
       - _schoppe
-  - name: break
-    datetime: 2024-04-09T12:00:00-04:00
   - name: (Grand Rounds) Policy is Culture
     datetime: 2024-04-09T12:00:00-04:00
     location: Donner Grice Lecture Hall
     speakers:
       - _schoppe
+  - name: break
+    datetime: 2024-04-09T13:00:00-04:00
   - name: Community Hospital/Hybrid Academics
     datetime: 2024-04-09T13:15:00-04:00
     location: PCAM conference room
@@ -108,8 +108,10 @@
     speakers:
       - alon
       - block
+  - name: break
+    datetime: 2024-04-09T15:30:00-04:00
   - name: "Radiologist in Industry"
-    datetime: 2024-04-09T16:15:00-04:00
+    datetime: 2024-04-09T15:45:00-04:00
     location: PCAM conference room
     speakers:
       - solomon
@@ -122,10 +124,12 @@
     speakers:
       - agrawal
   - name: "Design for Delight"
-    datetime: 2024-04-10T08:14:00-04:00
+    datetime: 2024-04-10T08:15:00-04:00
     location: Donner-Grice Lecture Hall
     speakers:
       - rosin
+  - name: break
+    datetime: 2024-04-10T09:00:00-04:00
   - name: "Innovating with Impact: Turning ideas into outcomes"
     datetime: 2024-04-10T09:15:00-04:00
     location: PCAM conference room
@@ -146,6 +150,8 @@
     location: PCAM conference room
     speakers:
       - sadee
+  - name: break
+    datetime: 2024-04-10T14:00:00-04:00
   - name: Global Health Panel
     datetime: 2024-04-10T14:15:00-04:00
     location: PCAM conference room
@@ -153,6 +159,8 @@
       - eljack
       - jha
       - otero
+  - name: break
+    datetime: 2024-04-10T15:00:00-04:00
   - name: "R1 Research Proposals"
     datetime: 2024-04-10T15:15:00-04:00
     location: PCAM conference room
@@ -248,7 +256,7 @@
     location: PCAM conference room
   - name: "The Road not Taken"
     datetime: 2024-04-11T13:00:00-04:00
-    location: PCAM conference room (virtual)
+    location: PCAM conference room
     speakers:
       - poff
   - name: break
@@ -261,7 +269,7 @@
   - name: break
     datetime: 2024-04-11T15:00:00-04:00
   - name: "AI Panel"
-    datetime: 2024-04-11T15:00:00-04:00
+    datetime: 2024-04-11T15:15:00-04:00
     location: PCAM conference room
     speakers:
       - curnes
