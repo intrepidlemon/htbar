@@ -135,7 +135,7 @@ mcginn:
 devulapalli:
   sid: devulapalli
   name: Kavi Devulapalli, MD (Line Monkey MD)
-  img: img/devulapalli
+  img: img/devulapalli.jpg
   bio: |
     Kavi Devulapalli is an independent interventional radiologist based in Columbia, Missouri, who contracts with multiple hospitals and outpatient practices. His clinical interests include benign prostatic hyperplasia, uterine fibroids, venous disease, and critical limb ischemia. He is one of a few interventional radiologists with significant experience performing prostate artery embolization in office interventional suites.
 
@@ -148,7 +148,7 @@ devulapalli:
 michel:
   sid: michel
   name: Robert Michel, MBA
-  img: img/michel
+  img: img/michel.jpg
   bio: |
     As the co-founder and Chief Investment Officer (CIO) of Alooola, Rob is responsible for the firm’s market research, investment outlook, and portfolio monitoring. Prior to starting alooola, Rob worked in the Investment Banking Division at Morgan Stanley in New York City. Rob earned a Bachelor of Arts in both economics and political science from Yale University in addition to later attending the University of Pennsylvania’s Business School Wharton for his MBA. Rob currently serves on the Finance Committee of St. Patrick's Church in Philadelphia, the Board of the Dough Main Financial Literacy Foundation, and the Finance Committee of the Naval Square Community in Philadelphia.
 
@@ -288,9 +288,9 @@ curnes:
   bio: |
     Natalie graduated from the University of North Carolina at Chapel Hill with a BS in Business Administration from the Kenan-Flagler School of Business and a minor in Environmental Studies.
 
-    Natalie focuses on investments in the enterprise software and digital health sectors.
+    Natalie focuses on investments in the enterprise software and digital health sectors. Prior to TCV, Natalie was an early-stage consumer investor at AF Ventures and before that was a generalist investor at Harvest Partners. Natalie began her career in investment banking at Morgan Stanley.
 
-    Prior to TCV, Natalie was an early-stage consumer investor at AF Ventures and before that was a generalist investor at Harvest Partners. Natalie began her career in investment banking at Morgan Stanley. Natalie currently lives in New York City where she can be found jogging up and down the West Side Highway or frequenting her favorite Italian spots for a bowl of pasta. When the weather turns cold, Natalie trades in running for her newfound love of skiing and can be spotted (unsuccessfully) chasing her friends and family down the Wasatch mountains.
+    Natalie currently lives in New York City where she can be found jogging up and down the West Side Highway or frequenting her favorite Italian spots for a bowl of pasta. When the weather turns cold, Natalie trades in running for her newfound love of skiing and can be spotted (unsuccessfully) chasing her friends and family down the Wasatch mountains.
 
 shah:
   sid: shah
