@@ -344,3 +344,12 @@ standiford:
   img: img/standiford.jpg
   bio: |
     Taylor Standiford completed intern year in general surgery at Hahnemann University Hospital and residency at Temple University. He is currently an Abdominal Imaging fellow and will be entering private practice at West Reading Radiology Associates in July.
+
+jairaj:
+  sid: jairaj
+  name: Ajit Jairaj
+  img: img/jairaj.jpg
+  bio: |
+    Ajit Jairaj is the VP of Research and Development at Koios Medical. He has a background in electrical engineering and digital signal processing, and has over 10 years of experience developing products based around machine learning algorithms. As a founding member of Koios Medical, he leads his team in applying cutting edge computer vision techniques to solve critical challenges in medical image interpretation and diagnosis. Today, Koios Medical has a world-wide presence and two FDA-Cleared diagnostic products for thyroid and breast ultrasound.
+
+    Koios SmartUltrasound is AI-powered software that helps detect and diagnose cancer. Created for physicians by physicians, SmartUltrasound quickly and accurately assesses malignancy risk and automates reporting. It’s an expert second opinion and administrative assistant rolled into one. Clinically proven to reduce biopsies and follow-ups, SmartUltrasound can help ease stress for both physicians and patients. And we work with your workflow, securely integrating with most PACS and reporting systems, saving downtime for installation and training.
