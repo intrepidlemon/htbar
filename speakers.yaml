@@ -337,3 +337,10 @@ sadee:
   img: img/sadee.jpg
   bio: |
     Christoph (Chris) Sadée is a data scientist at Stanford University working in Biomedical AI research in the Gevaert Lab. His original background is in Theoretical Physics before converging into Biochemistry, here he successfully developed and patented devices for lab automation at the Francis Crick Institute in the UK. Following their development Chris proceeded with his work in Biochemistry at Stanford, where looked at the intricate interactions of RNA and Protein using high through put microfluidic devices. In his latest work Chris joined the Gevaert lab to merge his molecular expertise and prior mathematical/computational background to answer translational questions in Medicine with a recent ai model for the classification of Monkey Pox.
+
+standiford:
+  sid: standiford
+  name: Taylor Standiford, MD
+  img: img/standiford.jpg
+  bio: |
+    Taylor Standiford completed intern year in general surgery at Hahnemann University Hospital and residency at Temple University. He is currently an Abdominal Imaging fellow and will be entering private practice at West Reading Radiology Associates in July.
