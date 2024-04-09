@@ -197,6 +197,11 @@
       - qiao
   - name: break
     datetime: 2024-04-11T11:00:00-04:00
+  - name: "Perspectives from Independent Private Practice"
+    datetime: 2024-04-11T11:15:00-04:00
+    location: PCAM conference room (virtual)
+    speakers:
+      - kapustin
   - name: Lunch
     datetime: 2024-04-11T12:00:00-04:00
     location: PCAM conference room
