@@ -233,7 +233,7 @@
 - day: Friday, April 12, 2024
   events:
   - name: "Fellow and Senior Resident Panel"
-    datetime: 2024-04-11T07:30:00-04:00
+    datetime: 2024-04-12T07:30:00-04:00
     location: Donner-Grice Lecture Hall
     speakers:
       - bhattacharya
@@ -243,38 +243,38 @@
       - matari
       - standiford
   - name: break
-    datetime: 2024-04-11T09:00:00-04:00
+    datetime: 2024-04-12T09:00:00-04:00
   - name: "Strength-Based Leadership in a Changing Healthcare Environment"
-    datetime: 2024-04-11T09:15:00-04:00
+    datetime: 2024-04-12T09:15:00-04:00
     location: PCAM conference room
     speakers:
       - foster
   - name: break
-    datetime: 2024-04-11T10:45:00-04:00
+    datetime: 2024-04-12T10:45:00-04:00
   - name: "The Resident Selection Committee: pearls and pitfalls"
-    datetime: 2024-04-11T11:00:00-04:00
+    datetime: 2024-04-12T11:00:00-04:00
     location: PCAM conference room
     speakers:
       - siegelman
   - name: Lunch
-    datetime: 2024-04-11T12:00:00-04:00
+    datetime: 2024-04-12T12:00:00-04:00
     location: PCAM conference room
   - name: "The Road not Taken"
-    datetime: 2024-04-11T13:00:00-04:00
+    datetime: 2024-04-12T13:00:00-04:00
     location: PCAM conference room
     speakers:
       - poff
   - name: break
-    datetime: 2024-04-11T14:00:00-04:00
+    datetime: 2024-04-12T14:00:00-04:00
   - name: "Private Practice in Radiology: The Kaiser Permanente Model"
-    datetime: 2024-04-11T14:15:00-04:00
+    datetime: 2024-04-12T14:15:00-04:00
     location: PCAM conference room
     speakers:
       - mcginn
   - name: break
-    datetime: 2024-04-11T15:00:00-04:00
+    datetime: 2024-04-12T15:00:00-04:00
   - name: "AI Panel"
-    datetime: 2024-04-11T15:15:00-04:00
+    datetime: 2024-04-12T15:15:00-04:00
     location: PCAM conference room
     speakers:
       - curnes
@@ -283,6 +283,6 @@
       - jha
       - shah
   - name: Happy Hour
-    datetime: 2024-04-11T17:15:00-04:00
+    datetime: 2024-04-12T17:15:00-04:00
     location: New Deck
 
