@@ -395,13 +395,6 @@ schmitt:
   img: img/schmitt.jpg
   bio: "Eric grew up in the semi-rural outskirts of Richmond, Virginia, suffused with Gen X angst and the smell of tobacco. Desperate for change, he moved to Silicon Valley for college. While in Cali he picked up biology and psychology degrees, a spouse from the PNW, and an undying love for both quantitative neuroscience and Zachary’s pizza. He worked his way up from undergrad lab rat to manager at the Center for Interdisciplinary Brain Science Research, performing some of the first quantitative MRI studies on neurogenetic diseases -- most notably Williams syndrome and 22q11.2. He then returned to Richmond to learn statistical genetics from the gurus at the Institute for Psychiatric and Behavioral Genetics, and completed his MD/PhD dissertation on the genetics of neurodevelopment in collaboration with NIMH Intramural. After a brief New Haven detour for internship (and more pizza), he landed at Penn for both research track residency and neuro/informatics fellowships, finishing up in 2016. He is now an Assistant Professor of Radiology and Psychiatry, and has been part of the Penn family for 13.5 years (which coincidentally is the exact age of his third child). He strives to make meaningful contributions to all aspects of Penn’s tripartite mission--despite pressures for increasing specialization--and is occasionally successful. He is the Associate Director of the Penn Neuraxis course, has won the neuro division teaching award 2 of the last 4 years."
 
-sellmyer:
-  sid: sellmyer
-  name: Mark Sellmyer, MD, PhD
-  img: img/sellmyer.jpg
-  bio: |
-    Mark was born and raised in Lincoln, Nebraska, where he developed a deep appreciation for corn-on-the-cob and a love of Husker football. After soaking in the sweetness of a college town in the midwest, Mark attended M.I.T. and majored in Chemistry (BS) with a concentration in Music. During his undergraduate degree, Mark joined Joe Jacobson's group called the Molecular Machines Lab in the M.I.T. Media Lab. The interdisciplinary nature of that environment, combining engineering with chemistry and biology, was inspiring and fostered the habit of doing experimental science at the same time as attempting to accomplish other things. That habit transformed into a full-blown MD/PhD in the Stanford MSTP program. At Stanford, Mark trained in chemical biology with Tom Wandless and found translational applications for new technologies using molecular imaging with Chris Contag. The natural combination of these fields are the foundation of his research today. Mark then came to the University of Pennsylvania as a research track radiology resident and completed a Nuclear Radiology fellowship. If he isn't in his office thinking “deep thoughts” or reading scans as a radiologist in the clinic, he's probably playing with his four kids, his wife, and their black lab in the backyard while growing and eating corn.
-
 depietro:
   sid: depietro
   name: Dan DePietro, MD
@@ -526,16 +519,6 @@ scanlon:
     • She chaired the APDR Procedure task force to ensure that resident training meets the procedural needs of the populations we serve.
     • She is currently a board member and Treasurer for ACR’s RadPac.
     • She was named 2020 ACR Advocate of the Year.
-
-mankoff:
-  sid: mankoff
-  name: David Mankoff, MD, PhD
-  medschool: UPenn
-  phd: UPenn
-  residency: Internal Medicine and Nuclear Medicine, University of Washington
-  img: img/mankoff.jpg
-  bio: |
-    Dr. David Mankoff is the Matthew J. Wilson Professor and Vice-Chair for Research. He also serves as the Associate Director for Education and Training for Penn’s Abramson Cancer Center (ACC). He is a graduate of Penn’s MSTP Program and holds a PhD in Bioengineering focusing on PET instrumentation. He practices Nuclear Medicine, with a special interest in oncologic applications of molecular imaging and radiopharmaceutical therapy. In addition to his role in education and training for the ACC, Dr. Mankoff and serves as mentor for Penn’s MSTP and MSTR programs. Dr. Mankoff’s research focuses on molecular imaging of cancer, primarily on breast cancer, and emphasizes molecular imaging biomarkers for precision oncology, therapeutic monitoring, and identifying biologic factors mediating therapeutic response and resistance. He also works on the translation of new methods into clinical trials and clinical practice and on methods for quantitative imaging and image analysis. Dr. Mankoff is an Komen Scholar for the Susan G. Komen Foundation and Co-Chairs the Radiologic Society of North America (RSNA) Research Vice-Chair Group. Dr. Mankoff is a past member and President of the American Board of Nuclear Medicine and is on the editorial boards of Nuclear Medicine and Biology, Breast Cancer Research, Journal of Nuclear Medicine, and Clinical Cancer Research and serves as an Associate Editor for the Journal of Nuclear Medicine and Deputy Editor for Breast Cancer Research.
 
 loevner:
   sid: loevner
