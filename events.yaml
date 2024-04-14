@@ -304,6 +304,7 @@
   - name: Happy Hour
     datetime: 2024-02-02T17:30:00-05:00
     location: Human Robot - 2401 Walnut St, Philadelphia, PA 19103
+
 - day: Monday, April 8, 2024
   events:
   - name: "Locums IR: A Bridge to Independent Practice"
