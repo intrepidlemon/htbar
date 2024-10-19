@@ -1,12 +1,4 @@
 ---
-_chen:
-  sid: _chen
-  name: Howard Chen, MD
-  img: img/schoppe.jpg
-  bio: |
-    "Where Rubber Meets the Road - AI Product Implementation, Lifecycle, and Monitoring"
-    Dr. Howard Chen is a musculoskeletal radiologist at Cleveland Clinic, serving as vice chair for AI in radiology, pathology, and lab medicine. Previously as Chief Informatics Officer of Imaging, he steered Cleveland Clinic Imaging Informatics professionals through four hospital acquisitions and a PACS replacement effort for 350 radiologists and over 2500 radiology technologists.  Dr. Chen chairs the ACR Informatics Advisory Council, the annual ACR Data Science Summit, and the RSNA Informatics Policy Committee. He also co-directs RSNA’s AI Certificate Program in Emergency Radiology. Dr. Chen completed his medical education and business training at Harvard and is a proud Penn residency graduate in diagnostic radiology and nuclear medicine, and Penn fellowship graduate in musculoskeletal imaging and imaging informatics. He co-authored a variety of peer-reviewed publications in journals such as *Science*, *Circulation*, *Cell*, *JACR*, two AI-related patents, and a book in healthcare AI for young graduates and early-career professionals.
-
 _schoppe:
   sid: _schoppe
   name: Kurt Schoppe, MD
