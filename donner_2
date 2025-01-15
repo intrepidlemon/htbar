@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Donner 2</title>
+</head>
+<body>
+    <h1>HTBAR 2024</h1>
+    <h2>Directions to Donner 2 Conference Room</h1>
+    <div id="about">
+      <p>First go here</p>
+      <p>Then go here</p>
+    </div>
+    <div id="organizers">
+      <p>Made with ☢️  and ❤️  </p>
+      <p>by your HTBAR organizers,</p>
+      </p>Nikki Curnes, Kate Hartmann, Vineeth Gangaram, Ianto Xi.</p>
+      <div class="photos">
+        <img class="img" src="img/nikki.jpg" alt="Nikki Curnes"/>
+        <img class="img" src="img/kate.jpg" alt="Kate Hartmann"/>
+        <img class="img" src="img/vineeth.jpg" alt="Vineeth Gangaram"/>
+        <img class="img" src="img/ianto.jpg" alt="Ianto Xi"/>
+      </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js" referrerpolicy="no-referrer"></script>
+    <script src="script.js"></script>
+</body>
+</html>
