@@ -163,6 +163,14 @@ const render = async () => {
   renderSpeakers(speakers)
   renderEvents(now)(speakers)(events)
   highlightNow(events, now)
+
+  const hash = window.location.hash;
+  if (hash) {
+    const targetElement = document.querySelector(hash);
+    if (targetElement) {
+      targetElement.scrollIntoView({ behavior: "smooth", block: "center" });
+    }
+  }
 }
 
 render()
