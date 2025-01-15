@@ -20,6 +20,20 @@ eljack:
   bio: |
     Amr El Jack was born in Sudan and grew up in Dakar, Senegal; Paris, France; Addis Ababa, Ethiopia; and Glendale, California. His father was an architect with UNESCO, leading to his family’s moves. He completed his undergraduate degree at California State University in Los Angeles and then moved to Boston University for MD/PhD training. His PhD work focused on insulin- regulated vesicle trafficking. He attended University of Pennsylvania for radiology residency and a fellowship in body MRI. He worked in private practice at Southeast Radiology for 11 years before returning to Penn and joining the abdominal imaging division in 2018. He is married with two children, Leila (13y) and Zein (10y), and a rambunctious German Shepherd, Jimmy (3y).
 
+kitamura:
+  sid: kitamura
+  name: Felipe Kitamura, MD, PhD
+  img: img/kitamura.jpg
+  bio: |
+    Felipe Kitamura, MD, PhD, is the Medical Director at Bunkerhill Health and Affiliate Professor of Radiology at Universidade Federal de São Paulo. He previously served as Director of Innovation, Research, and Medical Education at Dasa. He was formerly the Head of Dasa’s Artificial Intelligence Lab, responsible for the development, validation, integration, and monitoring of Machine Learning algorithms. He is a visiting professor at the Mayo Clinic and the University of Virginia. His research focuses on AI in Radiology to improve patient care. He is an early-career consultant for the journal Radiology, an Associate Editor for Radiology: Artificial Intelligence, Co-chair of the Machine Learning Committee at SIIM, and a member of the Radiology Informatics Council and the AI committee at RSNA. He has received the RSNA Honored Educator Award and is a Kaggle Competitions Master, having achieved three gold, three silver, and two bronze medals in global Machine Learning competitions.
+
+stavropoulos:
+  sid: stavropoulos
+  name: Bill Stavropoulos, MD
+  img: img/stavropoulos.jpg
+  bio: |
+    Bill Stavropoulos is an attending interventional radiologist at the Hospital of the University of Pennsylvania and Professor of Radiology and Surgery at the Perelman School of Medicine at the University of Pennsylvania. He received his undergraduate degree at the University of Notre Dame and attended medical school at Loyola University Stritch School of Medicine. Dr. Stavropoulos completed his post-graduate Radiology and IR fellowship training at Shands Hospital at the University of Florida in Gainesville, Florida. His first job out of training was in a private practice in the Chicago suburbs. He came to Penn after one year in private practice and has been on the faculty at Penn since 2000. He has served as IR fellowship and IR/DR residency program director. He is currently the Vice Chair of Operations and the Executive Vice Chair for the Department of Radiology. Since April of 2024, Dr. Stavropoulos has served as interim Chair of the Department of Radiology. His research interests are in the minimally invasive treatment of kidney cancer, IVC filters and endoleak management. Dr. Stavropoulos is a member of the American College of Radiology, RSNA and is a fellow in the Society of Interventional Radiology.
+
 mulugeta:
   sid: mulugeta
   name: Philipose Getachew Mulugeta, MD
