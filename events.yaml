@@ -1,69 +1,67 @@
 - day: Monday, Jan 27, 2025
   events:
-  - name: "AI: Clear Trends, Cloudy Horizons"
+  - name: "AI: clear trends, cloudy horizons"
     datetime: 2025-01-27T07:30:00-05:00
     location: Donner-Grice Lecture Hall
     speakers:
       - kitamura
-  - name: Career Strategies for Early Success in Academics
-    datetime: 2024-01-29T08:15:00-05:00
+  - name: "Why we should be awesome radiologists"
+    datetime: 2025-01-27T08:15:00-05:00
     location: Donner-Grice Lecture Hall
     speakers:
-      - lexa
+      - siegelman
   - name: break
-    datetime: 2024-01-29T09:00:00-05:00
+    datetime: 2025-01-27T09:00:00-05:00
   - name: HTBAR Orientation
-    datetime: 2024-01-29T09:15:00-05:00
+    datetime: 2025-01-27T09:15:00-05:00
     location: PCAM conference room
-  - name: Academic Tracks
-    datetime: 2024-01-29T09:30:00-05:00
-    location: PCAM conference room
-    speakers:
-      - edmonds
-  - name: break
-    datetime: 2024-01-29T10:15:00-05:00
-  - name: Academic Panel
-    datetime: 2024-01-29T10:30:00-05:00
+  - name: "The resident selection committee: pearls and pitfalls"
+    datetime: 2025-01-27T09:30:00-05:00
     location: PCAM conference room
     speakers:
-      - cook
-      - kim
-      - lazor
-      - mankoff
-      - schmitt
-      - sellmyer
-
-  - name: Lunch
-    datetime: 2024-01-29T12:00:00-05:00
-    location: PCAM conference room
-  - name: Promotion & Career Path
-    datetime: 2024-01-29T13:00:00-05:00
+      - siegelman
+      - noor
+  - name: "Career Talk"
+    datetime: 2025-01-27T10:10:00-05:00
     location: PCAM conference room
     speakers:
-      - nadolski
-  - name: break
-    datetime: 2024-01-29T14:00:00-05:00
-  - name: How to Give a Powerpoint Presentation
-    datetime: 2024-01-29T14:15:00-05:00
+      - trerotola
+  - name: "Education Panel"
+    datetime: 2025-01-27T11:10:00-05:00
     location: PCAM conference room
     speakers:
       - simpson
+      - scanlon
+      - curnes
+      - wasserman
+  - name: Lunch
+    datetime: 2025-01-27T12:00:00-05:00
+    location: PCAM conference room
+  - name: "How to be an Effective Manuscript Reviewer"
+    datetime: 2025-01-27T13:00:00-05:00
+    location: PCAM conference room
+    speakers:
+      - nazarian
   - name: break
-    datetime: 2024-01-29T15:00:00-05:00
+    datetime: 2025-01-27T14:00:00-05:00
   - name: Goals and Objectives
-    datetime: 2024-01-29T15:15:00-05:00
+    datetime: 2025-01-27T14:15:00-05:00
     location: PCAM conference room
     speakers:
       - scanlon
   - name: break
-    datetime: 2024-01-29T15:45:00-05:00
-  - name: Residency Tracks
-    datetime: 2024-01-29T16:00:00-05:00
-    location: Pendergrass Conference Room
-  - name: Residency Track Happy Hour
-    datetime: 2024-01-29T16:45:00-05:00
-    location: Pendergrass Conference Room
-
+    datetime: 2025-01-27T14:45:00-05:00
+  - name: How to Give a Powerpoint Presentation
+    datetime: 2025-01-27T15:00:00-05:00
+    location: PCAM conference room
+    speakers:
+      - simpson
+  - name: How to Give a Powerpoint Presentation
+    datetime: 2025-01-27T16:00:00-05:00
+    location: PCAM conference room
+    speakers:
+      - simpson
+      
 - day: Tuesday, Jan 30, 2024
   events:
   - name: AI in Medical Imaging | Fear, hype, and reality
