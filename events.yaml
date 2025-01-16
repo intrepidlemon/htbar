@@ -62,62 +62,52 @@
     speakers:
       - simpson
       
-- day: Tuesday, Jan 30, 2024
+- day: Tuesday, Jan 28, 2025
   events:
-  - name: AI in Medical Imaging | Fear, hype, and reality
-    datetime: 2024-01-30T07:30:00-05:00
+  - name: "Radiology through the Lens of Data, Enterprise Workflow, and Innovation"
+    datetime: 2025-01-28T07:30:00-05:00
     location: Donner-Grice Lecture Hall
     speakers:
-      - _wjkim
-  - name: "(Microsoft Research) MAIRA-1: A specialised large multimodal model for radiology report generation"
-    datetime: 2024-01-30T08:15:00-05:00
-    location: Donner-Grice Lecture Hall (Virtual)
+      - _chen
+  - name: "Precision Learning is the Future of Radiology Education"
+    datetime: 2025-01-28T08:15:00-05:00
+    location: Donner-Grice Lecture Hall
     speakers:
-      - hyland
+      - reid
   - name: break
-    datetime: 2024-01-30T09:00:00-05:00
+    datetime: 2025-01-28T09:00:00-05:00
   - name: Career Path + Q/A
-    datetime: 2024-01-30T09:15:00-05:00
+    datetime: 2025-01-28T09:15:00-05:00
     location: Donner 2 Conference Room
     speakers:
-      - _wjkim
+      - _chen
   - name: break
-    datetime: 2024-01-30T10:15:00-05:00
-  - name: Shark Tank | Idea Workshop
-    datetime: 2024-01-30T10:20:00-05:00
-    location: Donner 2 Conference Room
-    speakers:
-      - _wjkim
-      - jha
-  - name: break
-    datetime: 2024-01-30T11:30:00-05:00
-  - name: (Grand Rounds) Navigating the New Frontier | How Generative AI is Reshaping Radiology
-    datetime: 2024-01-30T12:00:00-05:00
+    datetime: 2025-01-28T11:30:00-05:00
+  - name: "(Grand Rounds) Where Rubber Meets the Road - AI Product Implementation, Lifecycle, and Monitoring at Cleveland Clinic"
+    datetime: 2025-01-28T12:00:00-05:00
     location: Donner Grice Lecture Hall
     speakers:
-      - _wjkim
-  - name: What Being an Academic Radiologist is Like
-    datetime: 2024-01-30T13:15:00-05:00
-    location: PCAM conference room
-    speakers:
-      - hwang
+      - _chen
   - name: break
-    datetime: 2024-01-30T14:00:00-05:00
-  - name: Perspectives from Industry (Google) | Fairness and AI
-    datetime: 2024-01-30T14:15:00-05:00
-    location: PCAM conference room (Virtual)
+    datetime: 2025-01-28T13:00:00-05:00
+  - name: Academic Tracks
+    datetime: 2025-01-28T13:30:00-05:00
+    location: Donner 2 Conference Room
     speakers:
-      - doshi
-  - name: break
-    datetime: 2024-01-30T15:00:00-05:00
-  - name: Try the AI Workshop
-    datetime: 2024-01-30T15:15:00-05:00
-    location: PCAM conference room
-  - name: Powerpoint Workshop
-    datetime: 2024-01-30T16:15:00-05:00
-    location: PCAM conference room
+      - edmonds
+  - name: Promotion & Career Path
+    datetime: 2025-01-28T14:30:00-05:00
+    location: Donner 2 Conference Room
     speakers:
-      - simpson
+      - nadolski
+  - name: Center for Practice Transformation
+    datetime: 2025-01-28T15:30:00-05:00
+    location: Donner 2 Conference Room
+    speakers:
+      - cook
+  - name: Meet the Business and Innovation in Radiology Track
+    datetime: 2025-01-28T16:15:00-05:00
+    location: Donner 2 Conference Room
 
 - day: Wednesday, Jan 31, 2024
   events:
