@@ -6,12 +6,44 @@ _schoppe:
   bio: |
     Dr. Kurt A. Schoppe completed his radiology residency and fellowship training in Abdominal Imaging at Wake Forest. He now lives in the Dallas Fort Worth metroplex where he is the President of Radiology Associates of North Texas. In addition, Dr.Schoppe has spent much of his career working on state and national payment policy through the ACR. Currently, Dr Schoppe also serves as the Vice Speaker for ACR.
 
-gatenby:
-  sid: gatenby
-  name: Robert Gatenby, MD
-  img: img/gatenby.jpg
+lege:
+  sid: lege
+  name: Jennifer Lege-Matsuura
+  img: img/lege.jpg
   bio: |
-    Dr. Gatenby is a practicing clinical radiologist and chair of the Radiology department of the Moffitt Cancer Center for the past 16 years. He spearheaded the formation of a new program at Moffitt titled Integrative Mathematical Oncology (IMO). The IMO brings to the Cancer Center a cadre of applied mathematicians to collaborate with tumor biologists and clinical oncologists. The goal is to use the mathematics developed for other nonlinear dynamical systems to examine the physiology of a tumor incorporating factors such as phenotypic evolution, intracellular communication pathways and interactions with microenvironmental factors including therapies. The program fosters continuous interaction between mathematicians and experimentalists as they form explicit comprehensive theoretical models to serve as a framework for understanding cancer’s development, progression and treatment. The IMO, led by Dr. Gatenby, represents an experiment in rethinking paradigms in medical research. A key purpose of the IMO is to provide the quantitative methods that will allow experimentalists and clinicians to frame their hypotheses, simulate their experimental design in-silico, and identify first principles that govern cancer growth and treatment. Dr. Gatenby aims to make progress using methods that have been successful in the physical sciences for centuries —through an iterative partnership between mathematically-oriented theoreticians, biologists and clinical physicians.
+    Jennifer is the primary liaison to faculty and researchers at the Perelman School of Medicine. She provides outreach to basic sciences and clinical faculty in support of their research efforts, including systematic reviews. 
+    Jen has significant database, research, and customer service experience. Before coming to Penn, she was the Health Sciences Librarian on the Curricula Support team at Drexel University Libraries. She has held positions as the Public Health Emergency Preparedness Librarian Sewell Fund Fellow with Drexel’s School of Public Health and the City of Philadelphia’s Department of Public Health, and as a medical librarian with the independent non-profit ECRI Institute, including the Genetic Test Assessment service and the ECRI Guidelines Trust. Jen had a unique start to her librarianship career, working at the Learning Center at Walt Disney World. 
+    Jen holds a BA in Business Administration from Washington State University and an MSLIS from Simmons College.
+
+vagal:
+  sid: vagal
+  name: Achala Vagal, MD, MS, FAHA
+  img: img/vagal.png
+  bio: |
+    Achala Vagal, MD, MS, FAHA is Tenured Professor of Radiology and is Executive Vice Chair and Vice Chair of Research in Department of Radiology at University of Cincinnati. She is also the Associate Dean of Clinical and Translational Research at UC College of Medicine. Her overall research focuses on imaging biomarkers and brain health including small vessel disease in ischemic stroke and intracranial hemorrhage and has more than two decades of experience in the imaging of cerebrovascular diseases. 
+    Dr. Vagal has extensive experience in leading imaging core labs for large, multicenter stroke trials. Her roles include leading the Imaging Management Center for NIH StrokeNET. She is the PI of two NIH/NINDS R01 grants studying population-based brain health for recurrent stroke and post stroke dementia, multi–PI on a U01 for stroke recovery. She is also the Co-Director and MPI of the NCATS funded Center for Clinical and Translational Science and Training. She serves on multiple committees in national and international organizations including leadership positions including current Chair of RSNA Neuroradiology Annual Meeting Planning subcommittee, serves on the Board of Directors of American Society of Neuroradiology (ASNR) and is Secretary of ASNR. She has published numerous articles along with multiple invited national and international talks and presentations. She is recipient of the Stroke Innovation Award at the 2019 International Stroke Conference, the 2019 ASNR Women in Neuroradiology leadership award, 2020 and 2022 RSNA Honored Educator Award. She completed the prestigious Executive Leadership In Academic Medicine (ELAM) fellowship in 2022.
+    Dr. Vagal also has extensive experience in mentorship and is the Co-Director of the institutional Faculty Development Core of the Faculty Retention, Achievement, and Mentorship Evaluation (FRAME) scholar program targeting inclusive excellence for early career scientists. At a national level, she is active in the American Society of Neuroradiology’s young professional mentoring and the American Society of Functional Neuroradiology junior investigator mentoring. As a seasoned clinician scientist, leader, collaborator, and mentor, she is committed to working with diverse cross disciplinary teams to conduct innovative research, build workforce and infrastructures, and promote clinical and translational science.
+
+hiatt:
+  sid: hiatt
+  name: Kevin Hiatt, MD
+  img: img/hiatt.jpg
+  bio: |
+    I grew up in North Carolina, went to Brigham Young University for undergrad, and then returned to North Carolina where I completed medical school, internship, radiology residency, and neuroradiology fellowship at Wake Forest School of Medicine. My wife and I have 4 kids, ages 6-11, and we spend a good chunk of our free time at soccer games and swim and gymnastics meets.
+
+deng:
+  sid: deng
+  name: Francis Deng, MD
+  img: img/deng.jpg
+  bio: |
+    Francis Deng, MD is Assistant Professor of Radiology and Radiological Science and Co-Director of Medical Student Diagnostic Radiology Electives at Johns Hopkins University. A graduate of Harvard College and Washington University in St. Louis School of Medicine, he completed his radiology residency and neuroradiology fellowship at Massachusetts General Hospital. Dr. Denghas received distinguished reviewer awards or served in editorial roles for Radiopaedia, Radiology, RadioGraphics, AJR, and JACR. He creates and amplifies educational content for an international audience through Radiopaedia, Medality (MRI Online), RadDiscord, social media accounts on X (@francisdeng, @headneckrads) and Bluesky (@francisdeng.bsky.social), and podcasts (AJR Podcast Series on Diagnostic Excellence and Error).
+
+kahn:
+  sid: kahn
+  name: Charles E. Kahn, Jr., MD, MS
+  img: img/kahn.jpg
+  bio: |
+    Charles E. Kahn, Jr., MD, MS is Professor and Vice Chair of Radiology at the University of Pennsylvania; he served on the faculty of the University of Chicago and the Medical College of Wisconsin before moving to his current position at Penn. His clinical practice is in body CT and ultrasound. Professional interests include health services research, artificial intelligence, decision support, information standards, and knowledge representation. He has authored more than 160 scientific publications and 200 presentations. Dr. Kahn has given more than 190 invited lectures. He earned his MD at the University of Illinois, and completed radiology residency at the University of Chicago, where he served as chief resident. He earned an MS in Computer Sciences from UW-Madison in 2003.  He currently serves as Editor of Radiology: Artificial Intelligence.
 
 eljack:
   sid: eljack
