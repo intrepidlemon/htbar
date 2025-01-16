@@ -251,19 +251,14 @@
       - campbell
   - name: break
     datetime: 2025-01-31T11:00:00-05:00
-  - name: Applying imaging in the age of accelerated immunotherapy development
+  - name: "Transitioning to Leadership: Insights from an Interim Chair in Academic Radiology"
     datetime: 2025-01-31T11:15:00-05:00
-    location: PCAM conference room
+    location: Donner 2 Conference Room
     speakers:
-      - sellmyer
+      - stavropoulos
   - name: Lunch
     datetime: 2025-01-31T12:00:00-05:00
     location: PCAM conference room
-  - name: "Strategies for Success: altruism, failure, and being a good mentee"
-    datetime: 2025-01-31T13:00:00-05:00
-    location: PCAM conference room
-    speakers:
-      - soulen
   - name: break
     datetime: 2025-01-31T13:45:00-05:00
   - name: Work Ethic and Career aka "the Love Train"
@@ -273,7 +268,7 @@
       - loevner
   - name: break
     datetime: 2025-01-31T14:45:00-05:00
-  - name: Road to Chairmanship
+  - name: Hospital Leadership
     datetime: 2025-01-31T15:00:00-05:00
     location: PCAM conference room
     speakers:
@@ -287,7 +282,7 @@
       - scanlon
   - name: Happy Hour
     datetime: 2025-01-31T17:30:00-05:00
-    location: TBD
+    location: Location TBD
 
 # - day: Monday, April 8, 2024
 #   events:
