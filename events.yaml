@@ -109,48 +109,59 @@
     datetime: 2025-01-28T16:15:00-05:00
     location: Donner 2 Conference Room
 
-- day: Wednesday, Jan 31, 2024
+- day: Wednesday, Jan 29, 2025
   events:
-  - name: Precision Learning is the Future of Radiology Education
-    datetime: 2024-01-31T07:45:00-05:00
+  - name: R1 case presentations
+    datetime: 2025-01-29T07:45:00-05:00
     location: Donner Grice Lecture Hall
-    speakers:
-      - reid
   - name: break
-    datetime: 2024-01-31T08:45:00-05:00
-  - name: "Call Draft + Intro to EDRC"
-    datetime: 2024-01-31T09:15:00-05:00
-    location: PCAM conference room
-  - name: break
-    datetime: 2024-01-31T10:45:00-05:00
-  - name: PMA Competency Model & Interviewing at Penn
-    datetime: 2024-01-31T11:00:00-05:00
-    location: PCAM conference room
-    speakers:
-      - schnall
-  - name: Lunch
-    datetime: 2024-01-31T12:00:00-05:00
-    location: PCAM conference room
-  - name: Penn PET explorer
-    datetime: 2024-01-31T13:00:00-05:00
-    location: PCAM conference room
-    speakers:
-      - pantel
-  - name: Negotation Workshop
-    datetime: 2024-01-31T13:15:00-05:00
-    location: PCAM conference room
-    speakers:
-      - zafar
+    datetime: 2025-01-29T09:00:00-05:00
   - name: Quality & Radiology Residency | sweeter together
-    datetime: 2024-01-31T14:15:00-05:00
+    datetime: 2025-01-29T09:15:00-05:00
+    location: PCAM conference room
+  - name: break
+    datetime: 2025-01-29T10:45:00-05:00
+  - name: Embedded Fourth Year Fellowship Pathway
+    datetime: 2025-01-29T10:15:00-05:00
     location: PCAM conference room
     speakers:
-      - pogozelski
-      - simmons
-      - zafar
-  - name: R1 Social
-    datetime: 2024-01-31T18:00:00-05:00
-    location: Five Iron Golf - Rittenhouse
+      - whorms
+      - desai
+      - winston
+      - steyer
+      - homza
+  - name: Academic Panel
+    datetime: 2025-01-29T11:15:00-05:00
+    location: PCAM conference room
+    speakers:
+      - dorff
+      - lazor
+      - whorms
+      - schmitt
+      - song
+  - name: Lunch
+    datetime: 2025-01-29T12:00:00-05:00
+    location: PCAM conference room
+  - name: They Joys of Academia
+    datetime: 2025-01-29T13:00:00-05:00
+    location: PCAM conference room
+    speakers:
+      - vagal
+  - name: "VA Radiology: Myth Versus Reality (considerations for a well-balanced career)"
+    datetime: 2025-01-29T14:30:00-05:00
+    location: PCAM conference room
+    speakers:
+      - dinglasan
+  - name: "Academic Radiology: One size doesn’t fit all"
+    datetime: 2025-01-29T15:15:00-05:00
+    location: PCAM conference room
+    speakers:
+      - birnbaum
+  - name: "Navigating academic careers in the modern era"
+    datetime: 2025-01-29T16:15:00-05:00
+    location: PCAM conference room
+    speakers:
+      - fried
 
 - day: Thursday, Feb 01, 2024
   events:
