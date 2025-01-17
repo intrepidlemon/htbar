@@ -230,14 +230,14 @@
     location: Donner-Grice Lecture Hall
     speakers:
       - hiatt
-  - name: Radiopedia
+  - name: "From Shadows to Spotlight: Social Media for the Future Academic Radiologist"
     datetime: 2025-01-31T07:30:00-05:00
     location: Donner-Grice Lecture Hall
     speakers:
       - deng
   - name: break
     datetime: 2025-01-31T09:00:00-05:00
-  - name: Career Decision Making
+  - name: "Envisioning Your Academic Radiology Career"
     datetime: 2025-01-31T09:15:00-05:00
     location: Donner 2 Conference Room
     speakers:
