@@ -175,7 +175,7 @@
     location: Donner 2 Conference Room
     speakers:
       - mankoff
-  - name: AI and the future
+  - name: Radiology, AI, and Your Future
     datetime: 2025-01-30T10:15:00-05:00
     location: Donner 2 Conference Room
     speakers:
@@ -237,7 +237,7 @@
       - deng
   - name: break
     datetime: 2025-01-31T09:00:00-05:00
-  - name: "Envisioning Your Academic Radiology Career"
+  - name: "Envisioning and Enacting Your Academic Radiology Career"
     datetime: 2025-01-31T09:15:00-05:00
     location: Donner 2 Conference Room
     speakers:
