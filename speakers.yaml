@@ -6,6 +6,15 @@ _schoppe:
   bio: |
     Dr. Kurt A. Schoppe completed his radiology residency and fellowship training in Abdominal Imaging at Wake Forest. He now lives in the Dallas Fort Worth metroplex where he is the President of Radiology Associates of North Texas. In addition, Dr.Schoppe has spent much of his career working on state and national payment policy through the ACR. Currently, Dr Schoppe also serves as the Vice Speaker for ACR.
 
+noel:
+  sid: noel
+  name: Peter B. Noël, M.S., Ph.D.
+  img: img/noel.jpg
+  bio: |
+    Dr. Noël earned both his Bachelor’s and Master’s degrees in Biomedical Engineering from the University of Applied Sciences in Giessen, Germany. He later obtained a Master’s Degree in Computer Science while conducting research on interventional x-ray imaging at the Toshiba Stroke Research Center in Buffalo, NY. In 2009, he completed his Ph.D. in Computer Science at the State University of New York at Buffalo, focusing on advanced 3-D reconstruction algorithms for neuro-interventional applications. From 2009 to 2018, he served as a faculty member and the Director of CT Research at the Technical University of Munich. Currently, he is an Associate Professor of Radiology, Director of CT Research, and Co-Director of the Center for Advanced Computed Tomography Imaging Services (CACTIS) at the University of Pennsylvania.
+    For over a decade, Dr. Noël has led a research program with a broad focus on developing x-ray and Computed Tomography (CT) technology. His research emphasizes the harmonization of hardware and software, reconstruction, and post-processing to achieve integrated clinical solutions. Dr. Noël has established a robust foundation for the clinical translation of novel diagnostic imaging technologies, such as the introduction of photon-counting CT. Another focus area is the development of novel 3D printed CT phantoms, which are essential for tasks related to accelerated clinical translation. On the other end of the spectrum, his research program addresses basic x-ray physics questions, focusing on phase-contrast and dark-field imaging.
+    Dr. Noël's publication record includes over 190 peer-reviewed articles in international journals and more than 145 conference proceedings. Additionally, he holds a portfolio of patents in the fields of x-ray and CT imaging. He serves on the editorial boards of the IEEE Transactions in Medical Imaging and 3D Printing in Medicine. Furthermore, he is a standing member of an NIH study section.
+
 lege:
   sid: lege
   name: Jennifer Lege-Matsuura MSLIS, AHIP
