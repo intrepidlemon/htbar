@@ -7,6 +7,30 @@ _chen:
   bio: |
     Dr. Howard Chen is a musculoskeletal radiologist at Cleveland Clinic, serving as vice chair for AI in radiology, pathology, and lab medicine. Previously as Chief Informatics Officer of Imaging, he steered Cleveland Clinic Imaging Informatics professionals through four hospital acquisitions and a PACS replacement effort for 350 radiologists and over 2500 radiology technologists.  Dr. Chen chairs the ACR Informatics Advisory Council, the annual ACR Data Science Summit, and the RSNA Informatics Policy Committee. He also co-directs RSNA’s AI Certificate Program in Emergency Radiology. Dr. Chen completed his medical education and business training at Harvard and is a proud Penn residency graduate in diagnostic radiology and nuclear medicine, and Penn fellowship graduate in musculoskeletal imaging and imaging informatics. He co-authored a variety of peer-reviewed publications in journals such as Science, Circulation, Cell, JACR, two AI-related patents, and a book in healthcare AI for young graduates and early-career professionals.
 
+pogozelski:
+  sid: pogozelski
+  name: Andrea Pogozelski M.P.H., B.S., R.T., MR, CT
+  img: img/pogozelski.jpg
+  bio: |
+     Andrea Pogezelski, a New Jersey native, loves the east coast lifestyle, with its captivating beaches and mountains. Her journey at Penn began in 2014 as the HUP MRI manager. In 2022, she transitioned to the role of HUP Assistant Director of Radiology in the Patient Safety and Quality division. With over 25 years in radiology, she has developed an in-depth understanding of all facets of the field, from technical aspects to management, through her role in quality leadership. Her experience spans various environments, including non-profit, for-profit, union, nonunion, acute care, and community-based care, with much of her time dedicated to direct patient care in CT & MRI.
+     In her current role, Andrea continues to provide care, but at a higher level, now caring for clinical teams, managers, and radiologists. Her goal is to strengthen the HRO culture through constant quality monitoring and enhancing workflow within each radiology division. She collaborates with lean six sigma style task forces, focusing on common patient care goals. Her position involves raising awareness in healthcare process improvement initiatives, emphasizing the significant impact they have on patient care and treatment.
+
+simmons:
+  sid: simmons
+  name: Shaquanna Simmons M.S., R.T., MR
+  img: img/simmons.jpg
+  bio: |
+    Shaquanna Simmons M.S., R.T., MR is the Coordinator of Quality and Patient Safety for HUP Radiology. She has almost 16 years of working experience in Radiology, with many years of practical experience in pediatric and adult imaging in critical care and outpatient environments, in both diagnostic imaging and MRI. She has been an employee in the Penn Medicine Health System coming up on 12 years. She started her career at HUP as an MRI Technologist after the successful completion of the now defunct MRI Internship Program. She transitioned to her current role in 2019 after completing a master’s degree in Organization Development and Leadership as she wanted to be an effective leader in radiology with emphasis on patient care. Working in quality has provided her with that experience. She likes to remember, the patient is the number one priority in healthcare, and even though she no longer provides direct patient care, her role allows her to focus on patient safety while making improvements ensuring that patients have a positive experience in Penn Radiology's care. She manages the radiology quality improvement system called QUIQ-Rad, which is a low-level event reporting system specific to radiology. She is also responsible for auditing and tracking the reporting of critical values/results to ensure they are communicated accurately and timely. She works closely with Dr. Scott Trerotola, Dr. Hanna Zafar, and Andrea Pogozelski, in a supporting role for many Radiology Quality and Patient Safety initiatives.
+
+corbin: 
+  sid: corbin
+  name: Michael Corbin, M.D.
+  img: img/corbin.jpg
+  bio: |
+    Dr. Corbin earned his B.S. in Biochemistry from Virginia Tech and completed his M.D. at Eastern Virginia Medical School. Following medical school, Dr. Corbin completed an internship at the University of North Carolina, Chapel Hill, where he developed a strong foundation in clinical internal medicine before pursuing training in radiology at Penn.
+    In addition to his clinical responsibilities, Dr. Corbin is passionate about healthcare leadership and currently a Healthcare Leadership in Quality track resident. Dr. Corbin is also actively involved in national organizations, including the American College of Radiology, where he serves as the co-chair for the RFS Artificial intelligence advisory board and served on the Appropriateness Criteria Committee. Locally, Dr. Corbin is a Penn representative for the Philadelphia Roentgen Ray Society.
+    Dr. Corbin is honored to serve as one of the Chief Residents. Within the University of Pennsylvania, Dr. Corbin contributes to the Artificial Intelligence Steering and Extender Oversight Committees, working on initiatives that integrate new technologies and optimize radiology practice. Dr. Corbin’s dedication to innovation, education, and patient care continues to drive his career forward.
+    Dr. Corbin enjoys spending his free time with his loving wife, playing golf, and hiking.
 
 whorms: 
   sid: whorms
