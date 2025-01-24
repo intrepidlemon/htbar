@@ -142,7 +142,7 @@
   - name: Lunch
     datetime: 2025-01-29T12:00:00-05:00
     location: PCAM conference room
-  - name: They Joys of Academia
+  - name: "The Joys of Academia"
     datetime: 2025-01-29T13:00:00-05:00
     location: PCAM conference room
     speakers:
