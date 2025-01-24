@@ -119,6 +119,11 @@
   - name: Quality & Radiology Residency | sweeter together
     datetime: 2025-01-29T09:15:00-05:00
     location: PCAM conference room
+    speakers: 
+      - zafar
+      - pogozelski
+      - simmons
+      - corbin
   - name: break
     datetime: 2025-01-29T10:45:00-05:00
   - name: Embedded Fourth Year Fellowship Pathway
