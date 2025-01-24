@@ -6,6 +6,23 @@ _schoppe:
   bio: |
     Dr. Kurt A. Schoppe completed his radiology residency and fellowship training in Abdominal Imaging at Wake Forest. He now lives in the Dallas Fort Worth metroplex where he is the President of Radiology Associates of North Texas. In addition, Dr.Schoppe has spent much of his career working on state and national payment policy through the ACR. Currently, Dr Schoppe also serves as the Vice Speaker for ACR.
 
+trerotola: 
+  sid: trerotola
+  name: Scott O. Trerotola, MD
+  img: img/trerotola.jpg
+  bio: |
+    Scott O. Trerotola, MD, FACR, FSIR, is the Stanley Baum professor of radiology and professor of surgery at the University of Pennsylvania School of Medicine in Philadelphia, where he is also Associate Chair and Chief of Interventional Radiology as well as Vice Chair for Quality and Safety. Dr. Trerotola pursues research in hemodialysis and venous access, IVC filters and PAVM embolotherapy, among other topics. He holds eight patents on devices for interventional procedures. Dr Trerotola was an original member of the original Dialysis Outcomes Quality Initiative clinical practice guidelines for vascular access, a document which has shaped hemodialysis access care for a generation. He has developed multiple techniques in widespread use in IR including balloon-assisted placement of large bore gastrostomy, ultra-high pressure angioplasty, forceps removal of inferior vena caval filters, and backbleeding treatment for arterial emboli during dialysis declotting. Dr Trerotola has served on over 10 SIR committees and was a member of the SIR Executive Council from 1998-2004 and served as Annual Meeting Chair for the 2001 SIR Annual Meeting. He chaired the SIR Educational Materials Committee and was editor of three SIR Syllabi during that tenure. He has served on the editorial board of every major radiology journal and continues to be an active reviewer for multiple radiology and nephrology journals. He has served as IR Scientific Program Chair for the RSNA Annual Meeting and has chaired the ACR. Dr Trerotola has received awards for teaching, distinction in reviewing and for patient advocacy. He regularly appears on Best Doctors in America and Best Doctors in Philadelphia lists. In 2010, he received the Louis Duhring Outstanding Clinical Specialist Award from his institution. He has given invited lectures worldwide, including the 2016 Society of Interventional Radiology Dotter Lecture and the inaugural Man-Chung Han lecture to the Korean Society of Cardiovascular and Interventional Radiology Society.
+
+anyanwu: 
+  sid: anyanwu
+  name: Emeka Anyanwu MD, MScBMI
+  img: img/anyanwu.jpg
+  bio: |
+    Emeka Anyanwu is a clinical informatics manager at the Center for Insights to Outcomes. He is also an assistant professor at the Perelman School of Medicine and a general cardiologist and echocardiographer at the Hospital of the University of Pennsylvania.
+    Emeka is interested in the potential for clinical informatics and digital technologies to improve patient care efficiency, clinical communication, and medical research and education. With experience in full-stack web and mobile development, he applies contemporary design and user experience workflows to solve clinical problems. 
+    Before joining the team, Emeka worked with a health care web startup, earned several Epic certifications, and launched a mobile application for hospital communication.
+    Emeka received his medical degree from Case Western Reserve University School of Medicine. He completed his internal medicine residency and a fellowship in cardiology at the University of Chicago Medical Center. During his cardiology fellowship training, Emeka also earned a master's degree in biomedical informatics from the University of Chicago. He is board-certified in internal medicine and echocardiography and a member of the American College of Cardiology and the American Medical Informatics Association.
+
 noel:
   sid: noel
   name: Peter B. Noël, M.S., Ph.D.
