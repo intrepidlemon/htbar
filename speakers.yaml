@@ -7,6 +7,13 @@ _chen:
   bio: |
     Dr. Howard Chen is a musculoskeletal radiologist at Cleveland Clinic, serving as vice chair for AI in radiology, pathology, and lab medicine. Previously as Chief Informatics Officer of Imaging, he steered Cleveland Clinic Imaging Informatics professionals through four hospital acquisitions and a PACS replacement effort for 350 radiologists and over 2500 radiology technologists.  Dr. Chen chairs the ACR Informatics Advisory Council, the annual ACR Data Science Summit, and the RSNA Informatics Policy Committee. He also co-directs RSNA’s AI Certificate Program in Emergency Radiology. Dr. Chen completed his medical education and business training at Harvard and is a proud Penn residency graduate in diagnostic radiology and nuclear medicine, and Penn fellowship graduate in musculoskeletal imaging and imaging informatics. He co-authored a variety of peer-reviewed publications in journals such as Science, Circulation, Cell, JACR, two AI-related patents, and a book in healthcare AI for young graduates and early-career professionals.
 
+nazarian:
+  sid: nazarian
+  name: Levon N. Nazarian, MD
+  img: img/nazarian.png
+  bio: |
+    Levon N. Nazarian, MD, FAIUM, FACR has co-authored more than 100 peer-reviewed manuscripts and more than 100 abstracts on topics including the use of ultrasound to diagnose and guide innovative treatments for a wide range of musculoskeletal conditions. From 2011-2018 he was Editor-in-Chief of the Journal of Ultrasound in Medicine. He currently serves on the editorial boards of Radiology and the European Journal of Radiology.  In January 2023, Dr. Nazarian joined the faculty at Penn Medicine where he is Professor of Radiology, Professor of Radiology in Orthopaedic Surgery, and Chief of the Division of Musculoskeletal Radiology.
+
 trerotola: 
   sid: trerotola
   name: Scott O. Trerotola, MD
