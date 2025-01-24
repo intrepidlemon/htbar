@@ -7,6 +7,60 @@ _chen:
   bio: |
     Dr. Howard Chen is a musculoskeletal radiologist at Cleveland Clinic, serving as vice chair for AI in radiology, pathology, and lab medicine. Previously as Chief Informatics Officer of Imaging, he steered Cleveland Clinic Imaging Informatics professionals through four hospital acquisitions and a PACS replacement effort for 350 radiologists and over 2500 radiology technologists.  Dr. Chen chairs the ACR Informatics Advisory Council, the annual ACR Data Science Summit, and the RSNA Informatics Policy Committee. He also co-directs RSNA’s AI Certificate Program in Emergency Radiology. Dr. Chen completed his medical education and business training at Harvard and is a proud Penn residency graduate in diagnostic radiology and nuclear medicine, and Penn fellowship graduate in musculoskeletal imaging and imaging informatics. He co-authored a variety of peer-reviewed publications in journals such as Science, Circulation, Cell, JACR, two AI-related patents, and a book in healthcare AI for young graduates and early-career professionals.
 
+whorms: 
+  sid: whorms
+  name: Debra Whorms, M.D.
+  img: img/whorms.jpg
+  bio: |
+    My name is Debra Whorms. I am an assistant Professor in the AC track, now in my second year as attending in the Body Imaging Department. I did my medical school training at Harvard and my radiology residency at Penn. I did an embedded Body Imaging fellowship during my residency and then joined in on faculty immediately out of residency. In addition to my clinical duties and teaching, I currently serve as the Associate Vice Chair for Inclusion, diversity and equity for radiology.  
+
+desai: 
+  sid: desai
+  name: Keyur Desai, M.D.
+  img: img/desai.jpg
+  bio: |
+    Keyur Desai is well-known to junior residents who often look up to him for his superb teaching and frequently see him blowing up the group chat with sports updates. He was born in Flint, Michigan and completed the University of Missouri Kansas City six year BA/MD program for undergrad/med school. He completed his internship/transitional year in Flint and then residency/fellowship in Philly at Penn. In his fourth year of residency, he completed 6-month mini fellowships in MSK and Neuroradiology. He completed an abdominal imaging fellowship at the University of Pennsylvania and currently works at Pennsylvania Hospital as a Body and MSK attending.
+
+joe: 
+  sid: joe
+  name: Winston Joe, M.D.
+  img: img/joe.jpg
+  bio: |
+    Winston Joe, MD is a PGY-5 Radiology resident and embedded Breast Imaging Fellow. Originally from Birmingham, Alabama, Winston completed his undergraduate studies at Stanford University before returning home to attend medical school at the University of Alabama at Birmingham (UAB). He has thoroughly enjoyed his training at Penn and taken advantage of many unique opportunities Penn Radiology offers. As a participant in the Health Equity Leadership Track and an associate scholar with the Penn Center for Global Health, Winston has spent time working on projects in Botswana and Nepal with a focus on capacity building and point-of-care ultrasound outreach. In addition to his clinical work, he is also a Penn Imaging Informatics Fellow.  Winston is passionate about the pivotal role radiologists play in the healthcare continuum and looks forward to applying his training and experiences to improve the lives of his patients as he prepares to join private practice as a fellowship-trained breast radiologist.
+
+homza: 
+  sid: homza
+  name: Jason Homza, M.D.
+  img: img/homza.jpg
+  bio: |
+    Internship: Internal Medicine, Pennsylvania Hospital.
+    Residency/embedded fellowship: Diagnostic Radiology/Breast Imaging, HUP.
+    Post residency: Breast Imaging, Temple Health Chestnut Hill Hospital, Philadelphia, Pa.
+
+dorff: 
+  sid: dorff
+  name: Jonathan Dorff, M.D.
+  img: img/dorff.jpg
+  bio: |
+    Dr. Jonathan Dorff was born and raised in Los Angeles (and is still an avid Lakers fan).  He went to college at Brown University and medical school at Washington University in St. Louis.  He then completed internship and residency in diagnostic radiology at Einstein Medical Center in Philadelphia and fellowship in abdominal imaging at the Hospital of the University of Pennsylvania.  He has been based at Pennsylvania Hospital since he completed fellowship in 2008. He has been the body CT section chief at Pennsylvania Hospital since 2010 and recently became CT modality chief for the downtown hospitals in the Penn Health System in 2024.
+
+song: 
+  sid: song
+  name: Jae Song, M.D. M.S.
+  img: img/song.jpg
+  bio: |
+    Dr. Song is a board certified diagnostic neuroradiologist with Certificate of Added Qualification in neuroradiology. Her expertise is in the interpretation of brain, head and neck, and spine CT and MR imaging. She established and is the Director of the Penn Vessel Wall MR Imaging Program. She is a member of the American College of Radiology's Vessel Wall Imaging Practice Parameters and Technical Standards Committee. Aligned with her research interests in stroke and CNS vasculitis, Dr. Song’s clinical cerebrovascular expertise is integrated with the multidisciplinary efforts of the Penn Comprehensive Stroke Center.
+    Dr. Song’s research seeks to understand one of the most clinically impactful questions in cerebrovascular disease: what is the stroke mechanism? To this end, her work centers on establishing imaging biomarkers of atherosclerosis and inflammatory vasculitis using advanced non-invasive MR and CT imaging techniques to guide therapy and monitor treatment. She images the intracranial and extracranial vasculature in submillimeter resolution to draw mechanistic insight about the development and progression of disease in the vessel walls. Her research in vessel wall imaging complements the multidisciplinary expertise of the Penn Comprehensive Stroke Center. Together, the teams are committed to translating innovative diagnostic imaging technologies to provide patients with integrated and personalized care. She completed a master's degree in clinical research with a focus on study design, biostatistics and epidemiology at the University of Michigan School of Public Health. She serves on committees for the American Stroke Association, American Society of Neuroradiology, American Society of Functional Neuroradiology, Radiological Society of North America (RSNA) and International Society of Magnetic Resonance in Medicine and reviews grants for the RSNA, Netherlands Organisation for Scientific Research, Deutsche Forschungsgemeinshaft, and Austrian Science Fund. She is an Associate Editor for Radiology Advances. Her national and international awards include a Fulbright Fellowship to Freiburg, Germany, NIH NRSA Award, recognition for Research Excellence by the American Heart Association, and Andlinger Fellowship at the Medical University of Vienna, Austria.
+
+ward: 
+  sid: ward
+  name: Rebecca Ward, M.D.
+  img: img/ward.jpg
+  bio: |
+    Rebecca was born and raised in Pittsburgh, Pennsylvania. She completed her undergraduate degree in Psychology at Johns Hopkins University in Baltimore, MD. After graduating, she worked as a research assistant at Johns Hopkins Hospital, performing neuropsychological testing and fMRI analyses in patients with first-episode psychosis. She then returned to Pittsburgh for medical school at the University of Pittsburgh SOM.
+    At Penn, Rebecca served as a chief resident (2023-2024). She is also a member of the Health Equity Leadership track.  During her R3 year, Rebecca worked within the radiology department at Princess Marina Hospital in Gaborone, Botswana. She has also traveled to rural Nepal where she performed portable ultrasound exams on high-risk pregnancy patients. Additionally, Rebecca has served as a leader for the R2 ED Readiness course, resident interview committee, and the Big Sib/Little Sib program.
+    In her spare time, she enjoys daring hikes, biking, playing soccer, watching horror movies, and cuddling her pup, Ruby.
+
 trerotola: 
   sid: trerotola
   name: Scott O. Trerotola, MD
