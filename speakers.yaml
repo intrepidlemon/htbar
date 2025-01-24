@@ -7,6 +7,7 @@ _chen:
   bio: |
     Dr. Howard Chen is a musculoskeletal radiologist at Cleveland Clinic, serving as vice chair for AI in radiology, pathology, and lab medicine. Previously as Chief Informatics Officer of Imaging, he steered Cleveland Clinic Imaging Informatics professionals through four hospital acquisitions and a PACS replacement effort for 350 radiologists and over 2500 radiology technologists.  Dr. Chen chairs the ACR Informatics Advisory Council, the annual ACR Data Science Summit, and the RSNA Informatics Policy Committee. He also co-directs RSNA’s AI Certificate Program in Emergency Radiology. Dr. Chen completed his medical education and business training at Harvard and is a proud Penn residency graduate in diagnostic radiology and nuclear medicine, and Penn fellowship graduate in musculoskeletal imaging and imaging informatics. He co-authored a variety of peer-reviewed publications in journals such as Science, Circulation, Cell, JACR, two AI-related patents, and a book in healthcare AI for young graduates and early-career professionals.
 
+
 whorms: 
   sid: whorms
   name: Debra Whorms, M.D.
@@ -60,6 +61,13 @@ ward:
     Rebecca was born and raised in Pittsburgh, Pennsylvania. She completed her undergraduate degree in Psychology at Johns Hopkins University in Baltimore, MD. After graduating, she worked as a research assistant at Johns Hopkins Hospital, performing neuropsychological testing and fMRI analyses in patients with first-episode psychosis. She then returned to Pittsburgh for medical school at the University of Pittsburgh SOM.
     At Penn, Rebecca served as a chief resident (2023-2024). She is also a member of the Health Equity Leadership track.  During her R3 year, Rebecca worked within the radiology department at Princess Marina Hospital in Gaborone, Botswana. She has also traveled to rural Nepal where she performed portable ultrasound exams on high-risk pregnancy patients. Additionally, Rebecca has served as a leader for the R2 ED Readiness course, resident interview committee, and the Big Sib/Little Sib program.
     In her spare time, she enjoys daring hikes, biking, playing soccer, watching horror movies, and cuddling her pup, Ruby.
+
+nazarian:
+  sid: nazarian
+  name: Levon N. Nazarian, MD
+  img: img/nazarian.png
+  bio: |
+    Levon N. Nazarian, MD, FAIUM, FACR has co-authored more than 100 peer-reviewed manuscripts and more than 100 abstracts on topics including the use of ultrasound to diagnose and guide innovative treatments for a wide range of musculoskeletal conditions. From 2011-2018 he was Editor-in-Chief of the Journal of Ultrasound in Medicine. He currently serves on the editorial boards of Radiology and the European Journal of Radiology.  In January 2023, Dr. Nazarian joined the faculty at Penn Medicine where he is Professor of Radiology, Professor of Radiology in Orthopaedic Surgery, and Chief of the Division of Musculoskeletal Radiology.
 
 trerotola: 
   sid: trerotola
