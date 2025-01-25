@@ -265,8 +265,6 @@
   - name: Lunch
     datetime: 2025-01-31T12:00:00-05:00
     location: PCAM conference room
-  - name: break
-    datetime: 2025-01-31T13:45:00-05:00
   - name: Work Ethic and Career aka "the Love Train"
     datetime: 2025-01-31T14:00:00-05:00
     location: Donner 2 Conference Room
@@ -286,7 +284,7 @@
     location: Donner 2 Conference Room
     speakers:
       - scanlon
-  - name: Happy Hour
+  - name: Happy Hour 🥳
     datetime: 2025-01-31T17:30:00-05:00
     location: Victory Brewing Company
 
