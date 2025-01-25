@@ -1,11 +1,11 @@
 - day: Monday, Jan 27, 2025
   events:
-  - name: "AI: clear trends, cloudy horizons"
+  - name: "AI: Clear Trends, Cloudy Horizons"
     datetime: 2025-01-27T07:30:00-05:00
     location: Donner-Grice Lecture Hall
     speakers:
       - kitamura
-  - name: "Why we should be awesome radiologists"
+  - name: "Why you should consider academic radiology"
     datetime: 2025-01-27T08:15:00-05:00
     location: Donner-Grice Lecture Hall
     speakers:
@@ -15,7 +15,7 @@
   - name: HTBAR Orientation
     datetime: 2025-01-27T09:15:00-05:00
     location: PCAM conference room
-  - name: "The resident selection committee: pearls and pitfalls"
+  - name: "Resident Selection: Pearls and Pitfalls"
     datetime: 2025-01-27T09:30:00-05:00
     location: PCAM conference room
     speakers:
@@ -75,9 +75,14 @@
     speakers:
       - reid
   - name: break
-    datetime: 2025-01-28T09:00:00-05:00
+    datetime: 2025-01-28T09:15:00-05:00
   - name: Career Path + Q/A
     datetime: 2025-01-28T09:15:00-05:00
+    location: Donner 2 Conference Room
+    speakers:
+      - _chen
+    - name: Try the AI
+    datetime: 2025-01-28T10:30:00-05:00
     location: Donner 2 Conference Room
     speakers:
       - _chen
@@ -105,7 +110,7 @@
     location: Donner 2 Conference Room
     speakers:
       - cook
-  - name: Meet the Business and Innovation in Radiology Track
+  - name: Introduction to the Business and Innovation in Radiology Track
     datetime: 2025-01-28T16:15:00-05:00
     location: Donner 2 Conference Room
 
@@ -116,7 +121,7 @@
     location: Donner Grice Lecture Hall
   - name: break
     datetime: 2025-01-29T09:00:00-05:00
-  - name: Quality & Radiology Residency | sweeter together
+  - name: Introduction to QI and the HLQ track
     datetime: 2025-01-29T09:15:00-05:00
     location: PCAM conference room
     speakers: 
@@ -124,9 +129,7 @@
       - pogozelski
       - simmons
       - corbin
-  - name: break
-    datetime: 2025-01-29T10:45:00-05:00
-  - name: Embedded Fourth Year Fellowship Pathway
+  - name: Fourth Year Embedded Fellowship Pathway
     datetime: 2025-01-29T10:15:00-05:00
     location: PCAM conference room
     speakers:
@@ -141,9 +144,10 @@
     speakers:
       - dorff
       - lazor
-      - whorms
       - schmitt
       - song
+      - mcdonald
+      - whorms
   - name: Lunch
     datetime: 2025-01-29T12:00:00-05:00
     location: PCAM conference room
@@ -153,7 +157,7 @@
     speakers:
       - vagal
   - name: "VA Radiology: Myth Versus Reality (considerations for a well-balanced career)"
-    datetime: 2025-01-29T14:30:00-05:00
+    datetime: 2025-01-29T14:15:00-05:00
     location: PCAM conference room
     speakers:
       - dinglasan
@@ -192,36 +196,36 @@
       - sellmyer
   - name: Lunch
     datetime: 2025-01-30T12:00:00-05:00
-    location: PCAM conference room
-  - name: "Penn PET Explorer"
+    location: Donner 2 Conference Room
+  - name: Laboratory for Advanced Computed Tomography Imaging
     datetime: 2025-01-30T13:00:00-05:00
     location: Donner 2 Conference Room
     speakers:
-      - pantel
-  - name: "Photon Counting CT"
+      - noel
+  - name: Center for Advanced Metabolic Imaging in Precision Medicine
     datetime: 2025-01-30T13:25:00-05:00
     location: Donner 2 Conference Room
     speakers:
-      - noel
-  - name: "MRI"
+      - wilson
+  - name: "Advancing Precision Oncology: Innovations in Metabolic Imaging and Interventional Strategies"
     datetime: 2025-01-30T13:50:00-05:00
     location: Donner 2 Conference Room
     speakers:
-      - reddy
-  - name: "Advancing Precision Oncology: Innovations in Metabolic Imaging and Interventional Strategies"
+      - tischfield
+  - name: "Penn PET Explorer"
     datetime: 2025-01-30T14:15:00-05:00
     location: Donner 2 Conference Room
     speakers:
-      - tischfield
+      - pantel
   - name: "Intro to ED Readiness"
-    datetime: 2025-01-30T14:45:00-05:00
+    datetime: 2025-01-30T15:00:00-05:00
     location: Donner 2 Conference Room
     speakers:
       - ordenez
       - makhoul
   - name: break
     datetime: 2025-01-30T15:05:00-05:00
-  - name: Health Equity Panel
+  - name: Health Equity Leadership
     datetime: 2025-01-30T15:25:00-05:00
     location: Donner 2 Conference Room
     speakers:
@@ -236,12 +240,12 @@
     speakers:
       - hiatt
   - name: "From Shadows to Spotlight: Social Media for the Future Academic Radiologist"
-    datetime: 2025-01-31T07:30:00-05:00
+    datetime: 2025-01-31T08:15:00-05:00
     location: Donner-Grice Lecture Hall
     speakers:
       - deng
   - name: break
-    datetime: 2025-01-31T09:00:00-05:00
+    datetime: 2025-01-31T09:15:00-05:00
   - name: "Envisioning and Enacting Your Academic Radiology Career"
     datetime: 2025-01-31T09:15:00-05:00
     location: Donner 2 Conference Room
@@ -287,7 +291,7 @@
       - scanlon
   - name: Happy Hour
     datetime: 2025-01-31T17:30:00-05:00
-    location: Location TBD
+    location: Victory Brewing Company
 
 # - day: Monday, April 8, 2024
 #   events:
