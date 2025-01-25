@@ -76,7 +76,7 @@
       - reid
   - name: break
     datetime: 2025-01-28T09:15:00-05:00
-  - name: Career Path + Q/A
+  - name: "Career Path + Q/A"
     datetime: 2025-01-28T09:15:00-05:00
     location: Donner 2 Conference Room
     speakers:
