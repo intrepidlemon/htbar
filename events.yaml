@@ -61,3 +61,172 @@
     location: PCAM conference room
     speakers:
       - simpson
+
+- day: Tuesday, Jan 28, 2025
+  events:
+  - name: "Radiology through the Lens of Data, Enterprise Workflow, and Innovation"
+    datetime: 2025-01-28T07:30:00-05:00
+    location: Donner-Grice Lecture Hall
+    speakers:
+      - _chen
+  - name: "Precision Learning is the Future of Radiology Education"
+    datetime: 2025-01-28T08:15:00-05:00
+    location: Donner-Grice Lecture Hall
+    speakers:
+      - reid
+  - name: break
+    datetime: 2025-01-28T09:15:00-05:00
+  - name: "Career Path + Q/A"
+    datetime: 2025-01-28T09:15:00-05:00
+    location: Donner 2 Conference Room
+    speakers:
+      - _chen
+  - name: Try the AI
+    datetime: 2025-01-28T10:30:00-05:00
+    location: Donner 2 Conference Room
+    speakers:
+      - _chen
+  - name: break
+    datetime: 2025-01-28T11:30:00-05:00
+  - name: "(Grand Rounds) Where Rubber Meets the Road - AI Product Implementation, Lifecycle, and Monitoring at Cleveland Clinic"
+    datetime: 2025-01-28T12:00:00-05:00
+    location: Donner Grice Lecture Hall
+    speakers:
+      - _chen
+  - name: break
+    datetime: 2025-01-28T13:00:00-05:00
+  - name: Academic Tracks
+    datetime: 2025-01-28T13:30:00-05:00
+    location: Donner 2 Conference Room
+    speakers:
+      - edmonds
+  - name: Promotion & Career Path
+    datetime: 2025-01-28T14:30:00-05:00
+    location: Donner 2 Conference Room
+    speakers:
+      - nadolski
+  - name: Center for Practice Transformation
+    datetime: 2025-01-28T15:30:00-05:00
+    location: Donner 2 Conference Room
+    speakers:
+      - cook
+  - name: Introduction to the Business and Innovation in Radiology Track
+    datetime: 2025-01-28T16:15:00-05:00
+    location: Donner 2 Conference Room
+
+- day: Wednesday, Jan 29, 2025
+  events:
+  - name: R1 case presentations
+    datetime: 2025-01-29T07:30:00-05:00
+    location: Donner Grice Lecture Hall
+  - name: break
+    datetime: 2025-01-29T09:00:00-05:00
+  - name: Introduction to QI and the HLQ track
+    datetime: 2025-01-29T09:15:00-05:00
+    location: PCAM conference room
+    speakers: 
+      - zafar
+      - pogozelski
+      - simmons
+      - corbin
+  - name: Fourth Year Embedded Fellowship Pathway
+    datetime: 2025-01-29T10:15:00-05:00
+    location: PCAM conference room
+    speakers:
+      - whorms
+      - desai
+      - joe
+      - steyer
+      - homza
+  - name: Academic Panel
+    datetime: 2025-01-29T11:15:00-05:00
+    location: PCAM conference room
+    speakers:
+      - dorff
+      - lazor
+      - schmitt
+      - song
+      - mcdonald
+      - whorms
+  - name: Lunch
+    datetime: 2025-01-29T12:00:00-05:00
+    location: PCAM conference room
+  - name: "The Joys of Academia"
+    datetime: 2025-01-29T13:00:00-05:00
+    location: PCAM conference room
+    speakers:
+      - vagal
+  - name: "VA Radiology: Myth Versus Reality (considerations for a well-balanced career)"
+    datetime: 2025-01-29T14:15:00-05:00
+    location: PCAM conference room
+    speakers:
+      - dinglasan
+  - name: "There Will Always Be a Need for Custom Software"
+    datetime: 2025-01-29T15:15:00-05:00
+    location: PCAM conference room
+    speakers:
+      - anyanwu
+  - name: "Navigating academic careers in the modern era"
+    datetime: 2025-01-29T16:15:00-05:00
+    location: PCAM conference room
+    speakers:
+      - fried
+- day: Thursday, Jan 30, 2025
+  events:
+  - name: R1 Case Presentations
+    datetime: 2025-01-30T07:30:00-05:00
+    location: Donner-Grice Lecture Hall
+  - name: break
+    datetime: 2025-01-30T09:00:00-05:00
+  - name: Demystifying Grants
+    datetime: 2025-01-30T09:15:00-05:00
+    location: Donner 2 Conference Room
+    speakers:
+      - mankoff
+  - name: Radiology, AI, and Your Future
+    datetime: 2025-01-30T10:15:00-05:00
+    location: Donner 2 Conference Room
+    speakers:
+      - kahn
+  - name: Applying imaging in the age of accelerated immunotherapy development
+    datetime: 2025-01-30T11:15:00-05:00
+    location:  Donner 2 Conference Room
+    speakers:
+      - sellmyer
+  - name: Lunch
+    datetime: 2025-01-30T12:00:00-05:00
+    location: Donner 2 Conference Room
+  - name: Laboratory for Advanced Computed Tomography Imaging
+    datetime: 2025-01-30T13:00:00-05:00
+    location: Donner 2 Conference Room
+    speakers:
+      - noel
+  - name: Center for Advanced Metabolic Imaging in Precision Medicine
+    datetime: 2025-01-30T13:25:00-05:00
+    location: Donner 2 Conference Room
+    speakers:
+      - wilson
+  - name: "Advancing Precision Oncology: Innovations in Metabolic Imaging and Interventional Strategies"
+    datetime: 2025-01-30T13:50:00-05:00
+    location: Donner 2 Conference Room
+    speakers:
+      - tischfield
+  - name: "Penn PET Explorer"
+    datetime: 2025-01-30T14:15:00-05:00
+    location: Donner 2 Conference Room
+    speakers:
+      - pantel
+  - name: "Intro to ED Readiness"
+    datetime: 2025-01-30T15:00:00-05:00
+    location: Donner 2 Conference Room
+    speakers:
+      - ordenez
+      - makhoul
+  - name: break
+    datetime: 2025-01-30T15:05:00-05:00
+  - name: Health Equity Leadership
+    datetime: 2025-01-30T15:25:00-05:00
+    location: Donner 2 Conference Room
+    speakers:
+      - noor
+      - ward
