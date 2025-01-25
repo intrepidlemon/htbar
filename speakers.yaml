@@ -7,6 +7,21 @@ _chen:
   bio: |
     Dr. Howard Chen is a musculoskeletal radiologist at Cleveland Clinic, serving as vice chair for AI in radiology, pathology, and lab medicine. Previously as Chief Informatics Officer of Imaging, he steered Cleveland Clinic Imaging Informatics professionals through four hospital acquisitions and a PACS replacement effort for 350 radiologists and over 2500 radiology technologists.  Dr. Chen chairs the ACR Informatics Advisory Council, the annual ACR Data Science Summit, and the RSNA Informatics Policy Committee. He also co-directs RSNA’s AI Certificate Program in Emergency Radiology. Dr. Chen completed his medical education and business training at Harvard and is a proud Penn residency graduate in diagnostic radiology and nuclear medicine, and Penn fellowship graduate in musculoskeletal imaging and imaging informatics. He co-authored a variety of peer-reviewed publications in journals such as Science, Circulation, Cell, JACR, two AI-related patents, and a book in healthcare AI for young graduates and early-career professionals.
 
+mcdonald:
+  sid: mcdonald
+  name: Elizabeth McDonald, MD PhD
+  img: img/mcdonald.jpg
+  bio: |
+    Elizabeth McDonald, MD PhD, is an Associate Professor of Radiology at the University of Pennsylvania, Perelman School of Medicine. She is Director of the Penn Breast Cancer Translational Research Group (BCTRG), a bench to bedside multi-disciplinary team committed to advancing the science of breast cancer care while training the next generation of translational researchers.
+    Dr. McDonald’s clinical roles include the Penn Breast Cancer Clinical Steering Committee and Director of Breast MRI for the University of Pennsylvania. As Affiliate Faculty for the Penn Center for Cancer Care Innovation, she also focuses on care delivery and reducing disparities in health care. Dr. McDonald has co-authored over 80 manuscripts and book chapters, nearly all involving breast imaging and tumor characterization, and published in journals such as JAMA Oncology, JCI Insight, Radiology, Journal of Clinical Oncology and Cancer Research. She has received funding as PI from the DOD, NIH, PABCC, Metavivor, and Susan Komen foundation.  She currently holds a MERIT Award from the NIH and an R01, as well as several R01 subcontracts and foundation grants, and has been continuously funded as PI for over a decade.  She received a B.A. in Biochemistry magna cum laude from Harvard University and went on to complete medical school, graduate school, residency, and thoracic imaging fellowship at the Mayo Clinic in Rochester. She has received multiple awards for her scholarship including being recognized as American Roentgen Ray Society Scholar and Cooper Scholar for the Abramson Cancer Center. She has been a Fellow in the Society of Breast Imaging since 2017 and was inducted into the “Council of Distinguished Investigators” by the Academy for Radiology & Biomedical Imaging Research in 2022.
+
+fried:
+  sid: fried
+  name: Jessica G. Fried, MD
+  img: img/fried.jpg
+  bio: |
+    Dr. Fried is an assistant professor of abdominal imaging and cross-sectional interventional radiology at Michigan Medicine. She earned her medical degree at the Dartmouth Geisel School of Medicine, completed diagnostic radiology residency at the Hospital of the University of Pennsylvania, and abdominal imaging fellowship at University of Michigan. In addition to her clinical training, Dr. Fried completed an Imaging Informatics fellowship at the Hospital of the University of Pennsylvania. At Michigan Medicine Radiology, she serves as the Director of the Abdominal Imaging Fellowship and the Associate Medical Director of Radiology Informatics. Dr. Fried’s research focuses on imaging utilization management and natural language processing applications in radiology. Her focused clinical expertise is in percutaneous image-guided procedures, pancreas cancer, colorectal cancer, and advanced diagnostic imaging of the genitalia. Dr. Fried’s exemplary teaching has been recognized by the residents at University of Michigan, who awarded her with the Excellence in Teaching award for the Department in 2023, as well as excellent in teaching in the abdominal division for 2022 and 2024.
+
 pogozelski:
   sid: pogozelski
   name: Andrea Pogozelski M.P.H., B.S., R.T., MR, CT
