@@ -10,14 +10,14 @@ _chen:
 noor:
   sid: noor
   name: Abass Noor, MD
-  img: noor.png
+  img: img/noor.png
   bio: |
     Dr. Noor is an attending physician in the Departments of Radiology at the University of Pennsylvania and Children's Hospital of Philadelphia. He completed his undergraduate education at Macalester College (St. Paul, MN) and received his medical degree from the Alpert Medical School of Brown University (Providence, RI). Given his experiences as a refugee from Somalia, Dr. Noor has long held a passion for working toward a more equitable future for low and middle-income countries (LMICs). His current interests are primarily in medical education and in implementing sustainable radiology services in resource-limited areas of the world. Dr. Noor is the Director of Global Radiology Outreach & Education at the Children's Hospital of Philadelphia and the Director of the Health Equity Leadership Track in the radiology residency program of the University of Pennsylvania. He also serves as the Program Manager for RAD-AID Botswana, an international organization seeking to increase and improve radiology in LMICs.
 
 wasserman:
   sid: wasserman
   name: Noah Wasserman, MD
-  img: wasserman.jpg
+  img: img/wasserman.jpg
   bio: |
     Noah Wasserman is a fourth-year diagnostic radiology resident at Penn Medicine. He completed his undergraduate studies at the University of Chicago before receiving his MD from Washington University School of Medicine.
 
