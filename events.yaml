@@ -75,7 +75,7 @@
     speakers:
       - reid
   - name: break
-    datetime: 2025-01-28T09:15:00-05:00
+    datetime: 2025-01-28T09:00:00-05:00
   - name: "Career Path + Q/A"
     datetime: 2025-01-28T09:15:00-05:00
     location: Donner 2 Conference Room
@@ -222,10 +222,8 @@
     speakers:
       - ordenez
       - makhoul
-  - name: break
-    datetime: 2025-01-30T15:05:00-05:00
   - name: Health Equity Leadership
-    datetime: 2025-01-30T15:25:00-05:00
+    datetime: 2025-01-30T15:30:00-05:00
     location: Donner 2 Conference Room
     speakers:
       - noor
@@ -244,7 +242,7 @@
     speakers:
       - deng
   - name: break
-    datetime: 2025-01-31T09:15:00-05:00
+    datetime: 2025-01-31T09:00:00-05:00
   - name: "Envisioning and Enacting Your Academic Radiology Career"
     datetime: 2025-01-31T09:15:00-05:00
     location: Donner 2 Conference Room
