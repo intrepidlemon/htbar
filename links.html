@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quick Links</title>
+    <style>
+        body {
+            background-color: #100F0F;
+            color: #B7B5AC;
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            width: 100%;
+            max-width: 1000px;
+        }
+        .section {
+            position: relative;
+            padding: 40px;
+            border: 1px solid #B7B5AC;
+            border-radius: 12px;
+            transition: height 0.3s ease-in-out
+        }
+        .header {
+            position: absolute;
+            top: -40px;
+            left: 20px;
+            background: #100F0F;
+            padding: 5px 15px;
+            font-weight: 500;
+            text-align: center;
+            color: #B7B5AC;
+            font-family: -apple-system, BlinkMacSystemFont, "Inter", "IBM Plex Sans", Segoe UI, Helvetica, Arial, sans-serif;
+        }
+        .content {
+            display: block;
+        }
+        .content a {
+            display: block;
+            color: #E6E4D9;
+            text-decoration: underline;
+            font-weight: bold;
+            margin: 5px 0;
+        }
+        .collapsed .content {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="grid">
+        <div>
+            <div class="section">
+              <div class="header" onclick="toggleSection(this)"><h2>Schedules</h2></div>
+              <div class="content">
+                  <a href="https://app.qgenda.com/Link/view?linkKey=b6e670bb-6a76-45d0-8d94-9cbcc3176179">Resident Call</a>
+                  <a href="https://app.qgenda.com/Link/view?linkKey=dd3473f5-574e-4a5e-8087-5ad1aac2de00">Attending Call</a>
+              </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        function toggleSection(element) {
+            element.parentElement.parentElement.classList.toggle('collapsed');
+        }
+    </script>
+</body>
+</html>
