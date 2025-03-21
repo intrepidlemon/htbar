@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Network Check</title>
+</head>
+<body>  
+  <script>
+    // Fallback URL in case the provided URL is not accessible
+    const fallbackUrl = 'http://tbar.how/offnetwork';  // You can replace this with your desired fallback link
+
+    // Function to get URL parameters
+    function getQueryParameter(name) {
+      const urlParams = new URLSearchParams(window.location.search);
+      return urlParams.get(name);
+    }
+
+    // Extract the URL from the query parameters
+    const url = getQueryParameter('url');
+
+    if (url) {
+
+      // Attempt to fetch the URL using Fetch API
+      fetch(url, {
+        method: 'HEAD',  // Use HEAD to avoid downloading content
+        mode: 'no-cors'  // Allows the fetch to work with external sites without CORS issues
+      })
+      .then(response => {
+        // If the request is successful, redirect to the given URL
+        window.location.href = url;
+      })
+      .catch(error => {
+        console.log('Error accessing the URL:', error);
+        // If the request fails, redirect to the fallback URL
+        window.location.href = fallbackUrl;
+      });
+    }
+  </script>
+</body>
+</html>
