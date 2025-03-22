@@ -118,13 +118,13 @@
           console.log(url);
           
           if (targetUrl.includes('cpx.uphs.upenn.edu')) {
-            offNetworkLink.href = url.replace('cpx.uphs.upenn.edu', "pennmedaccess.uphs.upenn.edu/f5-w-68747470733a2f2f6370782e757068732e7570656e6e2e656475$$");
+            offNetworkLink.href = url.replace('cpx.uphs.upenn.edu', function(){return `pennmedaccess.uphs.upenn.edu/f5-w-68747470733a2f2f6370782e757068732e7570656e6e2e656475$$`});
           } else if (targetUrl.includes('uphsnet.uphs.upenn.edu')) {
-            offNetworkLink.href = url.replace('uphsnet.uphs.upenn.edu', "pennmedaccess.uphs.upenn.edu/f5-w-68747470733a2f2f757068736e65742e757068732e7570656e6e2e656475$$");
+            offNetworkLink.href = url.replace('uphsnet.uphs.upenn.edu', function(){return `pennmedaccess.uphs.upenn.edu/f5-w-68747470733a2f2f757068736e65742e757068732e7570656e6e2e656475$$`});
           } else if (targetUrl.includes('upmpowerdbwn01')) {
-            offNetworkLink.href = url.replace('upmpowerdbwn01', "pennmedaccess.uphs.upenn.edu/f5-w-687474703a2f2f6d6f6e746167652e757068732e7570656e6e2e656475$$");
+            offNetworkLink.href = url.replace('upmpowerdbwn01', function(){return `pennmedaccess.uphs.upenn.edu/f5-w-687474703a2f2f6d6f6e746167652e757068732e7570656e6e2e656475$$`});
           } else if (targetUrl.includes('phonebook.uphs.upenn.edu')) {
-            offNetworkLink.href = url.replace('phonebook.uphs.upenn.edu', "pennmedaccess.uphs.upenn.edu/f5-w-68747470733a2f2f70686f6e65626f6f6b2e757068732e7570656e6e2e656475$$");
+            offNetworkLink.href = url.replace('phonebook.uphs.upenn.edu', function(){return `pennmedaccess.uphs.upenn.edu/f5-w-68747470733a2f2f70686f6e65626f6f6b2e757068732e7570656e6e2e656475$$`});
           }
 
           console.log(offNetworkLink.href);
