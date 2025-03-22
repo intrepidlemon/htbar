@@ -74,7 +74,7 @@
 </head>
 <body>
   <div class="container" style="display: none;">
-    <h1>Looks like you're not on the Penn network...</h1>
+    <h1>While the new Radpoint doesn't require the Penn network, this link does.</h1>
     <p id="message-top"></p>
 
     <div>
@@ -122,20 +122,15 @@
             offNetworkLink.href = modifiedUrl;
 
             messageTopElement.innerHTML = `
-            <h3>While the new Radpoint doesn't require you to be on the Penn network, this link does.</h3>
-            
-            This looks like a link to a CPX resource which requires you to be on the Penn Network/VPN or be accessing this link via PennMedAccess.<br><br>
-
-            If you're already logged into PennMedAccess, click the <b>Continue Button (blue)</b> to go straight to your desired page.
-            `;
+              If you happen to be already logged into PennMedAccess, click the <b>Continue Button</b> to go straight to your desired page.
+              `;
             messageBottomElement.innerHTML = `
               If you're not logged in yet or you're not sure:<br><br>
-              1. Click the <b>PennMedAccess Login Button (grey)</b> to open the PennMedAccess login page in a new tab<br>
+              1. Click the <b>PennMedAccess Login Button</b> to open the PennMedAccess login page in a new tab<br>
               2. Log into PennMedAccess in that new tab<br>
-              3. Come back to this tab and then click on the <b>Continue Button (blue)</b><br><br>
+              3. Come back to this tab and then click on the <b>Continue Button</b><br><br>
 
-              Alternatively, you might be able to get access to this link by first accessing RadPoint via VPN.<br>
-              If you're on an iPhone that has been secured by Penn, check out this <a href="https://youtube.com/shorts/nHTNlN--5_E?si=6Nv0Ats9MedSFDbn">video</a> for an easy way to get on the VPN from your phone.
+              More questions? <a href="https://pennmedicine.sharepoint.com/:w:/r/sites/RadPoint/_layouts/15/Doc.aspx?sourcedoc=%7BE612B6B4-2F8B-4F6D-B2E3-43364494D0D9%7D&file=RadPoint%202.0%20Transition%20Guide.docx">Click here</a>
               `;
             console.log(modifiedUrl)
           }
