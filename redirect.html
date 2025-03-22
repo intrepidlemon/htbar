@@ -115,25 +115,32 @@
           window.location.href = targetUrl;
         }).catch(error => {
           console.log('Error accessing the URL:', error);
-
+          console.log(url);
+          
           if (targetUrl.includes('cpx.uphs.upenn.edu')) {
-            console.log(url)
-            const modifiedUrl = url.replace('cpx.uphs.upenn.edu', "pennmedaccess.uphs.upenn.edu/f5-w-68747470733a2f2f6370782e757068732e7570656e6e2e656475$$") ;
-            offNetworkLink.href = modifiedUrl;
-
-            messageTopElement.innerHTML = `
-              If you happen to be already logged into PennMedAccess, click the <b>Continue Button</b> to go straight to your desired page.
-              `;
-            messageBottomElement.innerHTML = `
-              If you're not logged in yet or you're not sure:<br><br>
-              1. Click the <b>PennMedAccess Login Button</b> to open the PennMedAccess login page in a new tab<br>
-              2. Log into PennMedAccess in that new tab<br>
-              3. Come back to this tab and then click on the <b>Continue Button</b><br><br>
-
-              More questions? <a href="https://pennmedicine.sharepoint.com/:w:/r/sites/RadPoint/_layouts/15/Doc.aspx?sourcedoc=%7BE612B6B4-2F8B-4F6D-B2E3-43364494D0D9%7D&file=RadPoint%202.0%20Transition%20Guide.docx">Click here</a>
-              `;
-            console.log(modifiedUrl)
+            offNetworkLink.href = url.replace('cpx.uphs.upenn.edu', "pennmedaccess.uphs.upenn.edu/f5-w-68747470733a2f2f6370782e757068732e7570656e6e2e656475$$");
+          } else if (targetUrl.includes('uphsnet.uphs.upenn.edu')) {
+            offNetworkLink.href = url.replace('uphsnet.uphs.upenn.edu', "pennmedaccess.uphs.upenn.edu/f5-w-68747470733a2f2f757068736e65742e757068732e7570656e6e2e656475$$");
+          } else if (targetUrl.includes('upmpowerdbwn01')) {
+            offNetworkLink.href = url.replace('upmpowerdbwn01', "pennmedaccess.uphs.upenn.edu/f5-w-687474703a2f2f6d6f6e746167652e757068732e7570656e6e2e656475$$");
+          } else if (targetUrl.includes('phonebook.uphs.upenn.edu')) {
+            offNetworkLink.href = url.replace('phonebook.uphs.upenn.edu', "pennmedaccess.uphs.upenn.edu/f5-w-68747470733a2f2f70686f6e65626f6f6b2e757068732e7570656e6e2e656475$$");
           }
+
+          console.log(offNetworkLink.href);
+
+          messageTopElement.innerHTML = `
+            If you happen to be already logged into PennMedAccess, click the <b>Continue Button</b> to go straight to your desired page.
+            `;
+          messageBottomElement.innerHTML = `
+            If you're not logged in yet or you're not sure:<br><br>
+            1. Click the <b>PennMedAccess Login Button</b> to open the PennMedAccess login page in a new tab<br>
+            2. Log into PennMedAccess in that new tab<br>
+            3. Come back to this tab and then click on the <b>Continue Button</b><br><br>
+
+            More questions? <a href="https://pennmedicine.sharepoint.com/:w:/r/sites/RadPoint/_layouts/15/Doc.aspx?sourcedoc=%7BE612B6B4-2F8B-4F6D-B2E3-43364494D0D9%7D&file=RadPoint%202.0%20Transition%20Guide.docx">Click here</a>
+            `;
+            
           container.style.display = 'block'; // Show buttons
         });
       } else {
