@@ -150,50 +150,50 @@
 - day: Thursday, April 10, 2025
   events:
   - name: "My Career Path - What Inspires Me, What I'm Afraid of, and the Road Ahead"
-    datetime: 2025-04-10T07:30:00-05:00
+    datetime: 2025-04-10T07:30:00-04:00
     location: Donner-Grice Lecture Hall
     speakers:
      - pandharipande
   - name: "137 Years of Medical Malpractice"
-    datetime: 2025-04-10T08:15:00-05:00
+    datetime: 2025-04-10T08:15:00-04:00
     location: Donner-Grice Lecture Hall
     speakers:
      - strong
   - name: "Leading Transformative Innovation: Turning Ideas into Actions and Outcomes"
-    datetime: 2025-04-10T09:15:00-05:00
+    datetime: 2025-04-10T09:15:00-04:00
     location: Donner 2 Conference Room
     speakers:
       - rosin
   - name: TBD
-    datetime: 2025-04-10T10:30:00-05:00
+    datetime: 2025-04-10T10:30:00-04:00
     location: Donner 2 Conference Room
     speakers:
       - kapustin
   - name: TBD
-    datetime: 2025-04-10T11:15:00-05:00
+    datetime: 2025-04-10T11:15:00-04:00
     location:  Donner 2 Conference Room
     speakers:
       - clark
   - name: Lunch
-    datetime: 2025-04-10T12:00:00-05:00
+    datetime: 2025-04-10T12:00:00-04:00
     location: Donner 2 Conference Room
   - name: The Road not Taken
-    datetime: 2025-04-10T13:15:00-05:00
+    datetime: 2025-04-10T13:15:00-04:00
     location: Donner 2 Conference Room
     speakers:
       - poff
   - name: TBD
-    datetime: 2025-04-10T14:15:00-05:00
+    datetime: 2025-04-10T14:15:00-04:00
     location: Donner 2 Conference Room
     speakers:
       - pramanik
   - name: "The Academic Radiologist as a Leader, Consultant & Innovator"
-    datetime: 2025-04-10T15:15:00-05:00
+    datetime: 2025-04-10T15:15:00-04:00
     location: Donner 2 Conference Room
     speakers:
       - chadalavada
   - name: "Networking"
-    datetime: 2025-04-10T16:15:00-05:00
+    datetime: 2025-04-10T16:15:00-04:00
     location: Donner 2 Conference Room
     speakers:
       - rodgers
