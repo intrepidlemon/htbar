@@ -198,65 +198,47 @@
     speakers:
       - rodgers
 
-- day: Friday, Jan 31, 2025
+- day: Friday, April 11, 2025
   events:
-  - name: Building Case Stacks
-    datetime: 2025-01-31T07:30:00-05:00
+  - name: Fellow Panel
+    datetime: 2025-04-11T07:30:00-04:00
     location: Donner-Grice Lecture Hall
     speakers:
-      - hiatt
-  - name: "From Shadows to Spotlight: Social Media for the Future Academic Radiologist"
-    datetime: 2025-01-31T08:15:00-05:00
+      - avallone, wang, gwelob, chahine, adiletta
+  - name: "Private Practice in Radiology: The Kaiser Permanante Model"
+    datetime: 2025-04-11T09:15:00-04:00
     location: Donner-Grice Lecture Hall
     speakers:
-      - deng
-  - name: break
-    datetime: 2025-01-31T09:00:00-05:00
-  - name: "Envisioning and Enacting Your Academic Radiology Career"
-    datetime: 2025-01-31T09:15:00-05:00
+      - goity
+  - name: "Solo Teleradiology"
+    datetime: 2025-04-11T11:15:00-04:00
     location: Donner 2 Conference Room
     speakers:
-      - deng
-  - name: break
-    datetime: 2025-01-31T10:00:00-05:00
-  - name: Library Resources & Services
-    datetime: 2025-01-31T10:15:00-05:00
-    location: Donner 2 Conference Room
-    speakers:
-      - lege
-  - name: break
-    datetime: 2025-01-31T11:00:00-05:00
-  - name: "Transitioning to Leadership: Insights from an Interim Chair in Academic Radiology"
-    datetime: 2025-01-31T11:10:00-05:00
-    location: Donner 2 Conference Room
-    speakers:
-      - stavropoulos
+      - bennett
   - name: Lunch
-    datetime: 2025-01-31T12:00:00-05:00
-    location: PCAM conference room
-  - name: Work Ethic and Career aka "the Love Train"
-    datetime: 2025-01-31T14:00:00-05:00
+    datetime: 2025-04-11T12:00:00-04:00
+    location: Donner 2 Conference Room
+  - name: Strength Based Leadership
+    datetime: 2025-04-11T14:00:00-04:00
+    location: Donner 2 Conference Room
+  - name: Side Hustles
+    datetime: 2025-04-11T14:15:00-04:00
     location: Donner 2 Conference Room
     speakers:
-      - loevner
-  - name: break
-    datetime: 2025-01-31T14:45:00-05:00
-  - name: Hospital Leadership
-    datetime: 2025-01-31T15:00:00-05:00
+      - hunt
+  - name: TBD
+    datetime: 2025-04-11T15:15:00-04:00
     location: Donner 2 Conference Room
     speakers:
-      - schnall
-  - name: break
-    datetime: 2025-01-31T15:45:00-05:00
-  - name: Career Path
-    datetime: 2025-01-31T16:00:00-05:00
+      - moorthy
+  - name: How to Launch Your Future Career After UPenn Residency
+    datetime: 2025-04-11T16:15:00-04:00
     location: Donner 2 Conference Room
     speakers:
-      - scanlon
+      - shah
   - name: Happy Hour 🥳
-    datetime: 2025-01-31T17:30:00-05:00
-    location: Victory Brewing Company
-
+    datetime: 2025-04-11T17:30:00-04:00
+    location: TBD
 # - day: Monday, April 8, 2024
 #   events:
 #   - name: "Locums IR: A Bridge to Independent Practice"
