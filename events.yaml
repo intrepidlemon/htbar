@@ -1,47 +1,47 @@
 - day: Monday, April 7, 2025
   events:
   - name: "I Don't Drive my Wife to the Airport Anymore"
-    datetime: 2025-04-07T07:30:00-05:00
+    datetime: 2025-04-07T07:30:00-04:00
     location: Donner-Grice Lecture Hall
     speakers:
       - batlle
   - name: "Anatomy of a Contract - Self Advocacy!"
-    datetime: 2025-04-07T08:15:00-05:00
+    datetime: 2025-04-07T08:15:00-04:00
     location: Donner-Grice Lecture Hall
     speakers:
       - batlle
   - name: "Privademics and Pushing the Envelope"
-    datetime: 2025-04-07T09:15:00-05:00
+    datetime: 2025-04-07T09:15:00-04:00
     location: Donner 2 Conference Room
     speakers:
       - bagla
   - name: "Physician Contracts: Top Tips for Residents and Fellows"
-    datetime: 2025-04-07T10:15:00-05:00
+    datetime: 2025-04-07T10:15:00-04:00
     location: Donner 2 Conference Room
     speakers:
       - johnson
   - name: "Panel - Transitions Between Academia and Private Practice"
-    datetime: 2025-04-07T11:15:00-05:00
+    datetime: 2025-04-07T11:15:00-04:00
     location: Donner 2 Conference Room
     speakers:
       - pramanik
       - eljack
       - hassankhani
   - name: Lunch
-    datetime: 2025-04-07T12:00:00-05:00
+    datetime: 2025-04-07T12:00:00-04:00
     location: Donner 2 Conference Room
   - name: "Academic Interventional Radiology - Having it All"
-    datetime: 2025-04-07T13:15:00-05:00
+    datetime: 2025-04-07T13:15:00-04:00
     location: Donner 2 Conference Room
     speakers:
       - trerotola
   - name: "Entreprenuership in Radiology: I was an academic radiologist and fell off the wagon"
-    datetime: 2025-04-07T14:15:00-05:00
+    datetime: 2025-04-07T14:15:00-04:00
     location: Donner 2 Conference Room
     speakers:
       - boone
   - name: "Research Presentations"
-    datetime: 2025-04-07T15:15:00-05:00
+    datetime: 2025-04-07T15:15:00-04:00
     location: Donner 2 Conference Room
     speakers:
       - mankoff
