@@ -147,60 +147,56 @@
       - pantel
       - sagreiya
 
-- day: Thursday, Jan 30, 2025
+- day: Thursday, April 10, 2025
   events:
-  - name: R1 Case Presentations
-    datetime: 2025-01-30T07:30:00-05:00
+  - name: "My Career Path - What Inspires Me, What I'm Afraid of, and the Road Ahead"
+    datetime: 2025-04-10T07:30:00-05:00
     location: Donner-Grice Lecture Hall
-  - name: break
-    datetime: 2025-01-30T09:00:00-05:00
-  - name: Demystifying Grants
-    datetime: 2025-01-30T09:15:00-05:00
+    speakers:
+     - pandharipande
+  - name: "137 Years of Medical Malpractice"
+    datetime: 2025-04-10T08:15:00-05:00
+    location: Donner-Grice Lecture Hall
+    speakers:
+     - strong
+  - name: "Leading Transformative Innovation: Turning Ideas into Actions and Outcomes"
+    datetime: 2025-04-10T09:15:00-05:00
     location: Donner 2 Conference Room
     speakers:
-      - mankoff
-  - name: Radiology, AI, and Your Future
-    datetime: 2025-01-30T10:15:00-05:00
+      - rosin
+  - name: TBD
+    datetime: 2025-04-10T10:30:00-05:00
     location: Donner 2 Conference Room
     speakers:
-      - kahn
-  - name: Applying imaging in the age of accelerated immunotherapy development
-    datetime: 2025-01-30T11:15:00-05:00
+      - kapustin
+  - name: TBD
+    datetime: 2025-04-10T11:15:00-05:00
     location:  Donner 2 Conference Room
     speakers:
-      - sellmyer
+      - clark
   - name: Lunch
-    datetime: 2025-01-30T12:00:00-05:00
+    datetime: 2025-04-10T12:00:00-05:00
     location: Donner 2 Conference Room
-  - name: Laboratory for Advanced Computed Tomography Imaging
-    datetime: 2025-01-30T13:00:00-05:00
-    location: Donner 2 Conference Room
-    speakers:
-      - noel
-  - name: Center for Advanced Metabolic Imaging in Precision Medicine
-    datetime: 2025-01-30T13:25:00-05:00
+  - name: The Road not Taken
+    datetime: 2025-04-10T13:15:00-05:00
     location: Donner 2 Conference Room
     speakers:
-      - wilson
-  - name: "Advancing Precision Oncology: Innovations in Metabolic Imaging and Interventional Strategies"
-    datetime: 2025-01-30T13:50:00-05:00
+      - poff
+  - name: TBD
+    datetime: 2025-04-10T14:15:00-05:00
     location: Donner 2 Conference Room
     speakers:
-      - tischfield
-  - name: "Penn PET Explorer"
-    datetime: 2025-01-30T14:15:00-05:00
+      - pramanik
+  - name: "The Academic Radiologist as a Leader, Consultant & Innovator"
+    datetime: 2025-04-10T15:15:00-05:00
     location: Donner 2 Conference Room
     speakers:
-      - pantel
-  - name: "Intro to ED Readiness"
-    datetime: 2025-01-30T15:00:00-05:00
-    location: Donner 2 Conference Room
-  - name: Health Equity Leadership
-    datetime: 2025-01-30T15:30:00-05:00
+      - chadalavada
+  - name: "Networking"
+    datetime: 2025-04-10T16:15:00-05:00
     location: Donner 2 Conference Room
     speakers:
-      - noor
-      - ward
+      - rodgers
 
 - day: Friday, Jan 31, 2025
   events:
