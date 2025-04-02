@@ -91,3 +91,119 @@ sudheendra:
     Dr. Sudi completed his undergraduate education at Case Western Reserve University and his medical education at New York Medical College. He then completed nearly a full general surgery residency at the Washington Hospital Center/Georgetown University before changing his field to IR.  He served as an IR research fellow at the NIH before completing a Diagnostic Radiology residency at the U. of  Pittsburgh Med Ctr (UPMC). Later he completed a fellowship in IR at the George Washington U. Medical Center.
 
     Most recently, he completed a Masters in Health Care Innovation through a joint program with the University of Pennsylvania Perelman School of Medicine and the Wharton Business School.
+
+gade:
+  sid: gade
+  name: Terence P. Gade, MD, PhD
+  img: img/gade.jpg
+  bio: "Terence P. Gade, MD, PhD graduated from medical school at the New York-Presbyterian / Weill Cornell Medical Center. He completed residency at the Hospital of the University of Pennsylvania and Lankenau Hospital and fellowship at the Hospital of the University of Pennsylvania. He is a Co-Director of the Penn Image-Guided Interventions (PIGI) Laboratory, an Assistant Professor of Radiology, and an Assistant Professor of Cancer Biology at the University of Pennsylvania. He is board certified in Diagnostic Radiology. He also received his PhD in Biophysics from the Weill Graduate School of Medical Sciences of Cornell University and continues to conduct research. He is a member of the following: Academy of Radiology Research, American Association for Cancer Research, American Society of Clinical Oncology, Association of University Radiologists, National Institutes of Health, Radiological Society of North America, Society of Interventional Oncology, and Society of Interventional Radiology."
+
+rudie:
+  sid: rudie
+  name: Jeff Rudie, MD PhD
+  img: img/rudie.jpg
+  bio: |
+    Jeff Rudie, MD PhD, completed a Medical Scientist Training Program at UCLA with a PhD in neuroscience in 2012. He went to the Hospital of the University in Pennsylvania for a research track radiology residency and informatics fellowship. He was a HTBAR leader from 2017-2018. He then completed a two-year Neuroradiology fellowship at UCSF in 2021. He is currently a neuroradiologist at Scripps Clinic Medical Group in San Diego, where holds leadership positions within the operations committee of the radiology group and is leading efforts to evaluate AI solutions into for Scripps Health. He is also an Adjunct Assistant Professor of Radiology at University of California, San Diego. His research is focused on developing and translating artificial intelligence into clinical practice to improve the accuracy and efficiency of neuroradiology. In particular, he is involved research used deep-learning based segmentation methods for the longitudinal assessment in neuro-oncology, including diffuse gliomas and intracranial metastases. He also conducts research through radiology societies (RSNA and ASNR) and industry, including Cortechs.ai and Subtle Medical. He is the lead organizer of the 2024 International Brain Tumor Segmentation Challenge (BraTS) on post-treatment gliomas, a member of the RSNA AI committee and course director for the ASNR/ASFNR AI workshop.
+
+solomon:
+  sid: solomon
+  name: Jeffrey Solomon, MD
+  img: img/solomon.jpg
+  bio: |
+     Jeffrey is currently the chief medical officer and vice president of clinical affairs at XACT Robotics.  XACT Robotics is a privately held company based in Caesarea, Israel and focused on advancing the field of radiology with the world’s only handsfree robotic solution that can significantly improve targeting accuracy, efficiency, and consistency in percutaneous procedures.  He brings with him close to 30 years of combined experience in healthcare services and medical device industries. He is a founder and board member of Infiniti Medical and has consulted for numerous medical device companies. An interventional radiologist by training, Jeffrey spent more than 10 years as a practicing physician in an academic setting and brings with him a passion for education, training, and research.  Jeffrey earned undergraduate degrees with honors from Brown University in Biology and Classics. He graduated from the University of Pennsylvania School of Medicine and was elected to the AOA honor society. He then completed a residency in diagnostic radiology and a fellowship in interventional radiology at the Hospital of the University of Pennsylvania. As part of his postgraduate training, he earned an MBA from the Wharton School of Business with a concentration in health care management.  Jeffrey is a lecturer at the Wharton School of the University of Pennsylvania where he teaches a class in the management of medical devices and technology.
+
+harrison:
+  sid: harrison
+  name: Neil Harrison, MD
+  img: img/harrison.jpg
+  bio: |
+    Neil Harrison, MD received his medical degree from the Perelman School of Medicine at the University of Pennsylvania. He stayed at the University of Pennsylvania for training in Diagnostic Radiology before eventually transitioning in to one of the first positions for the new integrated Interventional Radiology/Diagnostic Radiology track. He graduated from residency in 2020 and took a job at Albany Med for one year before deciding to return to University of Pennsylvania to work as an attending Interventional Radiologist and Assistant Professor of Clinical Radiology at Pennsylvania Hospital.
+
+burnes:
+  sid: burnes
+  name: Ted Burnes
+  img: img/burnes.png
+  bio: |
+    Ted Burnes is Senior Director of Political Affairs and has run political operations for the American College of Radiology for the past 19 years. Under his leadership, Burnes has turned RADPAC from a half-a-million dollar a year political action committee (PAC) into a $1 million PAC. RADPAC consistently ranks among the top healthcare provider PACs in both contributions raised and contributions made. Burnes possesses a thorough knowledge of campaign !inance law having worked for the Federal Election Commission and has more than 20 years of experience in fundraising and political consulting. He has worked both as a political pollster and consultant on numerous successful political campaigns at the local, state and federal levels, including high-pro!ile Presidential campaigns. He has also lobbied Members of Congress and state legislators on numerous legislative issues, with a particular focus on health policy. Originally from the Philadelphia area, Burnes earned his B.A. in Government & Politics from George Mason University and received his masters degree in Public Administration with a concentration in government relations from The George Washington University. Burnes resides in Ashburn, VA, with his wife and two children.
+
+agrawal:
+  sid: agrawal
+  name:  Gautam Agrawal, MD
+  img: img/agrawal.jpg
+  bio: |
+    Gautam Agrawal is a serial entrepreneur who has started a number of companies in health-related market segments including his current teleradiology practice (as an R3).   His technical background in Nuclear Engineering has served as a foundation for working at the intersection of health and technology.    Gautam has been married for 21 years to an entrepreneurial wife.  He has two children (15 year old daughter and 13 year old son) who he adores! Outside of medicine, Gautam is a coin & comic book collector as well as an avid gamer.
+
+birnbaum:
+  sid: birnbaum
+  name: Julia Birnbaum, MD
+  img: img/birnbaum.jpg
+  bio: |
+    Julia Birnbaum, MD is an Assistant Professor of Clinical Radiology and one of our stellar breast attendings. She is originally from Long Island and if you ask nicely might get her to slip into a true ‘Noo Yawker’ accent! She has lived in 7 states on both coasts and visited 41 states and Puerto Rico and counting. She did a fellowship in Women’s Imaging at Penn in 1997 and never left. Julia has worked in both breast and ultrasound, but more recently been only in the breast department where she is an expert in ultrasound and image guided interventions.
+
+    She once thought she wanted to do medical segments on news broadcasts and so spent some time working at KABC-TV in Los Angeles where she researched and produced medical segments. She also contributed to a medical documentary, book, and cookbook on high cholesterol.
+
+    She is a mom of 4 (ages 16--36) and grandmom of a newborn, and has a 6 year old poodle. When not reading mammograms she can be found reading psychological thrillers, listening to country music, catching a Broadway show, or relaxing at the Jersey shore.
+
+strong:
+  sid: strong
+  name: Benjamin W. Strong, MD
+  img: img/strong.jpg
+  bio: |
+    Ben Strong, MD is Chief Medical Officer of vRad. With a focus on maintaining and finding new ways to enhance our practice environment, Dr. Strong plays a critical role in advancing vRad’s efforts, along with its radiologist and hospital partners, in expanding access, improving quality and reducing the total cost of care.
+
+    Dr. Strong joined vRad as a teleradiologist in July 2004, and served as a medical director within vRad’s practice from October 2005 to October 2012. Dr. Strong is board certified in both radiology and internal medicine. Prior to joining vRad, Dr. Strong worked as an emergency room physician for the IHS, as a private practice radiologist for Inland Imaging in Spokane, WA, and as a Clinical Assistant Professor of Radiology for the University of Arizona Health Sciences Center.
+
+    Dr. Strong earned his medical degree from the University of Arizona College of Medicine, Tucson, completed his residency in internal medicine at Dartmouth-Hitchcock Medical Center, Lebanon, New Hampshire, and completed both a radiology residency and a fellowship in Musculoskeletal MRI at the University of Arizona, Arizona Health Sciences Center in Tucson. Dr. Strong is licensed to practice in all 50 U.S. states and holds credentials in a number of foreign countries.
+
+rosin:
+  sid: rosin
+  name: Roy Rosin, MBA
+  img: img/rosin.png
+  bio: |
+    Roy Rosin is the chief innovation officer at Penn Medicine, where he works with thought leaders from across the health system to turn ideas into measurable impact in the areas of health outcomes, patient experience, and new revenue streams. Previously, Roy served as the first vice president of innovation for Intuit, a leading software company best known for Quicken, QuickBooks and TurboTax. In this role, he led changes in how Intuit manages new business creation, allowing small teams pursuing new opportunities to get to market and experiment rapidly. Roy also built innovation programs that dramatically increased entrepreneurial activity, with annual new releases increasing from five per year to 30, while time to market decreased from one year to a few months. After five years of Intuit’s new approach to growth, the company had delivered shareholder returns of three times Google and 33 times the S&P 500. Roy received his MBA from the Stanford Graduate School of Business and graduated with honors from Harvard College. Outside of work he serves as a board member and angel investor for venture-funded startups, an advisor to Fortune 100 companies and avid spectator at his kids’ track and cross country events.
+
+kapustin:
+  sid: kapustin
+  name: Andrew J. Kapustin, MD
+  img: img/kapustin.png
+  bio: |
+    A member of the infamous UPenn radiology class of 2004, Andrew served as the weakest of the chief residents, alongside Sridhar Charagundla and Arastoo Vossough. During his subsequent fellowship year at Penn, he worked as an overnight attending ER radiologist for 1 out of each 3 weeks, and spent the other 2/3rds of his time annoying Body MRI and CV attendings (especially Harold Litt). He then moved to beautiful Charlotte NC and joined the world's best private practice, Mecklenburg Radiology Associates. Andrew has served in various leadership roles at MRA, including chief of radiology. He considers himself Penn's OG lecturer on private practice, having given resident conferences many times since 2005 (way back before HTBAR existed). When he's not giving unsolicited advice to residents, he spends his time hiking, or, when they'll tolerate him, spending time with his wife Dana, 3 grown up kids, dog Roxy and python Lexi.
+
+clark:
+  sid: clark
+  name: Timothy W.I. Clark, MD
+  img: img/clark.jpg
+  bio: |
+    Dr. Timothy Clark is the Director of Interventional Radiology at Penn Presbyterian Medical Center and a Professor of Radiology at the Hospital of the University of Pennsylvania. He graduated medical school from the University of Alberta and completed a masters in Clinical Epidemiology at Dalhousie University. He underwent post-graduate training as an intern and resident in Diagnostic Radiology at Royal Columbian Hospital at the University of British Columbia and completed fellowship in vascular and Interventional Radiology at the University of Pennsylvania. He has research interests in multivariate modeling in clinical outcomes, peripheral arterial disease, TIPS and computational dynamics in medical device design.
+
+poff:
+  sid: poff
+  name: Jason Poff, MD
+  img: img/poff.jpg
+  bio: |
+    Jason Poff fondly remembers his time at UPenn, where he finished training in 2013. After three years at Fairfax Radiological Consultants in Northern VA, he has been a private practice radiologist in Greensboro Radiology in Greensboro, NC since 2016, where he specializes in abdominal, thoracic and oncologic imaging and serves on the local practice board. For years at Greensboro and RP, Jason has explored the intersection of AI, radiologist workflow and quality improvement and has served as the director of innovation deployment at RP since April 2022.
+
+goity:
+  sid: goity
+  name: Luis Goity, MD
+  img: img/goity.jpg
+  bio: |
+    Luis Goity is a PGY-6 integrated interventional radiology resident joining the Mid Atlantic Permanente Medical Group after training.  He will be joining several other Penn IR grads at the practice.  He grew up in Virginia and went to the University of Virginia for undergraduate and medical school.  His favorite part of Penn Radiology outside the angiography suite was working in Gaborone, Botswana twice during training, reading studies and performing minor procedures.
+
+hunt:
+  sid: hunt
+  name: Stephen J. Hunt, MD, PhD, DABR
+  img: img/hunt.jpg
+  bio: |
+    Dr. Stephen Hunt is the Co-Director of the Penn Image-Guided Interventions (PIGI) Laboratory and an Assistant Professor of Radiology at the Hospital of the University of Pennsylvania. He graduated medical school from the Stanford University School of Medicine, completed residency at the Hospital of the University of Pennsylvania and Kaiser Foundation Hospital, and completed fellowship at the Hospital of the University of Pennsylvania. He is Board certified in Interventional Radiology and Diagnostic Radiology. He received his PhD in Molecular & Cellular Physiology from Stanford University School of Medicine, and he received his MTR in Translational Therapeutics from the Perelman School of Medicine. He also conducts research in the follow fields: immuno-oncology, interventional oncology, cancer, cancer biology, immunotherapy, cell biology, cell physiology, animal models, translational research, vascular disease, health policy, health economics, GIS, artificial intelligence, ultrasound, AVUS, embolization, ablation, and the abscopal effect.
+
+shah:
+  sid: shah
+  name: Samir Shah, MD, MMM, FACR
+  img: img/shah.jpg
+  bio: |
+    Dr. Samir S. Shah, a highly accomplished radiologist with 20 plus years of experience in practice, serves as the Chief Medical Officer (CMO) at Qure.ai. In this role, he not only guides the company's product development, clinical research and U.S. expansion but also leads the team with his extensive expertise in teleradiology and healthcare management. Throughout his distinguished career, Dr. Shah has held pivotal senior leadership positions at large radiology practices as a physician executive including Envision Healthcare, NightHawk Radiology Services, Virtual Radiologic (vRad), and Radiology Partners. His training at the University of Pennsylvania, where he was the inaugural recipient of the Baum-Laufer Service Excellence Award, and Interventional Radiology fellowship at Northwestern University, coupled with his academic experience as a Clinical Assistant Professor at UPMC in Pittsburgh, PA, provides him with a multifaceted background and a comprehensive understanding of the specialty.
+
+    Dr. Shah's academic achievements, include receiving a Master of Medical Management degree from Carnegie Mellon University and obtaining a professional executive certificate in Artificial Intelligence from MIT's Sloan School of Management, are a testament to his drive to revolutionize healthcare. Dr. Shah serves on the Board of Directors at the Pennsylvania Radiological Society, has won multiple awards for his research in radiology and has authored many scientific articles in the radiology literature. Dr. Shah has lectured nationally as a consultant for GE Healthcare on contrast media usage.
+
+    Dr. Shah serves on several national radiology committees and is a member of the Editorial Advisory Board for Imaging Economics. He is also a fellow of, and a Councilor to the American College of Radiology, and has served as Past President of the Pittsburgh Roentgen Society, along with volunteering on the Board of the Albert Schweitzer Fellowship Program
