@@ -56,7 +56,8 @@ boonn:
   name: William Boonn, MD
   img: img/boonn.jpg
   bio: |
-    William Boonn, MD is currently the Chief Medical Officer at Rad AI Inc, and also serves as a cardiovascular radiology attending at Penn. He started his career at Penn as a radiology resident in 2003 on the research track. He completed an Imaging Informatics Fellowship at the University of Maryland, followed by a CV Fellowship at Penn. In 2009, he became a full-time CE-pathway assistant professor for Penn Radiology. In 2010, he co-founded Montage Healthcare Solutions with Penn colleagues Woojin Kim and Curt Langlotz. In 2012, he transitioned to per-diem clinical work at Penn, and in 2016, Montage was sold to Nuance Communication, where he remained as CMIO. He left Nuance at the end of 2019 to start Equium Intelligence, which was later acquired by Rad AI at the end of 2022. Dr. Boonn is an active member of national and international radiology societies and organizations. He has held various leadership roles, including chair and committee positions with the Radiological Society of North America and the American College of Radiology. He also served as a member of the Board of Directors for the Society for Imaging Informatics in Medicine. Outside of his medical and entrepreneurial work, Dr. Boonn is a member of the Board of Directors at the Cobbs Creek Foundation and a member of Robin Hood Ventures, a network of angel investors focused on supporting early-stage startups.
+    William Boonn, MD is currently the Chief Medical Officer at HOPPR and also serves as a cardiovascular radiology attending at Penn. He started his career at Penn as a radiology resident in 2003 on the research track. He completed an Imaging Informatics Fellowship at the University of Maryland, followed by a CV Fellowship at Penn. In 2009, he became a full-time CE-pathway assistant professor for Penn Radiology. In 2010, he co-founded Montage Healthcare Solutions with Penn colleagues Woojin Kim and Curt Langlotz. In 2012, he transitioned to per-diem clinical work at Penn, and in 2016, Montage was sold to Nuance Communication, where he remained as CMIO. He left Nuance at the end of 2019 to start Equium Intelligence, which was later acquired by Rad AI at the end of 2022. In January of 2025, he joined HOPPR as their Chief Medical Officer and remains a medical advisor for Rad AI. 
+    Dr. Boonn is an active member of national and international radiology societies and organizations. He has held various leadership roles, including chair and committee positions with the Radiological Society of North America and the American College of Radiology. He also served as a member of the Board of Directors for the Society for Imaging Informatics in Medicine. Outside of his medical and entrepreneurial work, Dr. Boonn is a member of the Board of Directors at the Cobbs Creek Foundation and a member of Robin Hood Ventures, a network of angel investors focused on supporting early-stage startups.
 
 pantel:
   sid: pantel
@@ -64,6 +65,24 @@ pantel:
   img: img/pantel.png
   bio: |
     Austin is an Assistant Professor of Radiology at Penn, as well as the Program Director of the Nuclear Radiology Fellowship. After completing the research track here, he completed an MSTR degree at Penn studying the human translation of novel radiotracers. Austin's current research focuses on translation of [18F]Fluoroglutamine and [18F]FluorThanatrace, as well the PennPET Explorer, a novel whole-body PET scanner. He is also involved in numerous other, smaller projects. Austin and his wife Lourdes (a cardiac anesthesiologist at Penn and his med school classmate) live in Philadelphia with little Lucy, their pride and a joy.  Lucy enjoys soup dumplings at Nan Xiang Xiao Long Bao in Cherry Hill, chicken fingers at Raising Cane's, and free samples at Costco.
+
+hassankhani:
+  sid: hassankhani
+  name: Alvand Hassankhani, MD
+  img: img/hassankhani.png
+  bio: |
+    Dr. Alvand Hassankhani is an Associate Professor of Clinical Radiology at the University of Pennsylvania, where he also serves as the Director of the Neuroradiology Network Practice Optimization Team. In this role, Dr. Hassankhani oversees initiatives to enhance operational efficiency and improve patient care at Penn Medicine -- University of Pennsylvania Health System. His efforts are particularly focused on optimizing clinical care delivery, and he is a founding member of the Spine Oncology Tumor Board which advances these goals.
+    Dr. Hassankhani graduated with honors from Rutgers University, where he earned both his undergraduate and medical degrees. He completed his neuroradiology training at Duke University and Massachusetts General Hospital. After his training, he joined Brigham and Women's Hospital with an academic appointment at Harvard Medical School. With over 20 years of clinical experience across academic and private practice settings, Dr. Hassankhani has played pivotal roles, including serving as managing partner at Suffolk MRI, PC in Long Island, New York. There, he was instrumental in bringing the first high-field, state-of-the-art 3 Tesla MRI to the county, and led the practice to achieve the American College of Radiology (ACR) Center of Excellence designation.
+    Since joining the University of Pennsylvania's neuroradiology division in 2019, Dr. Hassankhani has actively contributed to the training and education of radiology residents, and medical students, and mentoring neuroradiology fellows and junior faculty. His passion and commitment to excellence in patient care is matched by his dedication to education.
+    Dr. Hassankhani is actively involved in numerous professional organizations. He has presented extensively at national and international conferences and has authored multiple peer-reviewed scientific publications. Currently, he holds senior editorial roles with the American Board of Radiology's Online Longitudinal Assessment (OLA) program and serves on the ACR Appropriateness Criteria Expert Panel in Neuroradiology. Dr. Hassankhani is a sought-after reviewer of many scientific journals. He is a member of the editorial board of the Journal of Clinical Imaging and has been appointed as the Assistant Editor of the prestigious American Journal of Roentgenology.
+    Dr. Hassankhani is married to Dr. Jenny Bencardino, who is a world-renowned academic musculoskeletal radiologist, and is currently vice chair of radiology at Montefiore Medical Center.
+
+pramanik:
+  sid: pramanik
+  name: Bidyut K. Pramanik, MD
+  img: img/pramanik.png
+  bio: |
+    Bidyut K. Pramanik attended an accelerated BS/MD program at Union College and Albany Medical College. He completed his residency in Diagnostic Radiology at New Jersey Medical School and his Neuroradiology Fellowship at the University Pennsylvania. He joined Penn Medicine in 2024 as Professor of Clinical Radiology. He was previously Chief of Neuroradiology at Lenox Hill Hospital and Associate Professor of Radiology at Zucker School of Medicine. He has a strong interest in medical education, and he previously served both as a radiology residency program director at Lenox Hill Hospital and a neuroradiology fellowship program director at NYU. He is a volunteer for the American Board of Radiology and serves on multiple exam committees.
 
 sellmyer:
   sid: sellmyer
@@ -133,6 +152,13 @@ agrawal:
   bio: |
     Gautam Agrawal is a serial entrepreneur who has started a number of companies in health-related market segments including his current teleradiology practice (as an R3).   His technical background in Nuclear Engineering has served as a foundation for working at the intersection of health and technology.    Gautam has been married for 21 years to an entrepreneurial wife.  He has two children (15 year old daughter and 13 year old son) who he adores! Outside of medicine, Gautam is a coin & comic book collector as well as an avid gamer.
 
+witschey:
+  sid: witschey
+  name:  Walter R. Witschey, PhD
+  img: img/witschey.jpg
+  bio: |
+    Dr. Walter Witschey is an Associate Professor of Radiology and Director of the Advanced Cardiovascular Imaging Lab at the University of Pennsylvania. His research focus is theoretical and applied magnetic resonance imaging (MRI), machine learning and cardiovascular imaging. The Witschey lab uses a multidisciplinary and translational approach, integrating techniques from electrical engineering, computer science, biology and bioengineering. The group has contributed to MR physics and pulse sequence development (T1ρ and quantitative susceptibility mapping / QSM) and MR spectroscopy (1H downfield MRS), non-proton imaging and spectroscopy (23Na and 31P), machine learning and computer vision, and closed-loop systems for medical imaging. The Witschey lab focuses on basic science research in myocardial ischemia and coronary artery disease, reperfusion injury, non-ischemic heart disease, congenital heart disease and metabolic imaging of the heart. The lab develops machine learning algorithms for cardiac magnetic resonance, chest and hepatic and visceral computed tomography and MRI.
+
 birnbaum:
   sid: birnbaum
   name: Julia Birnbaum, MD
@@ -143,6 +169,12 @@ birnbaum:
     She once thought she wanted to do medical segments on news broadcasts and so spent some time working at KABC-TV in Los Angeles where she researched and produced medical segments. She also contributed to a medical documentary, book, and cookbook on high cholesterol.
 
     She is a mom of 4 (ages 16--36) and grandmom of a newborn, and has a 6 year old poodle. When not reading mammograms she can be found reading psychological thrillers, listening to country music, catching a Broadway show, or relaxing at the Jersey shore.
+
+moorthy:
+  sid: moorthy
+  name: Chetan S Moorthy, MD
+  img: img/moorthy.jpeg
+  bio: Dr. Chetan S Moorthy, MD, is a Pediatric Interventional Radiologist in El Paso, Texas. He attended and graduated from University Of Texas Medical Branch At Galveston in 1991, where he also served as chief resident. Since then, he has worked as a staff radiologist and interventionalist in multiple hospitals around El Paso, Texas, including as a Directory of Radiology in Providence Memorial Hospital. He is the current Medical Director of Radiology at the El Paso Children's Hospital, where he has also served as the Chief of Staff.
 
 strong:
   sid: strong
