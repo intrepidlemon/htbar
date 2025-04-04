@@ -142,6 +142,12 @@ gade:
   img: img/gade.jpg
   bio: "Terence P. Gade, MD, PhD graduated from medical school at the New York-Presbyterian / Weill Cornell Medical Center. He completed residency at the Hospital of the University of Pennsylvania and Lankenau Hospital and fellowship at the Hospital of the University of Pennsylvania. He is a Co-Director of the Penn Image-Guided Interventions (PIGI) Laboratory, an Assistant Professor of Radiology, and an Assistant Professor of Cancer Biology at the University of Pennsylvania. He is board certified in Diagnostic Radiology. He also received his PhD in Biophysics from the Weill Graduate School of Medical Sciences of Cornell University and continues to conduct research. He is a member of the following: Academy of Radiology Research, American Association for Cancer Research, American Society of Clinical Oncology, Association of University Radiologists, National Institutes of Health, Radiological Society of North America, Society of Interventional Oncology, and Society of Interventional Radiology."
 
+prelic:
+  sid: prelic
+  name: Ana Prelic
+  img: img/prelic.jpg
+  bio: "Ana Prelic is an Organization Development Consultant with nearly 15 experience working on data, research, consumer insights, strategic planning, and organizational development. She has been with Penn Medicine for nearly 10 years and is responsible for readying the organization for transformational changes."
+
 rudie:
   sid: rudie
   name: Jeff Rudie, MD PhD
