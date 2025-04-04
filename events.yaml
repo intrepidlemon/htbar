@@ -122,7 +122,7 @@
     location: PCAM conference room
     speakers:
       - burnes
-  - name: TBD 🧐
+  - name: My Accidental Entrepreneurship
     datetime: 2025-04-09T11:15:00-04:00
     location: PCAM conference room
     speakers:
@@ -139,7 +139,7 @@
     datetime: 2025-04-09T14:15:00-04:00
     location: PCAM conference room
     speakers:
-      - duzcak
+      - duszak
   - name: "Research Presentations"
     datetime: 2025-04-09T15:30:00-04:00
     location: PCAM conference room
@@ -164,12 +164,12 @@
     location: Donner 2 Conference Room
     speakers:
       - rosin
-  - name: TBD
+  - name: Perspectives from Independent Private Practice
     datetime: 2025-04-10T10:30:00-04:00
     location: Donner 2 Conference Room
     speakers:
       - kapustin
-  - name: TBD
+  - name: Medical Device Innovation in Academic Interventional Radiology
     datetime: 2025-04-10T11:15:00-04:00
     location:  Donner 2 Conference Room
     speakers:
@@ -182,7 +182,7 @@
     location: Donner 2 Conference Room
     speakers:
       - poff
-  - name: TBD
+  - name: Mentorship
     datetime: 2025-04-10T14:15:00-04:00
     location: Donner 2 Conference Room
     speakers:
@@ -210,7 +210,12 @@
     location: Donner-Grice Lecture Hall
     speakers:
       - goity
-  - name: "Solo Teleradiology"
+  - name: "Radiology's Role in Shaping the Next AI Revolution"
+    datetime: 2025-04-11T10:15:00-04:00
+    location: Donner-Grice Lecture Hall
+    speakers:
+      - witschey
+  - name: "Solo Teleradiology: A Journey to Optimize Quality of Life and Longevity"
     datetime: 2025-04-11T11:15:00-04:00
     location: Donner 2 Conference Room
     speakers:
@@ -218,7 +223,7 @@
   - name: Lunch
     datetime: 2025-04-11T12:00:00-04:00
     location: Donner 2 Conference Room
-  - name: Strength Based Leadership
+  - name: Strength Based Leadership in a Changing Healthcare Environment
     datetime: 2025-04-11T14:00:00-04:00
     location: Donner 2 Conference Room
   - name: Side Hustles
@@ -226,7 +231,7 @@
     location: Donner 2 Conference Room
     speakers:
       - hunt
-  - name: Pediatric Interventional Radiology in El Paso, TX
+  - name: Interventional Radiology in a Medically Underserved Region: Scope of Practice Challenges
     datetime: 2025-04-11T15:15:00-04:00
     location: Donner 2 Conference Room
     speakers:
