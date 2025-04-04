@@ -54,7 +54,7 @@ johnson:
 bennett:
   sid: bennett
   name: Brad Bennett, MD
-  img: img/bennett.jpeg
+  img: img/bennett.jpg
   bio: |
     Bradford Bennett, MD is a board-certified radiologist and the founder of Falcon Radiology, PLLC, an independent teleradiology practice. He completed his radiology residency at The Johns Hopkins Hospital and a neuroradiology fellowship at the Hospital of the University of Pennsylvania. After a year in private practice, he launched his own solo teleradiology company to gain greater flexibility, spend more time with his young family, and explore radiology-focused entrepreneurship. Dr. Bennett is passionate about improving radiologist workflow, promoting physician autonomy, and building sustainable, high-quality radiology practice models. He recently co-founded RadOverlay, LLC to address a workflow inefficiency common among teleradiologists.
 
@@ -104,9 +104,13 @@ duszak:
   img: img/duszak.jpg
   bio: |
     Richard Duszak, MD is Professor and Chair of the Department of Radiology at the University of Mississippi Medical Center (UMMC) in Jackson, Mississippi.
+    
     Past Council Speaker and current member of Board of Chancellors of the American College of Radiology, Dr. Duszak currently serves as Chair of the ACR’s Commission for Leadership and Practice Development and in that role oversees its Radiology Leadership Institute.
+    
     An outspoken supporter of evidence-based policy and longtime national leader in physician payment policy, Dr. Duszak previously served with CMS and private insurance leaders on the executive committee of the CPT Editorial Panel which maintains the code set by which all physician services are billed. Recognized for his expertise as an author, lecturer, and litigation consultant in healthcare fraud and abuse, Dr. Duszak has helped develop artificial intelligence to identify false claims, aligned with his multidisciplinary team-based approach of developing novel techniques of extracting meaningful and actionable information from medical records and insurance claims datasets to advance peer-reviewed health policy research.
+    
     Recognized by the Academy for Radiology and Biomedical Imaging Research with its Distinguished Investigator Award and the Association of University Radiologists with its Radiology Alliance for Health Services Research Achievement Award, Duszak has been honored as a fellow of the American College of Radiology, a fellow of the Society of Interventional Radiology, and as the first ever physician fellow of the Radiology Business Management Association. His scholarly pursuits focus largely on health policy (particularly imaging access and workforce, utilization, costs, and payment systems in radiology) and more recently data science and artificial intelligence. He has authored over 300 peer-reviewed publications and delivered over 600 invited lectures nationally in addition to serving on the editorial boards of several medical journals and a daily metropolitan newspaper. Over his career, he has helped secure over $9 million in research funding.
+    
     A graduate of the Pennsylvania State University College of Medicine, Duszak completed his residency in diagnostic radiology at Duke University and his fellowship in vascular and interventional radiology at the University of Pennsylvania. He came to UMMC from Emory University where he served as Professor and Vice Chair for Health Policy and Practice in the Department of Radiology and Imaging Sciences. Prior to joining Emory, Duszak served as Founding Chief Executive Officer of the Harvey L. Neiman Health Policy Institute. Prior to that, he spent nearly two decades in private practice, where he served as president of a large radiology group in his home state of Pennsylvania.
 
 pramanik:
