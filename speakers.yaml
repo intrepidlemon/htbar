@@ -51,6 +51,13 @@ johnson:
     
     Michael Johnson JD - Michael is a lawyer and founded Michael Johnson Legal in 2019. Michael previously practiced law in business, insurance, and construction litigation prior to starting the law firm. The ethos and motivation for creating the firm and educational platform stemmed from Michael's personal experience with his wife, a psychiatrist that's 5 years out of training, and the struggles with getting good education and representation in this area. We aim to correct this with the firm and the educational course!
 
+bennett:
+  sid: bennett
+  name: Brad Bennett, MD
+  img: img/bennett.jpeg
+  bio: |
+    Bradford Bennett, MD is a board-certified radiologist and the founder of Falcon Radiology, PLLC, an independent teleradiology practice. He completed his radiology residency at The Johns Hopkins Hospital and a neuroradiology fellowship at the Hospital of the University of Pennsylvania. After a year in private practice, he launched his own solo teleradiology company to gain greater flexibility, spend more time with his young family, and explore radiology-focused entrepreneurship. Dr. Bennett is passionate about improving radiologist workflow, promoting physician autonomy, and building sustainable, high-quality radiology practice models. He recently co-founded RadOverlay, LLC to address a workflow inefficiency common among teleradiologists.
+
 eljack:
   sid: eljack
   name: Amr Kamal El Jack, MD, PhD
