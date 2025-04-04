@@ -105,6 +105,13 @@ hassankhani:
     Dr. Hassankhani is actively involved in numerous professional organizations. He has presented extensively at national and international conferences and has authored multiple peer-reviewed scientific publications. Currently, he holds senior editorial roles with the American Board of Radiology's Online Longitudinal Assessment (OLA) program and serves on the ACR Appropriateness Criteria Expert Panel in Neuroradiology. Dr. Hassankhani is a sought-after reviewer of many scientific journals. He is a member of the editorial board of the Journal of Clinical Imaging and has been appointed as the Assistant Editor of the prestigious American Journal of Roentgenology.
     Dr. Hassankhani is married to Dr. Jenny Bencardino, who is a world-renowned academic musculoskeletal radiologist, and is currently vice chair of radiology at Montefiore Medical Center.
 
+sagreiya:
+  sid: sagreiya
+  name: Hersh Sagreiya
+  img: img/sagreiya.jpg
+  bio: |
+    Dr. Hersh Sagreiya is an Assistant Professor of Radiology at the University of Pennsylvania and am board-certified in Diagnostic Radiology and Clinical Informatics. He graduated from Harvard College with an A.B. in Biochemical Sciences in 2007 and the Stanford University School of Medicine with an M.D. in 2012. I completed a Diagnostic Radiology residency at the University of Pittsburgh in 2017 and a fellowship at the Stanford Cancer Imaging Training Program in 2019. As faculty at Penn, I am working on projects that apply machine learning and deep learning to the analysis of radiologic imaging. I received an RSNA Scholar grant on the topic of automated fat quantification using machine learning. I also received a grant from the Society of Radiologists in Ultrasound to study how machine learning applied to thyroid nodules can predict their pathology, genetics, and clinical outcomes. I have been collaborating with researchers on tools that automatically quantify imaging features on radiology studies and have made progress in the clinical implementation of these tools. I also seek to link these image-derived phenotypes to large-scale clinical, genetic, and laboratory data. A project focusing on an unsupervised learning tool to evaluate COVID-19 on lung ultrasound was funded by the American Lung Association, and I am pursuing further clinical validation. I have served as a project mentor for undergraduates, medical students, medical residents, and medical fellows.
+
 duszak:
   sid: duszak
   name: Richard Duszak, MD 
