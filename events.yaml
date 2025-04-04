@@ -226,6 +226,8 @@
   - name: Strength Based Leadership in a Changing Healthcare Environment
     datetime: 2025-04-11T14:00:00-04:00
     location: Donner 2 Conference Room
+    speakers:
+      - prelic
   - name: Side Hustles
     datetime: 2025-04-11T14:15:00-04:00
     location: Donner 2 Conference Room
