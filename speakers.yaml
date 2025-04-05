@@ -51,6 +51,15 @@ johnson:
     
     Michael Johnson JD - Michael is a lawyer and founded Michael Johnson Legal in 2019. Michael previously practiced law in business, insurance, and construction litigation prior to starting the law firm. The ethos and motivation for creating the firm and educational platform stemmed from Michael's personal experience with his wife, a psychiatrist that's 5 years out of training, and the struggles with getting good education and representation in this area. We aim to correct this with the firm and the educational course!
 
+patel:
+  sid: patel
+  name: Tarang Patel, MD
+  img: img/patel.png
+  bio: |
+    Dr. Tarang Patel, a diagnostic radiologist with 20+ yr experience in radiology. Completed residency from NY Presbyterian-Cornell and did MRI/Body fellowship at Mayo Clinic. He served as an active duty radiologist for the US Air Force during the Iraq/Afghanistan conflicts and the spent 13 years at Banner University of Arizona Medical Center in Phoenix as an associate professor in Radiology before leaving recently  to start his new radiology practice, Radiology One.
+    
+    Dr. Patel has long been an advocate for physician autonomy including on his prior physician financial education podcast, Doctor Money Matters. He is also creator of the American Radiologists Facebook group where he advocates for physician empowerment, knowledge and combating private equity’s growing influence in healthcare. The group supports thousands of radiologists and has proven to be a valuable resource in educating radiologists both about clinical and nonclinical matters pertaining to the specialty.
+
 bennett:
   sid: bennett
   name: Brad Bennett, MD
