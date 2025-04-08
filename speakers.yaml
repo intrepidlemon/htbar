@@ -6,12 +6,12 @@ _nicola:
   bio: |
     Dr. Lauren Nicola is CEO of Triad Radiology Associates in North Carolina, where she specializes in breast and pediatric imaging. She is also the youngest elected member of the ACR Board of Chancellors, and holds several leadership positions in the ACR Economics Commission, including serving as the alternate panel member on the AMA-RUC. Dr. Nicola is a national health policy expert with numerous peer-reviewed publications, and is a prominent speaker on the topics of health policy and reimbursement.
 
-goity:
-  sid: goity
-  name: Luis Goity, MD
-  img: img/goity.jpg
+gillman:
+  sid: gillman
+  name: Jennifer Gillman, MD
+  img: img/gillman.png
   bio: |
-    Luis Goity is an interventional radiologist at Mid-Atlantic Permanente Medical Group (MAPMG).  He started at MAPMG in September of 2024 after completing his IR/DR integrated residency at Penn in the same year.  He is a graduate of the University of Virginia School of Medicine (2018) and currently lives in Falls Church, Virginia with his wife, 3 year old daughter, and their dog.
+    Jennifer Gillman represents the best of UPenn alumnae. She is a nuclear medicine physician and pediatric radiologist at Mid-Atlantic Permanente Medical Group (MAPMG) where she started in September 2021. Prior to joining Kaiser, she graduated from Penn completing the 16 month nuclear medicine pathway (Class of 2020) and completed her pediatric radiology fellowship (class of 2021) at CHOP. She graduated from NYU School of medicine in 2015 with an MD/MSCI degree. She is a New York native, and though she misses Philadelphia, she is loving her new adventures in northern Virginia with her husband, lovely little girl and new dog.
 
 batlle:
   sid: batlle
@@ -296,7 +296,7 @@ goity:
   name: Luis Goity, MD
   img: img/goity.jpg
   bio: |
-    Luis Goity is a PGY-6 integrated interventional radiology resident joining the Mid Atlantic Permanente Medical Group after training.  He will be joining several other Penn IR grads at the practice.  He grew up in Virginia and went to the University of Virginia for undergraduate and medical school.  His favorite part of Penn Radiology outside the angiography suite was working in Gaborone, Botswana twice during training, reading studies and performing minor procedures.
+    Luis Goity is an interventional radiologist at Mid-Atlantic Permanente Medical Group (MAPMG).  He started at MAPMG in September of 2024 after completing his IR/DR integrated residency at Penn in the same year.  He is a graduate of the University of Virginia School of Medicine (2018) and currently lives in Falls Church, Virginia with his wife, 3 year old daughter, and their dog.
 
 hunt:
   sid: hunt
