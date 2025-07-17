@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alumni Class Display</title>
+    <style>
+        /* Basic styling to make it look nice */
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            height: 100vh;
+            margin: 0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: #f0f2f5;
+            color: #1c1e21;
+        }
+        .container {
+            text-align: center;
+            padding: 40px;
+            background-color: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            font-size: 2.5em;
+            margin: 0;
+        }
+        #class-year {
+            color: #007bff; /* A nice blue to highlight the year */
+        }
+        p {
+            margin-top: 20px;
+            color: #606770;
+            font-size: 0.9em;
+        }
+        code {
+            background-color: #e4e6eb;
+            padding: 2px 6px;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>
+            Alumni Class of <span id="class-year"></span>
+        </h1>
+        <p>
+            To change the year, add <code>?year=YYYY</code> to the end of the URL.
+        </p>
+    </div>
+
+    <script>
+        // This script runs after the page content has loaded
+        
+        // 1. Get the full query string from the current URL
+        const queryString = window.location.search;
+
+        // 2. Create a URLSearchParams object to easily work with the parameters
+        const urlParams = new URLSearchParams(queryString);
+
+        // 3. Get the value of the 'year' parameter. 
+        //    If it doesn't exist, provide a default placeholder.
+        const year = urlParams.get('year') || '____';
+
+        // 4. Find the span element by its ID and set its text content to the year
+        document.getElementById('class-year').textContent = year;
+    </script>
+
+</body>
+</html>
