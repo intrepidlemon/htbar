@@ -1,537 +1,275 @@
-- day: Monday, April 7, 2025
+- day: Monday, February 2, 2026
   events:
-  - name: "I Don't Drive my Wife to the Airport Anymore"
-    datetime: 2025-04-07T07:30:00-04:00
+  - name: "The Power of a Great Team"
+    datetime: 2026-02-02T07:30:00-04:00
     location: Donner-Grice Lecture Hall
     speakers:
-      - batlle
-  - name: "Anatomy of a Contract - Self Advocacy!"
-    datetime: 2025-04-07T08:15:00-04:00
+      - pandharipande
+  - name: "My Journey in Academic Radiology: Where am I, and how did I get here?"
+    datetime: 2026-02-02T08:15:00-04:00
     location: Donner-Grice Lecture Hall
     speakers:
-      - batlle
-  - name: "Privademics and Pushing the Envelope"
-    datetime: 2025-04-07T09:15:00-04:00
-    location: Donner 2 Conference Room
+      - nazarian
+  - name: "Why you should consider academic radiology"
+    datetime: 2026-02-02T09:15:00-04:00
+    location: PCAM 15 South Collaboration Center
     speakers:
-      - bagla
-  - name: "Physician Contracts: Top Tips for Residents and Fellows"
-    datetime: 2025-04-07T10:15:00-04:00
-    location: Donner 2 Conference Room
+      - siegelman
+  - name: "The resident selection committee: pearls and pitfalls"
+    datetime: 2026-02-02T10:25:00-04:00
+    location: PCAM 15 South Collaboration Center
     speakers:
-      - johnson
-  - name: "Panel - Transitions Between Academia and Private Practice"
-    datetime: 2025-04-07T11:15:00-04:00
-    location: Donner 2 Conference Room
+      - siegelman
+      - noor
+  - name: "Education Panel"
+    datetime: 2026-02-02T11:20:00-04:00
+    location: PCAM 15 South Collaboration Center
     speakers:
-      - pramanik
-      - eljack
-      - hassankhani
-  - name: Lunch
-    datetime: 2025-04-07T12:00:00-04:00
-    location: Donner 2 Conference Room
+      - simpson
+      - scanlon
+      - obrien
+      - pryma     
+  - name: Lunch with Education Panel
+    datetime: 2026-02-02T12:00:00-04:00
+    location: PCAM 15 South Collaboration Center
   - name: "Academic Interventional Radiology - Having it All"
-    datetime: 2025-04-07T13:15:00-04:00
-    location: Donner 2 Conference Room
+    datetime: 2026-02-02T13:00:00-04:00
+    location: PCAM 15 South Collaboration Center
     speakers:
       - trerotola
-  - name: "Entreprenuership in Radiology: I was an academic radiologist and fell off the wagon"
-    datetime: 2025-04-07T14:15:00-04:00
+  - name: "Goals and Objectives"
+    datetime: 2026-02-02T14:15:00-04:00
+    location: PCAM 15 South Collaboration Center
+    speakers:
+      - scanlon
+  - name: "How to Give a Powerpoint"
+    datetime: 2026-02-02T15:00:00-04:00
+    location: PCAM 15 South Collaboration Center
+    speakers:
+      - simpson
+  - name: "Dedicated Case Presentation Preparation"
+    datetime: 2026-02-02T16:00:00-04:00
+    location: PCAM 15 South Collaboration Center
+    speakers:
+      - simpson
+
+- day: Tuesday, February 3, 2026
+  events:
+  - name: "Introduction to Neurointerventional Radiology"
+    datetime: 2026-02-03T07:30:00-04:00
+    location: Donner-Grice Lecture Hall
+    speakers:
+      - mattay
+  - name: "Know When to Hold , Know When to Fold, Know When to Be Bold"
+    datetime: 2026-02-03T08:15:00-04:00
+    location: Donner-Grice Lecture Hall
+    speakers:
+      - rofsky
+  - name: "Coaching Tactics for Personal and Organizational Success"
+    datetime: 2026-02-03T09:15:00-04:00
+    location: PCAM 15 South Collaboration Center
+    speakers:
+      - rofsky
+  - name: "Grand Rounds: Emotional Intelligence and the Academic Radiologist-Skills for Leadership, Influence, and Professional Growth"
+    datetime: 2026-02-03T12:00:00-04:00
+    location: Donner Grice Lecture Hall
+    speakers:
+      - rofsky
+  - name: "Wellness break"
+    datetime: 2026-02-03T13:00:00-04:00
+    location: PCAM 15 South Collaboration Center
+  - name: "Academic Tracks"
+    datetime: 2026-02-03T13:30:00-04:00
+    location: PCAM 15 South Collaboration Center
+    speakers:
+      - edmonds
+  - name: "Advanced Precision Oncology: Innovations in Metabolic Imaging and Interventional Strategies"
+    datetime: 2026-02-03T14:20:00-04:00
+    location: PCAM 15 South Collaboration Center
+    speakers:
+      - tischfield
+  - name: "Career Path"
+    datetime: 2026-02-03T14:45:00-04:00
+    location: PCAM 15 South Collaboration Center
+    speakers:
+      - harrison
+  - name: "Precision Learning is the Future of Radiology Education"
+    datetime: 2026-02-03T15:30:00-04:00
+    location: PCAM 15 South Collaboration Center
+    speakers:
+      - reid
+  - name: "Introduction to Tracks (BAIR and TEACH)"
+    datetime: 2026-02-03T16:15:00-04:00
+    location: PCAM 15 South Collaboration Center
+
+- day: Wednesday, February 4, 2026
+  events:
+  - name: "R1 Case Presentations"
+    datetime: 2026-02-04T07:30:00-04:00
+    location: Donner-Grice Lecture Hall
+  - name: "R1 Case Presentations"
+    datetime: 2026-02-04T08:15:00-04:00
+    location: Donner-Grice Lecture Hall
+  - name: "Introduction to QI"
+    datetime: 2026-02-04T09:05:00-04:00
     location: Donner 2 Conference Room
     speakers:
-      - boonn
-  - name: "Research Presentations"
-    datetime: 2025-04-07T15:15:00-04:00
+      - zafar
+      - simmons
+      - pogozelski
+  - name: "Embedded Fourth Year Fellowship Pathway /Early career"
+    datetime: 2026-02-04T10:15:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - homza
+      - chahine
+      - whorms
+  - name: "Academic Panel"
+    datetime: 2026-02-04T11:15:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - jacob
+      - chaudhary
+      - nazarian_m
+  - name: Lunch with Academic Panel
+    datetime: 2026-02-04T12:00:00-04:00
+    location: Donner 2 Conference Room
+  - name: "Introduction to trainee activities and beyond: the early steps"
+    datetime: 2026-02-04T13:00:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - hathaway
+      - elahi
+      - hosseiny
+      - ataeinia      
+  - name: "VA Radiology: Myth vs Reality"
+    datetime: 2026-02-04T14:15:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - dinglasan
+  - name: "The Long Game: Physician Personal Finance in Service of a Well-Lived Life"
+    datetime: 2026-02-04T15:15:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - avey
+  - name: "Navigating academic careers in the modern era"
+    datetime: 2026-02-04T16:15:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - fried
+  - name: "🎳🎳R1 Social at Lucky Strike🎳🎳"
+    datetime: 2026-02-05T18:00:00-04:00
+    location: Lucky Strike (1336 Chestnut St, Philadelphia, PA 19107)
+
+- day: Thursday, February 5, 2026
+  events:
+  - name: "R1 Case Presentations"
+    datetime: 2026-02-05T07:30:00-04:00
+    location: Donner-Grice Lecture Hall
+  - name: "R1 Case Presentations"
+    datetime: 2026-02-05T08:15:00-04:00
+    location: Donner-Grice Lecture Hall
+  - name: "Navigating the Academic Landscape in an Era of Uncertainty"
+    datetime: 2026-02-05T09:15:00-04:00
     location: Donner 2 Conference Room
     speakers:
       - mankoff
+  - name: "Radiology, AI and Your Future"
+    datetime: 2026-02-05T10:15:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - kahn
+  - name: "Carving a Research Niche"
+    datetime: 2026-02-05T11:15:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
       - sellmyer
-
-- day: Tuesday, April 8, 2025
-  events:
-  - name: "Radiology in Demand: Navigating Practice Models in a Hot Job Market"
-    datetime: 2025-04-08T07:30:00-04:00
-    location: Donner-Grice Lecture Hall
-    speakers:
-      - _nicola
-  - name: "The Academic Advantage: Skills to Take from University Employment into Private Practice"
-    datetime: 2025-04-08T08:15:00-04:00
-    location: Donner-Grice Lecture Hall
-    speakers:
-      - sudheendra
-  - name: "Career Path + Q/A"
-    datetime: 2025-04-08T09:15:00-04:00
+  - name: Lunch with intro to EDRC
+    datetime: 2026-02-05T12:00:00-04:00
+    location: Donner 2 Conference Room
+  - name: "Laboratory for Advanced Comuputed Tomography Imaging"
+    datetime: 2026-02-05T13:00:00-04:00
     location: Donner 2 Conference Room
     speakers:
-      - _nicola
-  - name: "Radiology in Demand: Navigating Practice Models in a Hot Job Market"
-    datetime: 2025-04-08T10:30:00-04:00
+      - noel
+  - name: "Center for Practice Transformation"
+    datetime: 2026-02-05T13:20:00-04:00
     location: Donner 2 Conference Room
     speakers:
-      - _nicola
-  - name: "Behind the Scenes: What National Advocacy has done for You"
-    datetime: 2025-04-08T11:30:00-04:00
+      - cook
+  - name: "Penn PET Explorer"
+    datetime: 2026-02-05T13:40:00-04:00
     location: Donner 2 Conference Room
-    speakers:
-      - _nicola
-  - name: "(Grand Rounds) Hot Topics in Radiology Reimbursement"
-    datetime: 2025-04-08T12:00:00-04:00
-    location: Donner Grice Lecture Hall
-    speakers:
-      - _nicola
-  - name: break
-    datetime: 2025-04-08T13:00:00-04:00
-  - name: "The PIGI Lab - Current and Future Directions"
-    datetime: 2025-04-08T13:30:00-04:00
-    location: Donner 2 Conference Room
-    speakers:
-      - gade
-  - name: Hybrid Private Practice and Academic Career
-    datetime: 2025-04-08T14:30:00-04:00
-    location: Donner 2 Conference Room
-    speakers:
-      - rudie
-  - name: Radiologist in Industry
-    datetime: 2025-04-08T15:30:00-04:00
-    location: Donner 2 Conference Room
-    speakers:
-      - solomon
-  - name: Career Path
-    datetime: 2025-04-08T16:15:00-04:00
-    location: Donner 2 Conference Room
-    speakers:
-     - harrison
-
-- day: Wednesday, April 9, 2025
-  events:
-  - name: 🏛️
-    datetime: 2025-04-09T07:30:00-04:00
-    location: Donner Grice Lecture Hall
-  - name: "Radiology 2030: Jobs, AI and building a practice that works for you"
-    datetime: 2025-04-09T08:15:00-04:00
-    location: Donner Grice Lecture Hall
-    speakers: 
-      - patel
-  - name: Personal Finance Q/A
-    datetime: 2025-04-09T09:15:00-04:00
-    location: PCAM conference room
-    speakers: 
-      - patel
-  - name: RADPAC Intro and Q/A
-    datetime: 2025-04-09T10:15:00-04:00
-    location: PCAM conference room
-    speakers:
-      - burnes
-  - name: My Accidental Entrepreneurship
-    datetime: 2025-04-09T11:15:00-04:00
-    location: PCAM conference room
-    speakers:
-      - agrawal
-  - name: Lunch
-    datetime: 2025-04-09T12:00:00-04:00
-    location: PCAM conference room
-  - name: "Academic Radiology: One Size Doesn't Fit All"
-    datetime: 2025-04-09T13:15:00-04:00
-    location: PCAM conference room
-    speakers:
-      - birnbaum
-  - name: "Malpractice Litigation: Radiology's Near Inevitability"
-    datetime: 2025-04-09T14:15:00-04:00
-    location: PCAM conference room
-    speakers:
-      - duszak
-  - name: "Research Presentations"
-    datetime: 2025-04-09T15:30:00-04:00
-    location: PCAM conference room
     speakers:
       - pantel
-      - sagreiya
-
-- day: Thursday, April 10, 2025
+  - name: "Transitioning to Early Career: what you should know as a trainee"
+    datetime: 2026-02-05T14:00:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - baer
+  - name: "Health Equity Leadership"
+    datetime: 2026-02-05T15:05:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - englander
+      - eljack      
+      - jha
+      - makhoul
+      - ordonez
+  - name: "Intro to Research at Penn Radiology"
+    datetime: 2026-02-05T16:15:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - ordonez
+- day: Friday, February 6, 2026
   events:
-  - name: "My Career Path - What Inspires Me, What I'm Afraid of, and the Road Ahead"
-    datetime: 2025-04-10T07:30:00-04:00
+  - name: "First, Eat Your Frog"
+    datetime: 2026-02-06T07:30:00-04:00
     location: Donner-Grice Lecture Hall
     speakers:
-     - pandharipande
-  - name: "137 Years of Medical Malpractice"
-    datetime: 2025-04-10T08:15:00-04:00
+      - arleo
+  - name: "Understanding Bias in AI and its Application in Radiology"
+    datetime: 2026-02-06T08:15:00-04:00
     location: Donner-Grice Lecture Hall
     speakers:
-     - strong
-  - name: "Leading Transformative Innovation: Turning Ideas into Actions and Outcomes"
-    datetime: 2025-04-10T09:15:00-04:00
+      - gichoya
+  - name: "Beyond the Image: Becoming a Physician-Scientist"
+    datetime: 2026-02-06T09:15:00-04:00
     location: Donner 2 Conference Room
     speakers:
-      - rosin
-  - name: Perspectives from Independent Private Practice
-    datetime: 2025-04-10T10:30:00-04:00
-    location: Donner 2 Conference Room
-    speakers:
-      - kapustin
-  - name: Medical Device Innovation in Academic Interventional Radiology
-    datetime: 2025-04-10T11:15:00-04:00
-    location:  Donner 2 Conference Room
-    speakers:
-      - clark
-  - name: Lunch
-    datetime: 2025-04-10T12:00:00-04:00
-    location: Donner 2 Conference Room
-  - name: The Road not Taken
-    datetime: 2025-04-10T13:15:00-04:00
-    location: Donner 2 Conference Room
-    speakers:
-      - poff
-  - name: Mentorship
-    datetime: 2025-04-10T14:15:00-04:00
-    location: Donner 2 Conference Room
-    speakers:
-      - pramanik
-  - name: "The Academic Radiologist as a Leader, Consultant & Innovator"
-    datetime: 2025-04-10T15:15:00-04:00
-    location: Donner 2 Conference Room
-    speakers:
-      - chadalavada
+      - kundu
   - name: "Networking"
-    datetime: 2025-04-10T16:15:00-04:00
+    datetime: 2026-02-06T10:15:00-04:00
     location: Donner 2 Conference Room
     speakers:
       - rodgers
-
-- day: Friday, April 11, 2025
-  events:
-  - name: Fellow Panel
-    datetime: 2025-04-11T07:30:00-04:00
-    location: Donner-Grice Lecture Hall
-    speakers:
-      - avallone, wang, gwelob, chahine, adiletta
-  - name: "Private Practice in Radiology: The Kaiser Permanante Model"
-    datetime: 2025-04-11T09:15:00-04:00
-    location: Donner-Grice Lecture Hall
-    speakers:
-      - goity
-      - gillman
-  - name: "Radiology's Role in Shaping the Next AI Revolution"
-    datetime: 2025-04-11T10:15:00-04:00
-    location: Donner-Grice Lecture Hall
-    speakers:
-      - witschey
-  - name: "Solo Teleradiology: A Journey to Optimize Quality of Life and Longevity"
-    datetime: 2025-04-11T11:15:00-04:00
+  - name: "From Shadows to Spotlight: Social Media for the Future Academic Radiologist"
+    datetime: 2026-02-06T11:15:00-04:00
     location: Donner 2 Conference Room
     speakers:
-      - bennett
+      - deng
   - name: Lunch
-    datetime: 2025-04-11T12:00:00-04:00
+    datetime: 2026-02-06T12:00:00-04:00
     location: Donner 2 Conference Room
-  - name: Strength Based Leadership in a Changing Healthcare Environment
-    datetime: 2025-04-11T14:00:00-04:00
-    location: Donner 2 Conference Room
-    speakers:
-      - prelic
-  - name: Side Hustles
-    datetime: 2025-04-11T14:15:00-04:00
+  - name: "Academic Radiologist: Job, Career, and Calling"
+    datetime: 2026-02-06T13:00:00-04:00
     location: Donner 2 Conference Room
     speakers:
-      - hunt
-  - name: "Interventional Radiology in a Medically Underserved Region: Scope of Practice Challenges"
-    datetime: 2025-04-11T15:15:00-04:00
+      - cha
+  - name: "Healthcare Leadership"
+    datetime: 2026-02-06T14:10:00-04:00
     location: Donner 2 Conference Room
     speakers:
-      - moorthy
-  - name: How to Launch Your Future Career After UPenn Residency
-    datetime: 2025-04-11T16:15:00-04:00
+      - schnall
+  - name: "Introduction to Radiological Societies and Trainee Oppertunities/Reflection as Past President of ASNR"
+    datetime: 2026-02-06T15:15:00-04:00
     location: Donner 2 Conference Room
     speakers:
-      - shah
+      - loevner
+  - name: "End of Week 1 HTBAR Feedback"
+    datetime: 2026-02-06T16:00:00-04:00
+    location: Donner 2 Conference Room
   - name: Happy Hour 🥳
-    datetime: 2025-04-11T17:30:00-04:00
-    location: TBD
-# - day: Monday, April 8, 2024
-#   events:
-#   - name: "Locums IR: A Bridge to Independent Practice"
-#     datetime: 2024-04-08T07:30:00-04:00
-#     location: Donner-Grice Lecture Hall (virtual)
-#     speakers:
-#       - devulapalli
-#   - name: "Integrating mathematics and evolutionary principles in cancer treatment and imaging"
-#     datetime: 2024-04-08T08:15:00-04:00
-#     location: Donner-Grice Lecture Hall (virtual)
-#     speakers:
-#       - gatenby
-#   - name: break
-#     datetime: 2024-04-08T09:00:00-04:00
-#   - name: HTBAR Orientation
-#     datetime: 2024-04-08T09:15:00-04:00
-#     location: PCAM conference room
-#   - name: "Inside/Outside Academia Panel"
-#     datetime: 2024-04-08T09:30:00-04:00
-#     location: PCAM conference room
-#     speakers:
-#       - eljack
-#       - mulugeta
-#       - oliver
-#   - name: break
-#     datetime: 2024-04-08T10:30:00-04:00
-#   - name: "Personal Finance for Residents"
-#     datetime: 2024-04-08T10:45:00-04:00
-#     location: PCAM conference room
-#     speakers:
-#       - michel
-#   - name: Lunch
-#     datetime: 2024-04-08T12:00:00-04:00
-#     location: PCAM conference room
-#   - name: "Administration in an Academic Medical Center Radiology Department"
-#     datetime: 2024-04-08T13:00:00-04:00
-#     location: PCAM conference room
-#     speakers:
-#       - kirschner
-#   - name: break
-#     datetime: 2024-04-08T14:00:00-04:00
-#   - name: "Side Hustles"
-#     datetime: 2024-04-08T14:15:00-04:00
-#     location: PCAM conference room
-#     speakers:
-#       - hunt
-#   - name: break
-#     datetime: 2024-04-08T15:00:00-04:00
-#   - name: "R1 Research Proposals"
-#     datetime: 2024-04-08T15:15:00-04:00
-#     location: PCAM conference room
-#     speakers:
-#       - sellmyer
-#       - pantel
-#       - cranston
-#       - mankoff
-
-# - day: Tuesday, April 9, 2024
-#   events:
-#   - name: "Deep Risks"
-#     datetime: 2024-04-09T07:30:00-04:00
-#     location: Donner-Grice Lecture Hall
-#     speakers:
-#       - _schoppe
-#   - name: "Becoming a Meducator"
-#     datetime: 2024-04-09T08:15:00-04:00
-#     location: Donner-Grice Lecture Hall (virtual)
-#     speakers:
-#       - nel
-#   - name: break
-#     datetime: 2024-04-09T09:00:00-04:00
-#   - name: "Transitioning to first year in practice (Fellows only)"
-#     datetime: 2024-04-09T09:00:00-04:00
-#     location: PCAM Conference Room
-#     speakers:
-#       - _schoppe
-#   - name: "RADPAC Intro and Q/A + Resident Perspective"
-#     datetime: 2024-04-09T09:15:00-04:00
-#     location: Donner 2 Conference Room
-#     speakers:
-#       - burnes
-#       - rich
-#   - name: Career Path + Personal Finance
-#     datetime: 2024-04-09T10:00:00-04:00
-#     location: Donner 2 Conference Room
-#     speakers:
-#       - _schoppe
-#   - name: (Grand Rounds) Policy is Culture
-#     datetime: 2024-04-09T12:00:00-04:00
-#     location: Donner Grice Lecture Hall
-#     speakers:
-#       - _schoppe
-#   - name: break
-#     datetime: 2024-04-09T13:00:00-04:00
-#   - name: Community Hospital/Hybrid Academics
-#     datetime: 2024-04-09T13:15:00-04:00
-#     location: PCAM conference room
-#     speakers:
-#       - harrison
-#   - name: "137 years of Medical Malpractice"
-#     datetime: 2024-04-09T13:55:00-04:00
-#     location: PCAM conference room (virtual)
-#     speakers:
-#       - strong
-#   - name: "Creating an open-source low-field MRI scanner in just one week - Summary of the 'MRI4ALL Hackathon 2023'"
-#     datetime: 2024-04-09T14:45:00-04:00
-#     location: PCAM conference room
-#     speakers:
-#       - alon
-#       - block
-#   - name: break
-#     datetime: 2024-04-09T15:30:00-04:00
-#   - name: "Radiologist in Industry"
-#     datetime: 2024-04-09T15:45:00-04:00
-#     location: PCAM conference room
-#     speakers:
-#       - solomon
-
-# - day: Wednesday, April 10, 2024
-#   events:
-#   - name: "My Accidental Entrepreneurship"
-#     datetime: 2024-04-10T07:45:00-04:00
-#     location: Donner Grice Lecture Hall
-#     speakers:
-#       - agrawal
-#   - name: "Design for Delight"
-#     datetime: 2024-04-10T08:15:00-04:00
-#     location: Donner-Grice Lecture Hall
-#     speakers:
-#       - rosin
-#   - name: break
-#     datetime: 2024-04-10T09:00:00-04:00
-#   - name: "Innovating with Impact: Turning ideas into outcomes"
-#     datetime: 2024-04-10T09:15:00-04:00
-#     location: PCAM conference room
-#     speakers:
-#       - rosin
-#   - name: break
-#     datetime: 2024-04-10T10:45:00-04:00
-#   - name: Hybrid Private Practice and Academic Career
-#     datetime: 2024-04-10T11:00:00-04:00
-#     location: PCAM conference room (virtual)
-#     speakers:
-#       - rudie
-#   - name: Lunch
-#     datetime: 2024-04-10T12:00:00-04:00
-#     location: PCAM conference room
-#   - name: Learning to Mentor
-#     datetime: 2024-04-10T13:00:00-04:00
-#     location: PCAM conference room
-#     speakers:
-#       - sadee
-#   - name: break
-#     datetime: 2024-04-10T14:00:00-04:00
-#   - name: Global Health Panel
-#     datetime: 2024-04-10T14:15:00-04:00
-#     location: PCAM conference room
-#     speakers:
-#       - eljack
-#       - jha
-#       - otero
-#   - name: break
-#     datetime: 2024-04-10T15:00:00-04:00
-#   - name: "R1 Research Proposals"
-#     datetime: 2024-04-10T15:15:00-04:00
-#     location: PCAM conference room
-#     speakers:
-#       - pantel
-#       - ghodasara
-#       - wolfe
-
-# - day: Thursday, April 11, 2024
-#   events:
-#   - name: "The 4 Biggest Traps in Physician Employment Agreements"
-#     datetime: 2024-04-11T07:30:00-04:00
-#     location: Donner-Grice Lecture Hall (virtual)
-#     speakers:
-#       - hursh
-#   - name: "Anatomy of a Contract - Self-Advocacy"
-#     datetime: 2024-04-11T08:15:00-04:00
-#     location: Donner-Grice Lecture Hall (virtual)
-#     speakers:
-#       - batlle
-#   - name: break
-#     datetime: 2024-04-11T09:00:00-04:00
-#   - name: "Medical Device Innovation in Academic Interventional Radiology"
-#     datetime: 2024-04-11T09:15:00-04:00
-#     location: PCAM conference room
-#     speakers:
-#       - clark
-#   - name: break
-#     datetime: 2024-04-11T10:00:00-04:00
-#   - name: "Physician Founders: The how-to, tips, and experience not found in the book"
-#     datetime: 2024-04-11T10:15:00-04:00
-#     location: PCAM conference room (virtual)
-#     speakers:
-#       - qiao
-#   - name: break
-#     datetime: 2024-04-11T11:00:00-04:00
-#   - name: "Perspectives from Independent Private Practice"
-#     datetime: 2024-04-11T11:15:00-04:00
-#     location: PCAM conference room (virtual)
-#     speakers:
-#       - kapustin
-#   - name: Lunch
-#     datetime: 2024-04-11T12:00:00-04:00
-#     location: PCAM conference room
-#   - name: "How to be an Effective Manuscript Reviewer"
-#     datetime: 2024-04-11T13:00:00-04:00
-#     location: PCAM conference room
-#     speakers:
-#       - nazarian
-#   - name: "Entrepreneurship in Radiology: I was an academic radiologist and fell off the wagon"
-#     datetime: 2024-04-11T14:00:00-04:00
-#     location: PCAM conference room (virtual)
-#     speakers:
-#       - boonn
-#   - name: break
-#     datetime: 2024-04-11T14:45:00-04:00
-#   - name: "IR in Underserved/Rural Communities"
-#     datetime: 2024-04-11T15:00:00-04:00
-#     location: PCAM conference room (virtual)
-#     speakers:
-#       - khurana
-#   - name: break
-#     datetime: 2024-04-11T15:45:00-04:00
-#   - name: "MEDICOLEGAL Issues in Radiology You Should Know"
-#     datetime: 2024-04-11T16:00:00-04:00
-#     location: PCAM conference room (virtual)
-#     speakers:
-#       - yousem
-
-# - day: Friday, April 12, 2024
-#   events:
-#   - name: "Fellow and Senior Resident Panel"
-#     datetime: 2024-04-12T07:30:00-04:00
-#     location: Donner-Grice Lecture Hall
-#     speakers:
-#       - bhattacharya
-#       - chahine
-#       - goity
-#       - kumar
-#       - matari
-#       - standiford
-#   - name: break
-#     datetime: 2024-04-12T09:00:00-04:00
-#   - name: "Strength-Based Leadership in a Changing Healthcare Environment"
-#     datetime: 2024-04-12T09:15:00-04:00
-#     location: PCAM conference room
-#     speakers:
-#       - foster
-#   - name: break
-#     datetime: 2024-04-12T10:45:00-04:00
-#   - name: "The Resident Selection Committee: pearls and pitfalls"
-#     datetime: 2024-04-12T11:00:00-04:00
-#     location: PCAM conference room
-#     speakers:
-#       - siegelman
-#   - name: Lunch
-#     datetime: 2024-04-12T12:00:00-04:00
-#     location: PCAM conference room
-#   - name: "The Road not Taken"
-#     datetime: 2024-04-12T13:00:00-04:00
-#     location: PCAM conference room
-#     speakers:
-#       - poff
-#   - name: break
-#     datetime: 2024-04-12T14:00:00-04:00
-#   - name: "Private Practice in Radiology: The Kaiser Permanente Model"
-#     datetime: 2024-04-12T14:15:00-04:00
-#     location: PCAM conference room
-#     speakers:
-#       - mcginn
-#   - name: break
-#     datetime: 2024-04-12T15:00:00-04:00
-#   - name: "AI Panel"
-#     datetime: 2024-04-12T15:15:00-04:00
-#     location: PCAM conference room
-#     speakers:
-#       - curnes
-#       - hochstetler
-#       - jairaj
-#       - jha
-#       - shah
-#   - name: Happy Hour
-#     datetime: 2024-04-12T17:15:00-04:00
-#     location: New Deck
+    datetime: 2026-02-06T18:00:00-04:00
+    location: Stranglove's (216 S 11th St, Philadelphia, PA 19107)
 
