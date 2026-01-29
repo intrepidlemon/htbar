@@ -44,16 +44,17 @@ trerotola:
 scanlon:
   sid: scanlon
   name: Mary Scanlon, MD, FACR
-  img: img/scanlon.jpg
+  img: img/scanlon.png
   bio: |
-    Mary Helene Scanlon, MD FACR, is a Clinical Professor of Radiology at Penn Medicine and the Vice Chair of Education. She divides her clinical practice between the Division of Neuroradiology at Penn Medicine and the Department of Radiology of the Philadelphia Veterans Affairs Medical Center. Her subspecialty within Neuroradiology is Head and Neck. She has been the program director for Diagnostic Radiology since 2006, the same year she won the Wallace T. Miller Sr. Teaching Award.
-    Dr. Scanlon’s research interests center on radiology education and new ways to reach Gen Z and Millennials. 
-    She is passionate about organizational and political activism:
-    • She is the past president of the Philadelphia Roentgen Ray Society and Pennsylvania Radiological Society. She was the honored radiologist by both societies. 
-    • She is the current faculty liaison to the PRS- RFS, and MSS sections.
-    • She is the immediate Past President of APDR (Association of Program Directors in Radiology) and APDR Councilor to ACR. She recently chaired a national task force on how to ensure that resident training meets the procedural needs of the populations we serve. The voice of the TF was influential in  recent changes made  by ABR and ACGME in terms of both testing and tracking procedures expected of a general radiologist     
-    • She is currently a board member and Treasurer for ACR’s RadPac. 
+    Mary Helene Scanlon, MD FACR, is a Clinical Professor of Radiology at Penn Medicine and the Vice Chair of Education. She divides her clinical practice between the Division of Neuroradiology at Penn Medicine and the
+Department of Radiology of the Philadelphia Veterans Affairs Medical Center. Her subspecialty within Neuroradiology is Head and Neck. She has been the program director for Diagnostic Radiology since 2006, the same year she won the Wallace T. Miller Sr. Teaching Award. Dr. Scanlon’s research interests center on radiology education and new ways to reach Gen Z and Millennials. She is passionate about organizational and political activism:
+    • She is the past president of the Philadelphia Roentgen Ray Society and Pennsylvania Radiological Society. She was the honored radiologist by both societies.
+    • She has served as faculty liaison to the PRS- RFS, and MSS sections since 2015.
+    • She is Past President of APDR (Association of Program Directors in Radiology) and APDR Councilor to ACR. She recently chaired a national task force on how to ensure that resident training meets the procedural needs of the populations we serve. The voice of the TF was influential in recent changes made by ABR and ACGME in terms of both testing and tracking procedures expected of a general radiologist
+    • She is currently a board member and Treasurer for ACR’s RadPac.
     • She was named 2020 ACR Advocate of the Year.
+    • In 2015 a yearly RadPac Achievement award was named in her honor
+    • She will be receiving the 2026 APDR Achievement Award  this March at the AAR meeting in Atlanta
 
 rofsky:
   sid: rofsky
@@ -116,7 +117,11 @@ chahine:
   name: Chantal Issam Chahine, MD
   img: img/chahine.png
   bio: |
-    Chantal Issam Chahine, MD, is an Assistant Professor of Clinical Radiology within the Division of Musculoskeletal imaging at Penn Medicine. She joined faculty after completing her diagnostic radiology training at Penn in 2025, including an embedded fellowship in musculoskeletal imaging during her final year of training. She is active in outreach programming with the rIDE committee as well as scholarly work pertaining to conducting effective health equity research and to bridging the radiology representation gap through early intervention. To this end, she has also mentored undergraduates and medical students of diverse backgrounds at various stages of their professional journey. Her interests include implementation science as a bridge from research to practical applications of evidence-based interventions, particularly as they pertain to equity in medical education at an international level, and to health outcomes on a regional level. Her professional interests include political advocacy and its bearing on health equity from the standpoint of access to care, affordability, and best practices.  She received her MD from the University of Balamand, Lebanon.
+    Chantal Issam Chahine, MD, is an Assistant Professor of Radiology specializing in musculoskeletal imaging. She completed her diagnostic radiology residency, an embedded musculoskeletal radiology fellowship, and an informatics fellowship at the University of Pennsylvania. She is RMSK certified, with clinical and research interests centered on musculoskeletal ultrasound, including diagnostic applications and image-guided therapeutic interventions. She also has a practical interest in imaging informatics, with a focus on clinical workflow optimization and educational infrastructure.
+
+    Dr. Chahine is actively involved in outreach, advocacy, and mentorship at both the institutional and local levels. She mentors undergraduate and medical students from diverse backgrounds and serves on the PRS Board. 
+
+    She received her MD from the University of Balamand, Lebanon.
 
 homza:
   sid: homza
@@ -163,7 +168,7 @@ hathaway:
 ataeinia:
   sid: ataeinia
   name: Bahar Ataeinia, MD, MPH
-  img: img/ataeinia.jpg
+  img: img/ataeinia.png
   bio: |
     Bahar Ataeinia is a Diagnostic Radiology resident (PGY-3) at the Hospital of the University of Pennsylvania. She completed her MD MPH program at Tehran University of Medical Sciences, followed by a postdoctoral research fellowship at Massachusetts General Hospital focused on precision imaging and targeted therapies for cancer and autoimmune diseases. She has been actively involved in trainee-focused groups within national radiology societies, including serving on the Radiology: Imaging Cancer Trainee Editorial Board, the American Association for Women in Radiology (AAWR) Members-in-Training Committee with a focus on medical student outreach and membership, and as a Society of Advanced Body Imaging (SABI) Early Career Research Liaison.
 
@@ -237,7 +242,7 @@ baer:
   name: Anna V. Baer, MD, PhD
   img: img/baer.jpg
   bio: |
-   Dr. Anna Baer is an Assistant Professor of Radiology and Imaging Sciences at Emory University and a pediatric neuroradiologist at Children's Healthcare of Atlanta. Her research focus involves the use of non-invasive techniques to assess brain chainges in health and disease. She is a recipient of RSNA Research Resident and RSNA Research Fellow grants for investigating functional brain connectivity changes underlying vestibular symptoms persistence after mild traumatic brain injury. Dr. Baer earned her medical degree from Saint Petersburg State Medical University, as well as a PhD from S.M. Kirov Medical Military Academy (Russia). She completed diagnostic radiology residency and fellowship training in neuroradiology and pediatric neuroradiology at Emory University School of Medicine.
+    Anna Baer, MD, PhD is an Assistant Professor of Radiology at Emory University and Pediatric Neuroradiologist at Children's Healthcare of Atlanta, where she also serves as a Director of Radiology Research.  Her main clinical and research interests include fetal and neonatal imaging, traumatic brain injury, and applications of advanced imaging techniques in pediatric neuroradiology. She is a former RSNA Olmsted Editorial Fellow and currently serves as an Associated Editor for Pediatric Neuroradiology section of AJNR. She is active in many committees within the ASNR, ASPNR, ASFNR, and RSNA.
 
 jha:
   sid: jha
@@ -326,3 +331,58 @@ elahi:
     Dr. Elahi is immediate past Chair for the American College of Radiology Resident-Fellow Section (ACR-RFS), a board member for the ACRA Radiology Advocacy Network (RAN) and the Radiology Leadership Institute (RLI), and serves on the ACR Council Steering Committee (CSC). Dr. Elahi also serves as Chair of the Society of Breast Imaging (SBI) Resident and Fellow Section and was former President of the global radiology community RadDiscord in 2022-2023, now serving on the RadDiscord Board of Directors.
 
     Dr. Elahi was the recipient of the 2022 American Association for Women in Radiology Lucy Frank Squire Distinguished Resident Award in Diagnostic Radiology, the 2022 American College of Radiology Association RADPAC achievement award, and the 2024 recipient of the JACR Bruce J Hillman fellowship in scholarly publishing.
+
+pogozelski:
+  sid: pogozelski
+  name: Andrea Pogozelski M.P.H., B.S., R.T., MR, CT
+  img: img/pogozelski.jpg
+  bio: |
+    Andrea Pogezelski, a New Jersey native, loves the east coast lifestyle, with its captivating beaches and mountains. Her journey at Penn began in 2014 as the HUP MRI manager. In 2022, she transitioned to the role of HUP Assistant Director of Radiology in the Patient Safety and Quality division. With over 25 years in radiology, she has developed an in-depth understanding of all facets of the field, from technical aspects to management, through her role in quality leadership. Her experience spans various environments, including non-profit, for-profit, union, nonunion, acute care, and community-based care, with much of her time dedicated to direct patient care in CT & MRI.
+    In her current role, Andrea continues to provide care, but at a higher level, now caring for clinical teams, managers, and radiologists. Her goal is to strengthen the HRO culture through constant quality monitoring and enhancing workflow within each radiology division. She collaborates with lean six sigma style task forces, focusing on common patient care goals. Her position involves raising awareness in healthcare process improvement initiatives, emphasizing the significant impact they have on patient care and treatment.
+
+makhoul:
+  sid: makhoul
+  name: Peter Makhoul, MD
+  img: img/makhoul.jpg
+  bio: |
+   Peter Makhoul is a PGY4 diagnostic radiology resident and is one of the chief residents for the 2025/2026 year. He is interested in global health and cardiothoracic and abdominal imaging. Outside the reading room, Peter likes to play sports and music and eat absurd amounts of ice cream.
+
+ordonez:
+  sid: ordonez
+  name: Alvaro Ordonez, MD
+  img: img/ordonez.jpeg
+  bio: |
+    Alvaro is a research-track diagnostic radiology resident at Penn. He trained at the Universidad Industrial de Santander in Colombia and spent time at Johns Hopkins before residency. When he’s not at the hospital or making mice radioactive in the lab, he’s usually traveling, running, taking random photos, attempting salsa in Old City, or keeping his plants alive (with mixed success).
+
+hosseiny:
+  sid: hosseiny
+  name: Melina Hosseiny, MD
+  img: img/hosseiny.jpeg
+  bio: |
+    Dr. Melina Hosseiny is a Clinician-Scientist Diagnostic Radiology resident at the University of California, Los Angeles (UCLA), where she is involved in numerous projects at the intersection of artificial intelligence and medical imaging. She serves as the principal investigator on a prestigious $50K RSNA Resident Grant award focused on deep learning models and oncologic imaging.
+
+    Dr. Hosseiny has been honored with over 20 national and international awards, scholarships, and grants from renowned scientific meetings, including the AAWR Lucy Frank Squire Award, 2025 SABI Best Oral Presentation Award, 2024 ARRS President’s Award, 2024 SABI 3 Pearls First Place Award, 2023 RSNA Research Resident Award, 2023 Applied Radiology Award, NASCI 2023 Young Investigator Award, SABI 2023 Cum Laude Award, and the SAR 2019–2020 Research Scholarship Awards.
+
+    She has authored more than 45 peer-reviewed publications and delivered over 50 scientific presentations at national and international conferences, with her work garnering approximately 2,000 scientific citations. Dr. Hosseiny stands out as one of the first radiology trainees to actively participate on the editorial boards of leading journals in the field, including Radiology: Artificial Intelligence, RadioGraphics and JACR. Her research interests lie at the intersection of deep learning and clinical radiology, with a focus on multimodal deep learning for diagnostic imaging tasks.
+
+    Beyond her research endeavors, Dr. Hosseiny holds several leadership roles within the radiology community. She currently serves as Chair of the Society of Advanced Body Imaging Early Career Committee (SABI-ECC), Education Chair of the R4SF organization, and as a member of the LI-RADS Steering Committee and the SAR Emerging Technology Committee on Artificial Intelligence.
+
+    Outside of medicine, she enjoys coding and software development, ziplining, practicing aerial yoga, skiing, and traveling. Dr. Hosseiny is passionate about enhancing medical imaging with AI and advancing medical education. She is driven by a personal mission to make a lasting, positive impact and to pave the way for future generations.
+
+mattay:
+  sid: mattay
+  name: Raghav Ram Mattay, MD
+  img: img/mattay.jpg
+  bio: |
+    Dr. Mattay earned his undergraduate degree with highest distinction in Cognitive Science at the University of Virginia. He then earned his medical degree from the Perelman School of Medicine at the University of Pennsylvania, where he completed the Clinical Neuroscientist Training Program and graduated at the top of his class culminating with his induction into the Alpha Omega Alpha Honor society. He subsequently completed his residency in Diagnostic Radiology at the Hospital of the University of Pennsylvania, where he founded the Radiology 200 course for Medical Students as well as co-founded the Business and Innovation in Radiology Track for residents. He went on to complete advanced fellowship training in Imaging Informatics as well as two years of Diagnostic Neuroradiology at Penn, where he served as Chief Fellow in his final year. He then pursued a two-year Neuroendovascular Surgery fellowship at the University of California San Francisco. He just completed his term as the Co-Chair of the Young Neurointerventionalist Surgery committee of the Society of Neurointerventional Surgery. He is currently an Assistant Professor of Neurosurgery at Lenox Hill Hospital in Manhattan, part of Northwell Health and Hofstra University School of Medicine.
+
+solomon:
+  sid: solomon
+  name: Jeffrey Solomon, MD, MBA
+  img: img/solomon.jpg
+  bio: |
+    Jeffrey is a clinical assistant professor of radiology in Penn's division of community radiology and a lecturer in the department of healthcare management at the Wharton school of business.  Jeffrey earned undergraduate degrees with honors from Brown University in Biology and Classics. He graduated from the University of Pennsylvania School of Medicine and was elected to the AOA honor society. He then completed a residency in diagnostic radiology and a fellowship in interventional radiology at the Hospital of the University of Pennsylvania. As part of his postgraduate training, he earned an MBA from the Wharton School of Business with a concentration in health care management.  He served as faculty in the division of Interventional Radiology at HUP from 2000 - 2011 when he moved to Silicon Valley as a founder of Infiniti Medical.  He has since served as chief medical officer of XACT Robotics and founded a second company before returning for his second tour of duty in clinical medicine at Penn.  As well as having sold his own company, Jeffrey has invested in several start ups that have been acquired by strategic partners.
+
+
+
+
