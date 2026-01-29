@@ -46,8 +46,7 @@ scanlon:
   name: Mary Scanlon, MD, FACR
   img: img/scanlon.png
   bio: |
-    Mary Helene Scanlon, MD FACR, is a Clinical Professor of Radiology at Penn Medicine and the Vice Chair of Education. She divides her clinical practice between the Division of Neuroradiology at Penn Medicine and the
-Department of Radiology of the Philadelphia Veterans Affairs Medical Center. Her subspecialty within Neuroradiology is Head and Neck. She has been the program director for Diagnostic Radiology since 2006, the same year she won the Wallace T. Miller Sr. Teaching Award. Dr. Scanlon’s research interests center on radiology education and new ways to reach Gen Z and Millennials. She is passionate about organizational and political activism:
+    Mary Helene Scanlon, MD FACR, is a Clinical Professor of Radiology at Penn Medicine and the Vice Chair of Education. She divides her clinical practice between the Division of Neuroradiology at Penn Medicine and the Department of Radiology of the Philadelphia Veterans Affairs Medical Center. Her subspecialty within Neuroradiology is Head and Neck. She has been the program director for Diagnostic Radiology since 2006, the same year she won the Wallace T. Miller Sr. Teaching Award. Dr. Scanlon's research interests center on radiology education and new ways to reach Gen Z and Millennials. She is passionate about organizational and political activism:
     • She is the past president of the Philadelphia Roentgen Ray Society and Pennsylvania Radiological Society. She was the honored radiologist by both societies.
     • She has served as faculty liaison to the PRS- RFS, and MSS sections since 2015.
     • She is Past President of APDR (Association of Program Directors in Radiology) and APDR Councilor to ACR. She recently chaired a national task force on how to ensure that resident training meets the procedural needs of the populations we serve. The voice of the TF was influential in recent changes made by ABR and ACGME in terms of both testing and tracking procedures expected of a general radiologist
@@ -56,8 +55,8 @@ Department of Radiology of the Philadelphia Veterans Affairs Medical Center. Her
     • In 2015 a yearly RadPac Achievement award was named in her honor
     • She will be receiving the 2026 APDR Achievement Award  this March at the AAR meeting in Atlanta
 
-rofsky:
-  sid: rofsky
+_rofsky:
+  sid: _rofsky
   name: Neil M. Rofsky, MD, MHA
   img: img/rofsky.jpg
   bio: |
