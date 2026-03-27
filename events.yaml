@@ -1,276 +1,519 @@
-- day: Monday, February 2, 2026
-  events:
-  - name: "The Power of a Great Team"
-    datetime: 2026-02-02T07:30:00-05:00
-    location: Donner-Grice Lecture Hall
-    speakers:
-      - pandharipande
-  - name: "My Journey in Academic Radiology: Where am I, and how did I get here?"
-    datetime: 2026-02-02T08:15:00-05:00
-    location: Donner-Grice Lecture Hall
-    speakers:
-      - nazarian
-  - name: "Why you should consider academic radiology"
-    datetime: 2026-02-02T09:15:00-05:00
-    location: PCAM 15 South Collaboration Center
-    speakers:
-      - siegelman
-  - name: "The resident selection committee: pearls and pitfalls"
-    datetime: 2026-02-02T10:25:00-05:00
-    location: PCAM 15 South Collaboration Center
-    speakers:
-      - siegelman
-      - noor
-  - name: "Education Panel"
-    datetime: 2026-02-02T11:20:00-05:00
-    location: PCAM 15 South Collaboration Center
-    speakers:
-      - simpson
-      - scanlon
-      - obrien   
-  - name: Lunch with Education Panel
-    datetime: 2026-02-02T12:00:00-05:00
-    location: PCAM 15 South Collaboration Center
-  - name: "Academic Interventional Radiology - Having it All"
-    datetime: 2026-02-02T13:00:00-05:00
-    location: PCAM 15 South Collaboration Center
-    speakers:
-      - trerotola
-  - name: "Goals and Objectives"
-    datetime: 2026-02-02T14:15:00-05:00
-    location: PCAM 15 South Collaboration Center
-    speakers:
-      - scanlon
-  - name: "How to Give a Powerpoint"
-    datetime: 2026-02-02T15:00:00-05:00
-    location: PCAM 15 South Collaboration Center
-    speakers:
-      - simpson
-  - name: "Dedicated Case Presentation Preparation"
-    datetime: 2026-02-02T16:00:00-05:00
-    location: PCAM 15 South Collaboration Center
-    speakers:
-      - simpson
+# - day: Monday, February 2, 2026
+#   events:
+#   - name: "The Power of a Great Team"
+#     datetime: 2026-02-02T07:30:00-05:00
+#     location: Donner-Grice Lecture Hall
+#     speakers:
+#       - pandharipande
+#   - name: "My Journey in Academic Radiology: Where am I, and how did I get here?"
+#     datetime: 2026-02-02T08:15:00-05:00
+#     location: Donner-Grice Lecture Hall
+#     speakers:
+#       - nazarian
+#   - name: "Why you should consider academic radiology"
+#     datetime: 2026-02-02T09:15:00-05:00
+#     location: PCAM 15 South Collaboration Center
+#     speakers:
+#       - siegelman
+#   - name: "The resident selection committee: pearls and pitfalls"
+#     datetime: 2026-02-02T10:25:00-05:00
+#     location: PCAM 15 South Collaboration Center
+#     speakers:
+#       - siegelman
+#       - noor
+#   - name: "Education Panel"
+#     datetime: 2026-02-02T11:20:00-05:00
+#     location: PCAM 15 South Collaboration Center
+#     speakers:
+#       - simpson
+#       - scanlon
+#       - obrien   
+#   - name: Lunch with Education Panel
+#     datetime: 2026-02-02T12:00:00-05:00
+#     location: PCAM 15 South Collaboration Center
+#   - name: "Academic Interventional Radiology - Having it All"
+#     datetime: 2026-02-02T13:00:00-05:00
+#     location: PCAM 15 South Collaboration Center
+#     speakers:
+#       - trerotola
+#   - name: "Goals and Objectives"
+#     datetime: 2026-02-02T14:15:00-05:00
+#     location: PCAM 15 South Collaboration Center
+#     speakers:
+#       - scanlon
+#   - name: "How to Give a Powerpoint"
+#     datetime: 2026-02-02T15:00:00-05:00
+#     location: PCAM 15 South Collaboration Center
+#     speakers:
+#       - simpson
+#   - name: "Dedicated Case Presentation Preparation"
+#     datetime: 2026-02-02T16:00:00-05:00
+#     location: PCAM 15 South Collaboration Center
+#     speakers:
+#       - simpson
+# 
+# - day: Tuesday, February 3, 2026
+#   events:
+#   - name: "Neurointerventional Surgery in 2026: Training, Practice, and the Evolution of a Subspecialty"
+#     datetime: 2026-02-03T07:30:00-05:00
+#     location: Donner-Grice Lecture Hall
+#     speakers:
+#       - mattay
+#   - name: "Know When to Hold , Know When to Fold, Know When to Be Bold"
+#     datetime: 2026-02-03T08:15:00-05:00
+#     location: Donner-Grice Lecture Hall
+#     speakers:
+#       - _rofsky
+#   - name: "Coaching Tactics for Personal and Organizational Success"
+#     datetime: 2026-02-03T09:15:00-05:00
+#     location: PCAM 15 South Collaboration Center
+#     speakers:
+#       - _rofsky
+#   - name: "Grand Rounds: Emotional Intelligence and the Academic Radiologist-Skills for Leadership, Influence, and Professional Growth"
+#     datetime: 2026-02-03T12:00:00-05:00
+#     location: Donner Grice Lecture Hall
+#     speakers:
+#       - _rofsky
+#   - name: "Wellness break"
+#     datetime: 2026-02-03T13:00:00-05:00
+#     location: PCAM 15 South Collaboration Center
+#   - name: "Academic Tracks"
+#     datetime: 2026-02-03T13:30:00-05:00
+#     location: PCAM 15 South Collaboration Center
+#     speakers:
+#       - edmonds
+#   - name: "Advanced Precision Oncology: Innovations in Metabolic Imaging and Interventional Strategies"
+#     datetime: 2026-02-03T14:20:00-05:00
+#     location: PCAM 15 South Collaboration Center
+#     speakers:
+#       - tischfield
+#   - name: "Career Path"
+#     datetime: 2026-02-03T14:45:00-05:00
+#     location: PCAM 15 South Collaboration Center
+#     speakers:
+#       - harrison
+#   - name: "Precision Learning is the Future of Radiology Education"
+#     datetime: 2026-02-03T15:30:00-05:00
+#     location: PCAM 15 South Collaboration Center
+#     speakers:
+#       - reid
+#   - name: "Introduction to Tracks (BAIR and TEACH)"
+#     datetime: 2026-02-03T16:15:00-05:00
+#     location: PCAM 15 South Collaboration Center
+# 
+# - day: Wednesday, February 4, 2026
+#   events:
+#   - name: "R1 Case Presentations"
+#     datetime: 2026-02-04T07:30:00-05:00
+#     location: Donner-Grice Lecture Hall
+#   - name: "R1 Case Presentations"
+#     datetime: 2026-02-04T08:15:00-05:00
+#     location: Donner-Grice Lecture Hall
+#   - name: "Introduction to QI"
+#     datetime: 2026-02-04T09:05:00-05:00
+#     location: Donner 2 Conference Room
+#     speakers:
+#       - zafar
+#       - simmons
+#       - pogozelski
+#   - name: "Embedded Fourth Year Fellowship Pathway /Early career"
+#     datetime: 2026-02-04T10:15:00-05:00
+#     location: Donner 2 Conference Room
+#     speakers:
+#       - homza
+#       - chahine
+#       - whorms
+#   - name: "Academic Panel"
+#     datetime: 2026-02-04T11:15:00-05:00
+#     location: Donner 2 Conference Room
+#     speakers:
+#       - jacob
+#       - chaudhary
+#       - nazarian_m
+#   - name: Lunch with Academic Panel
+#     datetime: 2026-02-04T12:00:00-05:00
+#     location: Donner 2 Conference Room
+#   - name: "Introduction to trainee activities and beyond: the early steps"
+#     datetime: 2026-02-04T13:00:00-05:00
+#     location: Donner 2 Conference Room
+#     speakers:
+#       - hathaway
+#       - elahi
+#       - hosseiny
+#       - ataeinia      
+#   - name: "VA Radiology: Myth vs Reality"
+#     datetime: 2026-02-04T14:15:00-05:00
+#     location: Donner 2 Conference Room
+#     speakers:
+#       - dinglasan
+#   - name: "The Long Game: Physician Personal Finance in Service of a Well-Lived Life"
+#     datetime: 2026-02-04T15:15:00-05:00
+#     location: Donner 2 Conference Room
+#     speakers:
+#       - avey
+#   - name: "Navigating academic careers in the modern era"
+#     datetime: 2026-02-04T16:15:00-05:00
+#     location: Donner 2 Conference Room
+#     speakers:
+#       - fried
+#   - name: "🎳R1 Social at Lucky Strike🎳"
+#     datetime: 2026-02-05T18:00:00-05:00
+#     location: Lucky Strike (1336 Chestnut St, Philadelphia, PA 19107)
+# 
+# - day: Thursday, February 5, 2026
+#   events:
+#   - name: "R1 Case Presentations"
+#     datetime: 2026-02-05T07:30:00-05:00
+#     location: Donner-Grice Lecture Hall
+#   - name: "R1 Case Presentations"
+#     datetime: 2026-02-05T08:15:00-05:00
+#     location: Donner-Grice Lecture Hall
+#   - name: "Navigating the Academic Landscape in an Era of Uncertainty"
+#     datetime: 2026-02-05T09:15:00-05:00
+#     location: Donner 2 Conference Room
+#     speakers:
+#       - mankoff
+#   - name: "Radiology, AI and Your Future"
+#     datetime: 2026-02-05T10:15:00-05:00
+#     location: Donner 2 Conference Room
+#     speakers:
+#       - kahn
+#   - name: "Carving a Research Niche"
+#     datetime: 2026-02-05T11:15:00-05:00
+#     location: Donner 2 Conference Room
+#     speakers:
+#       - sellmyer
+#   - name: Lunch with intro to EDRC
+#     datetime: 2026-02-05T12:00:00-05:00
+#     location: Donner 2 Conference Room
+#   - name: "Laboratory for Advanced Comuputed Tomography Imaging"
+#     datetime: 2026-02-05T13:00:00-05:00
+#     location: Donner 2 Conference Room
+#     speakers:
+#       - noel
+#   - name: "Center for Practice Transformation"
+#     datetime: 2026-02-05T13:20:00-05:00
+#     location: Donner 2 Conference Room
+#     speakers:
+#       - cook
+#   - name: "Penn PET Explorer"
+#     datetime: 2026-02-05T13:40:00-05:00
+#     location: Donner 2 Conference Room
+#     speakers:
+#       - pantel
+#   - name: "From Resident to Attending: Building the Foundation for a Successful Radiology Career"
+#     datetime: 2026-02-05T14:00:00-05:00
+#     location: Donner 2 Conference Room
+#     speakers:
+#       - baer
+#   - name: "Health Equity Leadership"
+#     datetime: 2026-02-05T15:05:00-05:00
+#     location: Donner 2 Conference Room
+#     speakers:
+#       - englander
+#       - eljack      
+#       - jha
+#       - makhoul
+#       - ordonez
+#   - name: "Intro to Research at Penn Radiology"
+#     datetime: 2026-02-05T16:15:00-05:00
+#     location: Donner 2 Conference Room
+#     speakers:
+#       - ordonez
+# - day: Friday, February 6, 2026
+#   events:
+#   - name: "First, Eat Your Frog"
+#     datetime: 2026-02-06T07:30:00-05:00
+#     location: Donner-Grice Lecture Hall
+#     speakers:
+#       - arleo
+#   - name: "Understanding Bias in AI and its Application in Radiology"
+#     datetime: 2026-02-06T08:15:00-05:00
+#     location: Donner-Grice Lecture Hall
+#     speakers:
+#       - gichoya
+#   - name: "Beyond the Image: Becoming a Physician-Scientist"
+#     datetime: 2026-02-06T09:15:00-05:00
+#     location: Donner 2 Conference Room
+#     speakers:
+#       - kundu
+#   - name: "Networking"
+#     datetime: 2026-02-06T10:15:00-05:00
+#     location: Donner 2 Conference Room
+#     speakers:
+#       - rodgers
+#   - name: "From Shadows to Spotlight: Social Media for the Future Academic Radiologist"
+#     datetime: 2026-02-06T11:15:00-05:00
+#     location: Donner 2 Conference Room
+#     speakers:
+#       - deng
+#   - name: Lunch
+#     datetime: 2026-02-06T12:00:00-05:00
+#     location: Donner 2 Conference Room
+#   - name: "Academic Radiologist: Job, Career, and Calling"
+#     datetime: 2026-02-06T13:00:00-05:00
+#     location: Donner 2 Conference Room
+#     speakers:
+#       - cha
+#   - name: "Healthcare Leadership"
+#     datetime: 2026-02-06T14:10:00-05:00
+#     location: Donner 2 Conference Room
+#     speakers:
+#       - schnall
+#   - name: "Introduction to Radiological Societies and Trainee Oppertunities/Reflection as Past President of ASNR"
+#     datetime: 2026-02-06T15:15:00-05:00
+#     location: Donner 2 Conference Room
+#     speakers:
+#       - loevner
+#   - name: "Radiologist in Industry"
+#     datetime: 2026-02-06T16:00:00-05:00
+#     location: Donner 2 Conference Room
+#     speakers:
+#       - solomon
+#   - name: Happy Hour 🥳🥳
+#     datetime: 2026-02-06T18:00:00-05:00
+#     location: Stranglove's (216 S 11th St, Philadelphia, PA 19107)
+# 
 
-- day: Tuesday, February 3, 2026
+- day: Monday, March 30, 2026
   events:
-  - name: "Neurointerventional Surgery in 2026: Training, Practice, and the Evolution of a Subspecialty"
-    datetime: 2026-02-03T07:30:00-05:00
+  - name: "Teleradiology: Past, Present and Future"
+    datetime: 2026-03-30T07:30:00-04:00
     location: Donner-Grice Lecture Hall
     speakers:
-      - mattay
-  - name: "Know When to Hold , Know When to Fold, Know When to Be Bold"
-    datetime: 2026-02-03T08:15:00-05:00
+      - agrawal
+  - name: "Don't Just Interpret!-- Influence: Leadership in Radiology Starts Now"
+    datetime: 2026-03-30T08:15:00-04:00
     location: Donner-Grice Lecture Hall
     speakers:
-      - _rofsky
-  - name: "Coaching Tactics for Personal and Organizational Success"
-    datetime: 2026-02-03T09:15:00-05:00
-    location: PCAM 15 South Collaboration Center
+      - wood
+  - name: "My Accidental Entrepreneurship"
+    datetime: 2026-03-30T09:15:00-04:00
+    location: Donner 2 Conference Room
     speakers:
-      - _rofsky
-  - name: "Grand Rounds: Emotional Intelligence and the Academic Radiologist-Skills for Leadership, Influence, and Professional Growth"
-    datetime: 2026-02-03T12:00:00-05:00
+      - agrawal
+  - name: "From Trainee to Academic Radiologist"
+    datetime: 2026-03-30T10:15:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - allen
+  - name: "Perspectives from Independent Private Practice"
+    datetime: 2026-03-30T11:15:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - dam
+  - name: Lunch (with V. Dam)
+    datetime: 2026-03-30T12:00:00-04:00
+    location: Donner 2 Conference Room
+  - name: "137 Years of Medical Malpractice"
+    datetime: 2026-03-30T13:00:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - strong
+  - name: "RADPAC Intro and Q/A"
+    datetime: 2026-03-30T14:15:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - burnes
+  - name: "Side Hustles"
+    datetime: 2026-03-30T15:15:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - hunt
+  - name: "Promotion and Career Path"
+    datetime: 2026-03-30T16:15:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - nadolski
+
+- day: Tuesday, March 31, 2026
+  events:
+  - name: "Embedded R4 to First-Year Private Practice Attending"
+    datetime: 2026-03-31T07:30:00-04:00
+    location: Donner-Grice Lecture Hall
+    speakers:
+      - steyer
+      - joe
+  - name: "Making Work Fun and Engaging"
+    datetime: 2026-03-31T08:15:00-04:00
+    location: Donner-Grice Lecture Hall
+    speakers:
+      - _recht
+  - name: "Leaders and Leadership"
+    datetime: 2026-03-31T09:15:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - _recht
+  - name: "Grand Rounds: How Artificial Intelligence Will Change Imaging: My Predictions"
+    datetime: 2026-03-31T12:00:00-04:00
     location: Donner Grice Lecture Hall
     speakers:
-      - _rofsky
+      - _recht
   - name: "Wellness break"
-    datetime: 2026-02-03T13:00:00-05:00
-    location: PCAM 15 South Collaboration Center
-  - name: "Academic Tracks"
-    datetime: 2026-02-03T13:30:00-05:00
-    location: PCAM 15 South Collaboration Center
+    datetime: 2026-03-31T13:00:00-04:00
+    location: Donner 2 Conference Room
+  - name: "R1 Research and QI Presentations"
+    datetime: 2026-03-31T13:30:00-04:00
+    location: Donner 2 Conference Room
     speakers:
-      - edmonds
-  - name: "Advanced Precision Oncology: Innovations in Metabolic Imaging and Interventional Strategies"
-    datetime: 2026-02-03T14:20:00-05:00
-    location: PCAM 15 South Collaboration Center
+      - barinov
+      - dhanaliwala
+  - name: "What time does an 8AM shift start?"
+    datetime: 2026-03-31T15:15:00-04:00
+    location: Donner 2 Conference Room
     speakers:
-      - tischfield
+      - batlle
+  - name: "Teleradiology Perspectives"
+    datetime: 2026-03-31T16:15:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - cox
+
+- day: Wednesday, April 1, 2026
+  events:
+  - name: "Macro Final Sign"
+    datetime: 2026-04-01T07:30:00-04:00
+    location: Donner-Grice Lecture Hall
+    speakers:
+      - wang
+  - name: "Non-Physician Practitioners: An Existential Threat to Radiologists?"
+    datetime: 2026-04-01T08:15:00-04:00
+    location: Donner-Grice Lecture Hall
+    speakers:
+      - duszak
+  - name: "Your Professional Career is a Journey and Not a Destination"
+    datetime: 2026-04-01T09:15:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - duszak
+  - name: "Wild Card"
+    datetime: 2026-04-01T10:15:00-04:00
+    location: Donner 2 Conference Room
+  - name: "Hybrid Private Practice and Academic Career"
+    datetime: 2026-04-01T11:15:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - rudie
+  - name: "Lunch (with mentors)"
+    datetime: 2026-04-01T12:00:00-04:00
+    location: Donner 2 Conference Room
+  - name: "What is Leadership?"
+    datetime: 2026-04-01T13:00:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - weitzmangarcia
+  - name: "Leading Change"
+    datetime: 2026-04-01T14:15:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - weitzmangarcia
+  - name: "R1 Research Presentations"
+    datetime: 2026-04-01T15:15:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - barinov
+      - nasrallah
+
+- day: Thursday, April 2, 2026
+  events:
+  - name: "Physician Contracts"
+    datetime: 2026-04-02T07:30:00-04:00
+    location: Donner-Grice Lecture Hall
+    speakers:
+      - armon
+  - name: "Fundamentals of Coding, Reimbursement, and Costs"
+    datetime: 2026-04-02T08:15:00-04:00
+    location: Donner-Grice Lecture Hall
+    speakers:
+      - hawkins
+  - name: "Academic Radiology: One Size Doesn't Fit All"
+    datetime: 2026-04-02T09:15:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - birnbaum
+  - name: "Academics vs Private Practice"
+    datetime: 2026-04-02T10:15:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - hawkins
+  - name: "Building Case Stacks"
+    datetime: 2026-04-02T11:15:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - hiatt
+  - name: "Lunch (with mentors)"
+    datetime: 2026-04-02T12:00:00-04:00
+    location: Donner 2 Conference Room
+  - name: "Career Talk"
+    datetime: 2026-04-02T13:00:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - gade
+  - name: "Solo Teleradiology: A Journey to Optimize Quality of Life and Longevity"
+    datetime: 2026-04-02T14:15:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - bennett
+  - name: "Using {Social} Media to Educate & Find Passion Outside the Reading Room"
+    datetime: 2026-04-02T15:15:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - roth
+  - name: "Career Talk"
+    datetime: 2026-04-02T16:15:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - gerson
+
+- day: Friday, April 3, 2026
+  events:
+  - name: "Fellow Panel"
+    datetime: 2026-04-03T07:30:00-04:00
+    location: Donner-Grice Lecture Hall
+  - name: "R4 Panel"
+    datetime: 2026-04-03T08:15:00-04:00
+    location: Donner-Grice Lecture Hall
+  - name: "Academia to Industry"
+    datetime: 2026-04-03T09:15:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - pryma
+  - name: "First-Year Perspectives from Lancaster Radiology Associates"
+    datetime: 2026-04-03T10:15:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - adiletta
+  - name: "Academics to Privademics"
+    datetime: 2026-04-03T11:15:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - desai
+  - name: "Lunch w/ PP to Academics Transition Panel"
+    datetime: 2026-04-03T12:00:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - hassankhani
+      - eljack
+  - name: "Radiology's Role in Shaping the Next AI Revolution"
+    datetime: 2026-04-03T13:00:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - witschey
+  - name: "The Road Not Taken"
+    datetime: 2026-04-03T14:15:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - poff
+  - name: "The Kaiser Permanente Model"
+    datetime: 2026-04-03T15:15:00-04:00
+    location: Donner 2 Conference Room
+    speakers:
+      - goity
   - name: "Career Path"
-    datetime: 2026-02-03T14:45:00-05:00
-    location: PCAM 15 South Collaboration Center
-    speakers:
-      - harrison
-  - name: "Precision Learning is the Future of Radiology Education"
-    datetime: 2026-02-03T15:30:00-05:00
-    location: PCAM 15 South Collaboration Center
-    speakers:
-      - reid
-  - name: "Introduction to Tracks (BAIR and TEACH)"
-    datetime: 2026-02-03T16:15:00-05:00
-    location: PCAM 15 South Collaboration Center
-
-- day: Wednesday, February 4, 2026
-  events:
-  - name: "R1 Case Presentations"
-    datetime: 2026-02-04T07:30:00-05:00
-    location: Donner-Grice Lecture Hall
-  - name: "R1 Case Presentations"
-    datetime: 2026-02-04T08:15:00-05:00
-    location: Donner-Grice Lecture Hall
-  - name: "Introduction to QI"
-    datetime: 2026-02-04T09:05:00-05:00
+    datetime: 2026-04-03T16:15:00-04:00
     location: Donner 2 Conference Room
     speakers:
-      - zafar
-      - simmons
-      - pogozelski
-  - name: "Embedded Fourth Year Fellowship Pathway /Early career"
-    datetime: 2026-02-04T10:15:00-05:00
-    location: Donner 2 Conference Room
-    speakers:
-      - homza
-      - chahine
-      - whorms
-  - name: "Academic Panel"
-    datetime: 2026-02-04T11:15:00-05:00
-    location: Donner 2 Conference Room
-    speakers:
-      - jacob
-      - chaudhary
-      - nazarian_m
-  - name: Lunch with Academic Panel
-    datetime: 2026-02-04T12:00:00-05:00
-    location: Donner 2 Conference Room
-  - name: "Introduction to trainee activities and beyond: the early steps"
-    datetime: 2026-02-04T13:00:00-05:00
-    location: Donner 2 Conference Room
-    speakers:
-      - hathaway
-      - elahi
-      - hosseiny
-      - ataeinia      
-  - name: "VA Radiology: Myth vs Reality"
-    datetime: 2026-02-04T14:15:00-05:00
-    location: Donner 2 Conference Room
-    speakers:
-      - dinglasan
-  - name: "The Long Game: Physician Personal Finance in Service of a Well-Lived Life"
-    datetime: 2026-02-04T15:15:00-05:00
-    location: Donner 2 Conference Room
-    speakers:
-      - avey
-  - name: "Navigating academic careers in the modern era"
-    datetime: 2026-02-04T16:15:00-05:00
-    location: Donner 2 Conference Room
-    speakers:
-      - fried
-  - name: "🎳R1 Social at Lucky Strike🎳"
-    datetime: 2026-02-05T18:00:00-05:00
-    location: Lucky Strike (1336 Chestnut St, Philadelphia, PA 19107)
-
-- day: Thursday, February 5, 2026
-  events:
-  - name: "R1 Case Presentations"
-    datetime: 2026-02-05T07:30:00-05:00
-    location: Donner-Grice Lecture Hall
-  - name: "R1 Case Presentations"
-    datetime: 2026-02-05T08:15:00-05:00
-    location: Donner-Grice Lecture Hall
-  - name: "Navigating the Academic Landscape in an Era of Uncertainty"
-    datetime: 2026-02-05T09:15:00-05:00
-    location: Donner 2 Conference Room
-    speakers:
-      - mankoff
-  - name: "Radiology, AI and Your Future"
-    datetime: 2026-02-05T10:15:00-05:00
-    location: Donner 2 Conference Room
-    speakers:
-      - kahn
-  - name: "Carving a Research Niche"
-    datetime: 2026-02-05T11:15:00-05:00
-    location: Donner 2 Conference Room
-    speakers:
-      - sellmyer
-  - name: Lunch with intro to EDRC
-    datetime: 2026-02-05T12:00:00-05:00
-    location: Donner 2 Conference Room
-  - name: "Laboratory for Advanced Comuputed Tomography Imaging"
-    datetime: 2026-02-05T13:00:00-05:00
-    location: Donner 2 Conference Room
-    speakers:
-      - noel
-  - name: "Center for Practice Transformation"
-    datetime: 2026-02-05T13:20:00-05:00
-    location: Donner 2 Conference Room
-    speakers:
-      - cook
-  - name: "Penn PET Explorer"
-    datetime: 2026-02-05T13:40:00-05:00
-    location: Donner 2 Conference Room
-    speakers:
-      - pantel
-  - name: "From Resident to Attending: Building the Foundation for a Successful Radiology Career"
-    datetime: 2026-02-05T14:00:00-05:00
-    location: Donner 2 Conference Room
-    speakers:
-      - baer
-  - name: "Health Equity Leadership"
-    datetime: 2026-02-05T15:05:00-05:00
-    location: Donner 2 Conference Room
-    speakers:
-      - englander
-      - eljack      
-      - jha
-      - makhoul
-      - ordonez
-  - name: "Intro to Research at Penn Radiology"
-    datetime: 2026-02-05T16:15:00-05:00
-    location: Donner 2 Conference Room
-    speakers:
-      - ordonez
-- day: Friday, February 6, 2026
-  events:
-  - name: "First, Eat Your Frog"
-    datetime: 2026-02-06T07:30:00-05:00
-    location: Donner-Grice Lecture Hall
-    speakers:
-      - arleo
-  - name: "Understanding Bias in AI and its Application in Radiology"
-    datetime: 2026-02-06T08:15:00-05:00
-    location: Donner-Grice Lecture Hall
-    speakers:
-      - gichoya
-  - name: "Beyond the Image: Becoming a Physician-Scientist"
-    datetime: 2026-02-06T09:15:00-05:00
-    location: Donner 2 Conference Room
-    speakers:
-      - kundu
-  - name: "Networking"
-    datetime: 2026-02-06T10:15:00-05:00
-    location: Donner 2 Conference Room
-    speakers:
-      - rodgers
-  - name: "From Shadows to Spotlight: Social Media for the Future Academic Radiologist"
-    datetime: 2026-02-06T11:15:00-05:00
-    location: Donner 2 Conference Room
-    speakers:
-      - deng
-  - name: Lunch
-    datetime: 2026-02-06T12:00:00-05:00
-    location: Donner 2 Conference Room
-  - name: "Academic Radiologist: Job, Career, and Calling"
-    datetime: 2026-02-06T13:00:00-05:00
-    location: Donner 2 Conference Room
-    speakers:
-      - cha
-  - name: "Healthcare Leadership"
-    datetime: 2026-02-06T14:10:00-05:00
-    location: Donner 2 Conference Room
-    speakers:
-      - schnall
-  - name: "Introduction to Radiological Societies and Trainee Oppertunities/Reflection as Past President of ASNR"
-    datetime: 2026-02-06T15:15:00-05:00
-    location: Donner 2 Conference Room
-    speakers:
-      - loevner
-  - name: "Radiologist in Industry"
-    datetime: 2026-02-06T16:00:00-05:00
-    location: Donner 2 Conference Room
-    speakers:
-      - solomon
-  - name: Happy Hour 🥳🥳
-    datetime: 2026-02-06T18:00:00-05:00
-    location: Stranglove's (216 S 11th St, Philadelphia, PA 19107)
-
+      - scanlon
+  - name: "Program Social at The Lodge by Two Robbers"
+    datetime: 2026-04-03T18:00:00-04:00
+    location: The Lodge by Two Robbers (738 S 11th St, Philadelphia, PA 19147)
