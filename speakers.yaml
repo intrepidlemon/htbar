@@ -464,9 +464,6 @@ batlle:
 cox:
   sid: cox
   name: Chad Cox, MD
-  img: img/cox.jpg
-  bio: |
-    Chad Cox, MD is a radiologist.
 
 wang:
   sid: wang
@@ -557,9 +554,6 @@ roth:
 gerson:
   sid: gerson
   name: Rachel Gerson, MD
-  img: img/gerson.jpg
-  bio: |
-    Rachel Gerson, MD is a radiologist.
 
 pryma:
   sid: pryma
@@ -571,9 +565,6 @@ pryma:
 adiletta:
   sid: adiletta
   name: Antonio Adiletta, MD
-  img: img/adiletta.jpg
-  bio: |
-    Antonio Adiletta, MD is a radiologist.
 
 desai:
   sid: desai
@@ -626,23 +617,14 @@ strong:
 barinov:
   sid: barinov
   name: Barinov
-  img: img/barinov.jpg
-  bio: |
-    Speaker bio coming soon.
 
 dhanaliwala:
   sid: dhanaliwala
   name: Dhanaliwala
-  img: img/dhanaliwala.jpg
-  bio: |
-    Speaker bio coming soon.
 
 nasrallah:
   sid: nasrallah
   name: Nasrallah
-  img: img/nasrallah.jpg
-  bio: |
-    Speaker bio coming soon.
 
 allen:
   sid: allen

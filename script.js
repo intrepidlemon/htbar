@@ -58,8 +58,11 @@ const eventDatetime = datetime => {
 const eventSpeaker = ({
   sid,
   name,
+  bio,
 }) => sid
-  ? `<a class="event-speaker" href="#speaker-${sid}">${name}</a>`
+  ? bio
+    ? `<a class="event-speaker" href="#speaker-${sid}">${name}</a>`
+    : `<span class="event-speaker">${name}</span>`
   : ``
 
 const event = now => allSpeakers => ({
@@ -144,7 +147,7 @@ const highlightNow = (events, now) => {
 
 const renderSpeakers = speakers => {
   const contentDiv = document.getElementById('speakers')
-  contentDiv.innerHTML = Object.keys(speakers).toSorted().map(s => speaker(speakers[s])).join("")
+  contentDiv.innerHTML = Object.keys(speakers).toSorted().filter(s => speakers[s].bio).map(s => speaker(speakers[s])).join("")
 }
 
 const renderEvents = now => speakers => agenda => {
