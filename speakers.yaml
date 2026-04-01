@@ -452,7 +452,10 @@ joe:
   name: Winston Joe, MD
   img: img/joe.jpeg
   bio: |
-    Winston Joe, MD is a diagnostic radiologist at Radiology Imaging Associates in the Denver Metropolitan Area. Dr. Joe completed his post-graduate training in diagnostic radiology residency at the University of Pennsylvania, where he completed an embedded Breast Imaging Fellowship during his R4 year. Originally from Birmingham, Alabama, Winston completed his undergraduate studies at Stanford University before returning home to attend medical school at the University of Alabama at Birmingham (UAB). As a participant in the Health Equity Leadership Track and an associate scholar with the Penn Center for Global Health, Winston spent time working on projects in Botswana and Nepal with a focus on capacity building and point-of-care ultrasound outreach. In addition to his clinical work, he was also a Penn Imaging Informatics Fellow.
+    Dr. Joe is a breast radiologist in private practice in Denver, Colorado. After completing his diagnostic radiology residency at the University of Pennsylvania—which included an integrated breast imaging fellowship—he joined Radiology Imaging Associates, a large, physician-owned, fully subspecialized private practice group.
+    While at Penn, he also completed a fellowship in Clinical Imaging Informatics and was a member of the Penn Radiology Global Health/Health Equity Leadership Track. His clinical interests include breast cancer screening and diagnosis, image-guided procedures, management of benign high risk lesions, and emerging technologies.
+    Outside of work, he enjoys exploring all that Colorado has to offer outdoors and spending time with his wife, Meredith, and their two cats, Pluto and Moonie.
+    Dr. Joe looks forward to sharing his experience transitioning into private practice after an embedded fellowship, along with practical insights on day-to-day workflow, expectations, and early career growth.
 
 batlle:
   sid: batlle
@@ -464,6 +467,10 @@ batlle:
 cox:
   sid: cox
   name: Chad Cox, MD
+  img: img/cox.png
+  bio: |
+    Dr. Chad Cox is the Chief Executive Officer and Co-Founder of Coaxion Radiology. Dr. Cox brings a wealth of clinical expertise and visionary leadership to guide our continued growth and commitment to excellence in radiology. In addition to his extensive clinical training, Dr. Cox holds licensure in more than 25 states across the U.S., enabling him to support patient care and radiology services nationwide. His unique combination of medical expertise and leadership insight positions him to strengthen partnerships and advance the Coaxion mission of delivering high-quality radiology solutions.
+    Background and Education: Medical School: University of South Alabama, 2014. Residency: USF Morsani School of Medicine, 2015. Fellowship: Barrow Neurological Institute (Neuroradiology), 2020.
 
 wang:
   sid: wang
@@ -527,7 +534,7 @@ hiatt:
   name: Kevin Hiatt, MD
   img: img/hiatt.jpg
   bio: |
-    I grew up in North Carolina, went to Brigham Young University for undergrad, and then returned to North Carolina where I completed medical school, internship, radiology residency, and neuroradiology fellowship at Wake Forest School of Medicine. My wife and I have 4 kids, ages 6-11, and we spend a good chunk of our free time at soccer games and swim and gymnastics meets.
+    I grew up in North Carolina, went to Brigham Young University for undergrad, and then returned to North Carolina where I completed medical school, internship, radiology residency, and neuroradiology fellowship at Wake Forest School of Medicine. I then joined the academic neuroradiology section at Wake Forest, where I have now worked for almost 5 years. My wife and I have 4 kids, ages 7-13, and we spend a good chunk of our free time at their sporting events.
 
 gade:
   sid: gade
@@ -554,6 +561,9 @@ roth:
 gerson:
   sid: gerson
   name: Rachel Gerson, MD
+  img: img/gerson.png
+  bio: |
+    Rachel Gerson is a Seattle based radiologist who has worked in private practice for nearly 20 years. She has worked in a variety of practice settings including internationally. She holds a Global executive MBA and serves as an industry consultant in health innovation, clinical implementation and sustainable AI. She has served on the Council Steering Committee of the ACR, and is currently the Co-Chair of the ACR's Sustainability Committee. She is also the Vice President of the Washington State Radiological Society. She believes the future of radiology lies in thinking broadly about the radiologists role in health systems, and believes in taking a similar approach to one's career.
 
 pryma:
   sid: pryma
@@ -565,6 +575,9 @@ pryma:
 adiletta:
   sid: adiletta
   name: Antonio Adiletta, MD
+  img: img/adiletta.jpg
+  bio: |
+    Born in Vancouver Canada then moved to Lancaster PA when I was in high school due to my parent's pasta machine company. Went to Geisinger medical school where I met my wife who's a pediatrician. Have a 2-year-old son who was born during my 4th year of residency. Have another kid on the way due in June. Did my transitional year at Crozer-Chester. Residency at Penn with an integrated nuclear medicine fellowship. Did my PGY-6 fellowship in breast imaging at Penn. Started in Private Practice at Lancaster Radiology Associates in July 2025 For fun I like to play guitar and drums - I'm in an alternative rock band with my twin brother. I also like to collect watches.
 
 desai:
   sid: desai
@@ -620,11 +633,17 @@ barinov:
 
 dhanaliwala:
   sid: dhanaliwala
-  name: Dhanaliwala
+  name: Ali Dhanaliwala, MD, PhD
+  img: img/dhanaliwala.png
+  bio: |
+    Dr. Dhanaliwala is an Assistant Professor of Radiology at the University of Pennsylvania within the Abdominal Imaging division. He serves as medical director for the CT Center Research Core, assistant director of the Center for Practice Transformation and faculty member of the Penn Image Guided Interventions lab. His areas of research include medical extended reality, spectral CT, and advanced ultrasound imaging.
 
 nasrallah:
   sid: nasrallah
-  name: Nasrallah
+  name: Ilya Nasrallah, MD, PhD
+  img: img/nasrallah.jpg
+  bio: |
+    Dr. Ilya Nasrallah is an Associate Professor in the Department of Radiology at the University of Pennsylvania. He has dual board certification in both Nuclear Medicine and Radiology, with Neuroradiology subspecialization. Dr. Nasrallah completed fellowship training in Nuclear Medicine and Neuroradiology at the University of Pennsylvania. His primary clinical interests are PET and MRI imaging of the brain in aging and neurodegenerative disease. Dr. Nasrallah's research focuses on the use of quantitative MRI and PET biomarkers and machine learning to understand aging, cerebrovascular disease, and neurodegeneration, including early human translation of novel PET imaging radiopharmaceuticals.
 
 allen:
   sid: allen
@@ -632,3 +651,45 @@ allen:
   img: img/allen.jpg
   bio: |
     Jason W. Allen, MD, PhD, FACR is the Eugene C. Klatte Professor with tenure and Chair of the Department of Radiology and Imaging Sciences at the Indiana University School of Medicine. Dr. Allen obtained his MD and PhD in Neuroscience from Georgetown University School of Medicine and completed residencies in Neurology and Diagnostic Radiology as well as a two-year Neuroradiology fellowship at New York University School of Medicine. He previously was a partner at TRA Medical Imaging in Washington as well as a prior Professor at Emory University School of Medicine where he had several leadership roles, including the Neuroradiology Division Director, Medical Director of the Emory Center for Systems Imaging Core (CSIC), and Director of the Laboratory for Imaging Neuroscience at Emory (LINE). His primary research interests are characterizing the alterations in advanced neuroimaging metrics in the setting of neuronal injury, including stroke, traumatic brain injury, and neurodegenerative disorders, as well as the diagnosis and prognosis of cerebrovascular disease, such as subarachnoid hemorrhage, cerebrovascular reserve, and internal carotid webs. His laboratory is funded through several federal, private foundation, and institutional grants. He is also active in national organizations, particularly the American Society of Functional Neuroradiology (ASFNR) and the American Society of Neuroradiology (ASNR).
+
+zhang:
+  sid: zhang
+  name: Becky Zhang, MD
+  img: img/zhang.jpg
+  bio: |
+    Becky is a PGY-5 diagnostic radiology resident at Penn and is spending the year as an embedded breast imaging fellow. She will be staying at Penn for an abdominal imaging fellowship next year. In her free time, she enjoys staying active, exploring restaurants in Philly, and trying to convince her two cats to like each other.
+
+berg:
+  sid: berg
+  name: Sarah Berg, MD
+  img: img/berg.jpg
+  bio: |
+    Sarah is a PGY-5 diagnostic radiology resident at Penn and is completing the integrated nuclear medicine fellowship this year. This summer, she will be moving just across the street to CHOP to complete her training in pediatric radiology. Sarah can often be seen drinking Starbucks and making to-do-lists.
+
+ward:
+  sid: ward
+  name: Rebecca Ward, MD
+
+wasserman:
+  sid: wasserman
+  name: Noah Wasserman, MD
+
+basunia:
+  sid: basunia
+  name: Azfar Basunia, MD
+
+davies:
+  sid: davies
+  name: Davies
+
+samoyedny:
+  sid: samoyedny
+  name: Samoyedny
+
+seyferth:
+  sid: seyferth
+  name: Seyferth
+
+farazmand:
+  sid: farazmand
+  name: Farazmand
