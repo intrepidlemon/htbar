@@ -406,7 +406,7 @@ wood:
 dam:
   sid: dam
   name: Vincent Dam, MD
-  img: img/dam.jpg
+  img: img/dam.jpeg
   bio: |
     Vincent Dam, MD, is a partner at Mecklenburg Radiology Associates in Charlotte, NC. He is a member of the Board of Directors and also serves on the recruitment committee. Dr. Dam is an alumnus of the University of Pennsylvania, where he completed his radiology residency in 2014, served as Chief Resident, and became the first graduate of the 16-month integrated Nuclear Radiology pathway. He remained at Penn for a two-year Neuroradiology Fellowship, and also served as Chief Fellow for both his Nuclear Medicine and Neuroradiology programs. Today, he maintains a dual-subspecialty practice in neuroradiology and nuclear radiology while providing strategic leadership for North Carolina's oldest independent private practice.
 
@@ -450,7 +450,7 @@ steyer:
 joe:
   sid: joe
   name: Winston Joe, MD
-  img: img/joe.jpeg
+  img: img/joe.jpg
   bio: |
     Dr. Joe is a breast radiologist in private practice in Denver, Colorado. After completing his diagnostic radiology residency at the University of Pennsylvania—which included an integrated breast imaging fellowship—he joined Radiology Imaging Associates, a large, physician-owned, fully subspecialized private practice group.
     While at Penn, he also completed a fellowship in Clinical Imaging Informatics and was a member of the Penn Radiology Global Health/Health Equity Leadership Track. His clinical interests include breast cancer screening and diagnosis, image-guided procedures, management of benign high risk lesions, and emerging technologies.
